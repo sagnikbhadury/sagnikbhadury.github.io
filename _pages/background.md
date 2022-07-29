@@ -18,7 +18,7 @@ redirect_from:
 
 * I completed _B.Sc. (Bachelor of Science)_ in _Statistics_ from <span style ="color:blue">[St. Xavier's College, Kolkata, India](http://www.sxccal.edu/)</span> in 2013. 
 
-* I attended the <span style ="color:blue">[Department of Statistics, University of Calcutta](https://www.caluniv.ac.in/academic/Statistics.html)</span>. for Master of Science (M.Sc.) in Statistics in 2015. 
+* I attended the <span style ="color:blue">[Department of Statistics, University of Calcutta](https://www.caluniv.ac.in/academic/Statistics.html)</span> for _M.Sc. (Master of Science)_ in _Statistics_ and graduated in 2015. 
 
 * I joined the <span style ="color:blue">[Indian Statistical Insititute](https://www.isical.ac.in/)</span> as a Statistical Trainee, from Fall 2015 - Spring 2016. 
 
