@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vishal Midya"
+title                    : "Sagnik Bhadury"
 title_separator          : "-"
-name                     : &name ""
-description              : &description "Post Doctoral Fellow in Environmental Epidemiology at Mount Sinai"
-url                      : https://vishalmidya.github.io/academicpages/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Sagnik Bhadury"
+description              : &description "PhD Student, Graduate School Fellow"
+url                      : https://sagnikbhadury.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               : "sagnikbhadury"
 facebook:
   username               :
   app_id                 :
@@ -75,19 +75,19 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-156449745-1
+    tracking_id          : 
 
 
 # Site Author
 author:
-  name             : "Vishal Midya"
-  avatar           : "profile.jpeg"
-  bio              : "Post Doctoral Fellow in Environmental Epidemiology" 
-  location         : "Manhattan, NY"
-  employer         : "Icahn School of Medicine, Mount Sinai"
-  googlescholar    : "https://scholar.google.co.in/citations?user=VPKh0hMAAAAJ&hl=en"
-  email            : "vishal.midya@mssm.edu"
-  kaggle           : "vishalmidya1"
+  name             : "Sagnik Bhadury"
+  avatar           : "PORTRAIT.jpg"
+  bio              : "Graduate School Fellow" 
+  location         : "Louisville, KY"
+  employer         : "University of Louisville"
+  googlescholar    : #"https://scholar.google.co.in/citations?user=SAGNIK"
+  email            : "sagnik.bhadury@louisville.edu"
+  kaggle           : 
   uri              :
   bitbucket        :
   codepen          :
@@ -95,19 +95,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "vishalmidya"
+  github           : "sagnikbhadury"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "adwoito_skb"
   lastfm           :
-  linkedin         : 
+  linkedin         : "https://www.linkedin.com/in/sagnik-k-bhadury/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "sagnikbhadury"
   vine             :
   weibo            :
   xing             :
@@ -127,22 +127,23 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
   - CHANGELOG
-  - config
+  - Capfile
   - Gemfile
   - Gruntfile.js
-  - gulpfile.js
   - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
   - log
   - node_modules
   - package.json
-  - Rakefile
-  - README
   - tmp
+  - vendor
 keep_files:
   - .git
   - .svn
@@ -267,7 +268,7 @@ timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_ti
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
