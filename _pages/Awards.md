@@ -13,7 +13,7 @@ redirect_from:
 
 * <span style="text-align: justify">  <span style ="color:purple"> [Graduate Dissertation Completion Award](https://louisville.edu/graduate/current-students/dissertation-completion-award-nomination-form)</span> </span>, Graduate School, University of Louisville, Fall 2022.
 
-* <span style="text-align: justify">  <span style ="color:purple"> Induction to [Mu Sigma Rho](https://www.stat.purdue.edu/msr/)</span> </span> as a Graduate Student, The National Statistics Honorary Society.
+* <span style="text-align: justify">  Induction to <span style ="color:purple"> [Mu Sigma Rho](https://www.stat.purdue.edu/msr/)</span> </span> as a Graduate Student, The National Statistics Honorary Society.
 
 * <span style="text-align: justify">  Best Bayesian Student Presentation Award, <span style ="color:purple"> [American Statistical Association - KY Chapter Meeting](https://community.amstat.org/kentucky/home) </span>, April 2021.
 
