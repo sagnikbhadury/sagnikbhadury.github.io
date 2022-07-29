@@ -14,11 +14,11 @@ redirect_from:
 
 # TIMELINE
 
-* I am fortunate to have attended the <span style ="color:blue">[Hindu School](https://en.wikipedia.org/wiki/Hindu_School,_Kolkata)</span> (which played a pivotal role during <span style ="color:blue">[The Bengal Renaissance](https://en.wikipedia.org/wiki/Bengali_Renaissance)</span>, one of the oldest schools in the Asia, has been called the Eaton of the East) in <span style ="color:blue">[The College Street](https://en.wikipedia.org/wiki/College_Street_(Kolkata))</span>  for the 12 years of my school life. 
+* I am fortunate to have attended the <span style ="color:blue">[Hindu School](https://en.wikipedia.org/wiki/Hindu_School,_Kolkata)</span> (which played a pivotal role during <span style ="color:blue">[The Bengal Renaissance](https://en.wikipedia.org/wiki/Bengali_Renaissance)</span>, one of the oldest schools in the Asia, has been called the Eaton of the East) in <span style ="color:blue">[The College Street](https://en.wikipedia.org/wiki/College_Street_(Kolkata))</span>  for the 12 years (1998-2010) of my school life. 
 
-* I completed _B.Sc. (Bachelor of Science)_ in _Statistics_ from <span style ="color:blue">[St. Xavier's College, Kolkata, India](http://www.sxccal.edu/)</span>. 
+* I completed _B.Sc. (Bachelor of Science)_ in _Statistics_ from <span style ="color:blue">[St. Xavier's College, Kolkata, India](http://www.sxccal.edu/)</span> in 2013. 
 
-* I attended the <span style ="color:blue">[Department of Statistics, University of Calcutta](https://www.caluniv.ac.in/academic/Statistics.html)</span>. for Master of Science (M.Sc.) in Statistics. 
+* I attended the <span style ="color:blue">[Department of Statistics, University of Calcutta](https://www.caluniv.ac.in/academic/Statistics.html)</span>. for Master of Science (M.Sc.) in Statistics in 2015. 
 
 * I joined the <span style ="color:blue">[Indian Statistical Insititute](https://www.isical.ac.in/)</span> as a Statistical Trainee, from Fall 2015 - Spring 2016. 
 
