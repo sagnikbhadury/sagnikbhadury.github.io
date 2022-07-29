@@ -43,7 +43,7 @@ redirect_from:
 
 ---
 
-* <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span>, Mitra R., Gaskins J., Bayesian Methods For Gaussian Graphical Models With Neighborhood Selection with an applications of High-dimensional Triple Negative Breast Cancer Data </span>
+* <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span>, Mitra R., Gaskins J., Bayesian Methods For Gaussian Graphical Models With Neighborhood Selection with an application of High-dimensional Triple Negative Breast Cancer Data </span>
 
 * <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span>  Mitra R., Gaskins J., A Bayesian Method For Multiple Graphs </span>
 
