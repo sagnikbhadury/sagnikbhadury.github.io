@@ -11,19 +11,15 @@ redirect_from:
 
 ---
 
-* <span style="text-align: justify">  <span style ="color:purple"> 2022 Lilienfeld Postdoctoral Prize Paper Award Finalist </span>, Society for Epidemiologic Research </span>
+* <span style="text-align: justify">  <span style ="color:purple"> [Graduate Dissertation Completion Award](https://louisville.edu/graduate/current-students/dissertation-completion-award-nomination-form)</span> </span>, Graduate School, University of Louisville, Fall 2022.
 
-* <span style="text-align: justify">  <span style ="color:purple">[Graduate Alumni Society Award - 2019 & 2018](https://pennstatehealthnews.org/topics/retreat-provides-networking-opportunity-for-graduate-students-faculty/?utm_source=email&utm_campaign=Retreat)</span>, Penn State College of Medicine, Pennsylvania State University </span>
+* <span style="text-align: justify">  <span style ="color:purple"> Induction to [Mu Sigma Rho](https://www.stat.purdue.edu/msr/)</span> </span> as a Graduate Student, The National Statistics Honorary Society.
 
-* <span style="text-align: justify"> Ranked **3rd** worldwide (among 87 teams, top 4%) in <span style ="color:purple">[Kaggle BigData Cup Challenge 2019: Solar Flare Prediction](https://www.kaggle.com/c/bigdata2019-flare-prediction/discussion/107189#latest-616257)</span> (with [Daniel McGuire](https://www.linkedin.com/in/daniel-mcguire-0083099b/) and [Renan sauteraud](http://srenan.github.io/web/)) </span>
+* <span style="text-align: justify">  Best Bayesian Student Presentation Award, <span style ="color:purple"> [American Statistical Association - KY Chapter Meeting](https://community.amstat.org/kentucky/home) </span>, April 2021.
 
-* <span style="text-align: justify"> Indian Academy of Sciences (IASc) - Indian National Science Academy (INSA) - The National Academy of Sciences (NASI) <span style ="color:purple"> [Summer Research Fellowship in Mathematics at National Brain Research Centre](http://www.nbrc.ac.in/newweb/research/groups/nandini-chatterjee-singh)</span>, 2014 </span>
+* <span style="text-align: justify">  <span style ="color:purple">[Graduate Research Assistantship](https://louisville.edu/graduate/faculty-staff/policies-and-procedures/policy-on-graduate-assistantships)</span>, Fall 2018 - Summer 2022, School of Public Health, University of Louisville.
 
-* <span style="text-align: justify"> <span style ="color:purple">[Kishore Vaigyanik Protsahan Yojana (KVPY) Fellowship](http://www.kvpy.iisc.ernet.in/main/index.htm)</span> by Indian Institute of Sciences and Department of Science and Technology, Government of India, 2011 - 2016 </span>
-
-* <span style="text-align: justify"> Best Paper Award in Mathematics, <span style ="color:purple">  19th West Bengal Science and Technology Congress </span>, Saha Institute of Nuclear Physics, Kolkata, India, 2012 </span>
-
-* <span style="text-align: justify"> Best of Subject Category Award in Mathematics at <span style ="color:purple">  Intel-IRIS National Science Fair </span> , India, 2009 </span>
+* <span style="text-align: justify">  <span style ="color:purple">  [DST INSPIRE Scholarship](https://online-inspire.gov.in/) </span> by Department of Science and Technology, Government of India, 2010.
 
 ---
 

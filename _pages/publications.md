@@ -9,49 +9,22 @@ redirect_from:
 
 --- 
 
-* <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span> Vishal Midya, Elena Colicino, David V. Conti et al., <span style ="color:purple"> [Association of Prenatal Exposure to Endocrine-Disrupting Chemicals With Liver Injury in Children](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2793915)</span>, **JAMA Network Open**, July 2022 </span>
 
-* <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span> and J.G. Liao, <span style ="color:purple"> [Systematic Bias in Mean of Log Bayes Factor: Implication and Application](https://www.tandfonline.com/doi/full/10.1080/03610926.2021.1970768)</span>, **Communications in Statistics - Theory and Methods**, August 2021 </span>
 
-*  <span style="text-align: justify"> Andréa L. Hobkirk, <span style ="color:red">Vishal Midya</span>, Nicolle M. Krebs et al.,  <span style ="color:purple"> [Characterizing nicotine exposure among a community sample of non-daily smokers in the United States](https://doi.org/10.1186/s12889-021-11052-9)</span>, **BMC Public Health**, May 2021 </span>
 
-* <span style="text-align: justify"> Pritish Mondal, <span style ="color:red">Vishal Midya</span>, Arshjot Khokhar et al.,  <span style ="color:purple"> [Predictors of Diffusing Capacity in Children With Sickle Cell Disease: A Longitudinal Study](https://doi.org/10.3389/fped.2021.678174)</span>, **Frontiers in Pediatrics - Pediatric Pulmonology**, May 2021 </span>
+* <span style="text-align: justify"> Jackson, C.N., Duncan, S.D., Creel, L.M., Feygin, Y., <span style ="color:blue">Bhadury, S.</span> et al., <span style ="color:olive"> [Using Queuing Theory to Determine Optimal Obstetrical Bed Numbers](https://academyhealth.confex.com/academyhealth/2022arm/meetingapp.cgi/Paper/53422)</span>, Accepted in Conference **Pediatric Academic Societies 2022 & Academy Health Annual Research Meeting 2022** </span>
 
-* <span style="text-align: justify"> Kate R Pawloski, Betty Kolod, Rabeea F Khan, <span style ="color:red">Vishal Midya</span> et al., <span style ="color:purple"> [Factors Associated with SARS-CoV-2 Infection in Physician Trainees in New York City during the First COVID-19 Wave](https://www.mdpi.com/1660-4601/18/10/5274)</span>, **International Journal of Environmental Research and Public Health**, May 2021 </span>
-
-*  <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span> <span style ="color:purple"> [A Novel LASSO type Bayesian Weighted Quantile Sum Regression for highly correlated multi-group mixture analysis: current context, importance and future directions](https://policycommons.net/artifacts/2016311/a-novel-lasso-type-bayesian-weighted-quantile-sum-regression-for-highly-correlated-multi-group-mixture-analysis/2768754/)</span>, **ISGlobal: Instituto de Salud Global de Barcelona**, April 2021 </span>
-
+*  <span style="text-align: justify"> Duncan, S.D., Creel, L.M., <span style ="color:blue">Bhadury, S.</span> et al., <span style ="color:olive"> [Using Queuing Theory to Determine Optimal NICU Bed Numbers](https://academyhealth.confex.com/academyhealth/2022arm/meetingapp.cgi/Paper/53170)</span>, Accepted in Conference **Pediatric Academic Societies 2022 & Academy Health Annual Research Meeting 2022** </span>
   
-* <span style="text-align: justify"> Chaitra Rao, T. A. Sumathi, Rashi Midha et al., <span style ="color:purple"> [Development and Standardization of the DALI-iLAB (Dyslexia Assessment for Languages of India – Language Assessment Battery](https://link.springer.com/article/10.1007/s11881-021-00227-z)</span>, **Annals of Dyslexia**, April 2021 </span>
+* <span style="text-align: justify"> Duncan, S.D.,Feygin, Y., <span style ="color:blue">Bhadury, S.</span> et al.,  <span style ="color:olive"> [Declining Access to Obstetrical Beds in Rural Kentucky](https://academyhealth.confex.com/academyhealth/2022arm/meetingapp.cgi/Paper/53463)</span>, Accepted in Conference **Pediatric Academic Societies 2022 & Academy Health Annual Research Meeting 2022** </span>
 
-* <span style="text-align: justify"> Brian Vells, <span style ="color:red">Vishal Midya</span> , Amit Prasad <span style ="color:purple"> [Experiences of Burnout Among Nurse Anesthetists](https://ojin.nursingworld.org/MainMenuCategories/ANAMarketplace/ANAPeriodicals/OJIN/TableofContents/Vol-26-2021/No2-May-2021/Articles-Previous-Topics/Burnout-Among-Nurse-Anesthetists.html)</span>, **OJIN: The Online Journal of Issues in Nursing**, April 2021 </span>
+* <span style="text-align: justify"> Scott, M., Metcalf, C., <span style ="color:blue">Bhadury, S.</span>, et al., <span style ="color:olive"> [Impact of COVID-19 Pandemic Healthcare Restrictions on Utilization and Diagnostic Yield of Outpatient Transthoracic Echocardiograms](https://publications.aap.org/pediatrics/article/149/1/338/185976)</span>, Accepted in Conference **American Academy of Pediatrics Annual Meeting 2022** </span>
 
-*  <span style="text-align: justify"> Sailendra N Nichenametla, Dwight AL Mattocks, <span style ="color:red">Vishal Midya</span> et al., <span style ="color:purple"> [Differential effects of sulfur amino acid-restricted and low-calorie diets on gut microbial profile and bile acid composition in male C57BL6/J mice](https://academic.oup.com/biomedgerontology/advance-article/doi/10.1093/gerona/glaa270/5940738) </span>, **Journal of Gerontology: Biological Sciences**, November 2020 </span> 
+*  <span style="text-align: justify"> Green, J.V., Bryant, K.A., Boland, L.F., Stout, G.G., Junkins, A.D., Stahl, J.A., Feygin, Y., <span style ="color:blue">Bhadury, S.</span>, Espinosa, C.,  <span style ="color:olive"> [Increased NICU mupirocin use drives MRSA mupirocin resistance but not transmission or invasive infection](https://virtual2021.pas-meeting.org/fsPopup.asp?efp=WldIRlFRV1gxNDAzOA&PosterID=365942&rnd=0.5142702&mode=posterinfo)</span>, **Poster at Annual Meeting of Pediatric Academic Societies 2021 - E-PAS2021:4909-HP-QA.478** </span>
 
-* <span style="text-align: justify"> Kishore Punnath; Kiran K. Dayanand; <span style ="color:red">Vishal Midya</span> et al., <span style ="color:purple"> [Acquired antibody responses against merozoite surface protein-119 antigen during Plasmodium falciparum and P.vivax infections in South Indian city of Mangaluru](https://link.springer.com/article/10.1007%2Fs12639-020-01288-4) </span>, **Journal of Parasitic Diseases**, October 2020 </span>
+* <span style="text-align: justify"> May, M.E. , <span style ="color:blue">Bhadury, S.</span>, Gaskins, J., Dunlap, N.E. <span style ="color:olive"> [Comparison of Outcomes and Pulmonary Toxicity of Motion Management Methods in Stereotactic Body Radiation Therapy for the Treatment of Early Stage Non-Small Cell Lung Cancer](https://www.sciencedirect.com/science/article/pii/S0360301619321960)</span>, **Proceedings of the 61st Annual Meeting of the American Society for Radiation Oncology 2019** </span>
 
-* <span style="text-align: justify"> Darya S. Nesterova, <span style ="color:red">Vishal Midya</span>, Brad E. Zacharia et al, <span style ="color:purple"> [Sexually Dimorphic Impact of the Homeostatic Iron Regulatory gene, _HFE_, on survival in Glioblastoma](https://academic.oup.com/noa/advance-article/doi/10.1093/noajnl/vdaa001/5696853)</span>, **Neuro-Oncology Advances**, January 2020 </span>
-
-* <span style="text-align: justify"> J.G.Liao, <span style ="color:red">Vishal Midya</span> , Arthur Berg,<span style ="color:purple"> [Connecting and contrasting the Bayes factor and a modified ROPE procedure for testing interval null hypotheses](https://doi.org/10.1080/00031305.2019.1701550)</span>,**The American Statistician**, January 2020 </span>
-
-* <span style="text-align: justify"> Dan McGuire^, Renan Sauteraud^, <span style ="color:red">Vishal Midya</span>^, <span style ="color:purple"> [Window Based Feature Extraction Method using XGBoost for Time Series Classification of Solar Flares](https://ieeexplore.ieee.org/document/9006212)</span>,  **Proceedings of 2019 IEEE International Conference on Big Data**, December 2019, ^_Equal contribution_</span>
-
-* <span style="text-align: justify"> <span style ="color:purple">[Clinical features and haematological parameters among malaria patients in Mangaluru city area in the southwestern coastal region of India](https://doi.org/10.1007/s00436-019-06540-2)</span>, **Parasitology Research**, November 2019 </span>
-
-* <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span>^, Jeffrey Valla^, Hymavathy Balasubramanian et al, <span style ="color:purple"> [Cultural differences in the use of acoustic cues for musical emotion experience](https://doi.org/10.1371/journal.pone.0222380)</span>, **PLoS ONE**, September 2019 ^_Equal contribution_</span>
-
-* <span style="text-align: justify"> Pritish Mondal, Alison Yirinec, <span style ="color:red">Vishal Midya</span> et al.,<span style ="color:purple"> [Diagnostic value of spirometry vs. impulse oscillometry: A comparative study in children with sickle cell disease](https://onlinelibrary.wiley.com/doi/abs/10.1002/ppul.24382)</span>, **Pediatric Pulmonology**, June 2019. </span>
-
-* <span style="text-align: justify"> Arshjot Khokar, Athira Nair, <span style ="color:red">Vishal Midya</span> et al,<span style ="color:purple"> [The Association between Pulmonary Function and Left Ventricular Volume and Function in Duchenne Muscular Dystrophy](https://doi.org/10.1002/mus.26623)</span>, **Muscle and Nerve**, June 2019 </span>
-
-
-* <span style="text-align: justify"> Susan Veldheer, Jessica Yingst, <span style ="color:red">Vishal Midya</span> et al.,<span style ="color:purple"> [Pulmonary and Other Health Effects of Electronic Cigarette Use Among Adult Smokers Participating in a Randomized Controlled Smoking Reduction Trial](https://doi.org/10.1016/j.addbeh.2018.10.041)</span>, **Addictive Behaviours**, April 2019 </span>
-
-* <span style="text-align: justify"> Shari Hrabovsky, <span style ="color:red">Vishal Midya</span>, Courtney Lester et al.,<span style ="color:purple"> [The Effect of Usual Brand Cigarette Rod Length on Exposure Levels and Favorability Ratings among Smokers Switching to Normal Nicotine Content SPECTRUM Cigarettes](https://doi.org/10.5993/AJHB.43.2.14)</span>, **American Journal of Health Behaviour**, March 2019 </span>
-
-* <span style="text-align: justify"> <span style ="color:red">Vishal Midya</span>, Sekhar Pal, Ankita Sinharoy, et al.,<span style ="color:purple"> [The Association Between Female Smoking and Childhood Asthma Prevalence–A Study Based on Aggregative Data](https://doi.org/10.3389/fpubh.2018.00295)</span>, **Frontiers in Public Health**, October 2018 </span>
-
-* <span style="text-align: justify"> Susan Veldheer, <span style ="color:red">Vishal Midya</span>, Courtney Lester et al.,<span style ="color:purple"> [Acceptability of Switching from Usual Brand to SPECTRUM Research Cigarettes with Usual Nicotine Content](https://doi.org/10.18001/TRS.4.1.4)</span>, **Tobacco Regulatory Science**, January 2018 </span>
+* <span style="text-align: justify">  May, M.E. , <span style ="color:blue">Bhadury, S.</span>, Gaskins, J., Dunlap, N.E. <span style ="color:olive"> [Assessing the Relationship of Background Lung Density on Outcome and Toxicity after Stereotactic Body Radiation Therapy](https://www.sciencedirect.com/science/article/pii/S0360301619300768)</span>, **Proceedings of the 61st Annual Meeting of the American Society for Radiation Oncology 2019** </span>
 
 
 
@@ -59,13 +32,10 @@ redirect_from:
 
 --- 
 
-* <span style="text-align: justify"> Mediators of the association between maternal body mass index and breastfeeding duration in three international cohorts  </span>
+* <span style="text-align: justify"> Recurrent antibiotic use in Kentucky children with 6 years continuous Medicaid enrollment: Article: <span style ="color:blue">Journal of the Pediatric Infectious Diseases Society</span> </span>
 
-* <span style="text-align: justify"> State-of-the-Art Methods for Exposure-Health Studies: results from the Exposome Data Challenge Event </span>
+* <span style="text-align: justify"> Impact of COVID-19 Pandemic Healthcare Restrictions on Utilization and Diagnostic Yield of Outpatient Transthoracic Echocardiograms: Article: <span style ="color:blue">Cardiology in the Young</span> </span>
 
-* <span style="text-align: justify"> Quantifying the Effect Size of Exposure-Outcome Association Using δ-score: Application to Environmental Chemical Mixture studies </span>
-
-* <span style="text-align: justify"> Cysteine Restriction-Specific Effects of Sulfur Amino Acid Restriction on Lipid Metabolism </span>
 
 ---
 
@@ -73,17 +43,14 @@ redirect_from:
 
 ---
 
-* <span style="text-align: justify"> Exposure to perfluoroalkyl substances, incident Type 2 Diabetes risk and associated metabolic pathway dysregulation in a multiethnic population </span>
+* <span style="text-align: justify"> <span style ="color:blue">Bhadury, S.</span>, Mitra R., Gaskins J., Bayesian Methods For Gaussian Graphical Models With Neighborhood Selection with an applications of High-dimensional Triple Negative Breast Cancer Data </span>
 
-* <span style="text-align: justify"> Detecting Synergistic Multi ordered Explanatory Interactions (Moxies) in Mixtures of Environmental Chemicals </span>
+* <span style="text-align: justify"> <span style ="color:blue">Bhadury, S.</span>  Mitra R., Gaskins J., A Bayesian Method For Multiple Graphs </span>
 
----
+* <span style="text-align: justify"> Duncan, S.D., Creel, L.M., <span style ="color:blue">Bhadury, S.</span> et al., Longitudinal Analysis of NICU and Using Queuing Theory to Determine Optimal NICU Beds for the Hospitals of Kentucky </span>
 
-# Technical Report 
+* <span style="text-align: justify"> Duncan, S.D., Creel, L.M., <span style ="color:blue">Bhadury, S.</span> et al., Determining Optimal Beds for the Hospitals of Kentucky </span>
 
----
-
-* <span style="text-align: justify"> Chaitra Rao, Rashi Midha, <span style ="color:red">Vishal Midya</span> et al.,<span style ="color:purple"> [Dyslexia Assessment for Languages of India (DALI) & Screening Tool for Teachers and Assessment Tools for Psychologists](http://14.139.62.11/DALI/index.php)</span>. **National Brain Research Centre and Department of Science and Technology, India**, October 2015 </span>
 
 ---
 

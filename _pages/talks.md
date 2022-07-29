@@ -11,24 +11,18 @@ redirect_from:
 
 ---
 
-* <span style ="color:purple"> [Workshop on Solar and Stellar Astronomy Big Data - IEEE Big Data](https://grid.cs.gsu.edu/rangryk/workshops/SABID19/default.html)</span> (with Daniel McGuire & Renan sauteraud), *December 2019*
-* Biostatistics Student Seminar, Penn State College of Medicine (with Daniel McGuire & Renan sauteraud), *September 2019*
-* Pediatric Grand Rounds, Penn State Health Children’s Hospital, Hershey, *October 2018*
+* _e-ConSus 2021_ : International Conference on Revisiting Strategies for Sustainable Development: Kazi Nazrul University, WB, India; **Bayesian Methods for Analyzing Gene Expression profiles of Breast Cancer Patients**; *December 2021*
+* Lecture Series on Mathematics and Data Science, Department of Mathematics, Raidighi College, affiliated with University of Calcutta, **Data visualization and prediction using R**; *October 2020*
+* <span style ="color:purple"> [Biostatistics Student Seminar](https://louisville.edu/sphis/departments/bioinformatics-biostatistics/research/seminar/2021-11-12)</span> ,_Department of Bioinformatics and Biostatistics_,  University of Louisville, KY, USA , **Bayesian methodology for Graphical Models with Neighborhood Regressions**; *November 2021*
 
 ---
 
 # Contributed Talks
 
 ---
-* Exposome Symposium on **Exposomics COVID-19 and Health Disparities**; Exposome Data Challenge Event; 33rd Annual Conference of the International Society for Environmental Epidemiology, *2021*
-* United States Conference on Teaching Statistics, State College, *2019*
-* Pediatric Grand Rounds, Penn State Health Children’s Hospital, Hershey, *2018*
-* Annual Meeting of Society For Research On Nicotine and Tobacco, Baltimore, *2018*
-* Joint Statistical Meeting, Baltimore, *2017*
-* The 14<sup>th</sup> International Conference on Music Perception and Cognition, San Francisco, *2016*
-* European Meeting of Statisticians, Vrije Universiteit, Amsterdam, *2015*
-* Ninth International Triennial Calcutta Symposium on Probability & Statistics, University of Calcutta, India, *2015*
-* 7<sup>th</sup> International Conference of IMBIC on Mathematical Sciences for Advancement of Science and Technology, Kolkata, *2013*
-* International Conference On Frontiers of Mathematical Sciences with Applications, Calcutta Mathematical Society, *2012*
+
+* _Kentucky Chapter Meeting of American Statistical Association_; **Fast Bayesian Estimation for Gaussian Graphical Models through Parallel Regressions**, at University of Kentucky, KY, USA, *2022*. 
+* _Kentucky Chapter Meeting of American Statistical Association_; **Sparse Graph Estimation in Higher Dimensions with Neighborhood Regressions**, at University of Louisville, KY, USA, *2021*. (Won Best Presentation Award)
+
 
 ---
