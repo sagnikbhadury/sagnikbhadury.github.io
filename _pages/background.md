@@ -16,12 +16,12 @@ redirect_from:
 
 * I am fortunate to have attended the <span style ="color:blue">[Hindu School](https://en.wikipedia.org/wiki/Hindu_School,_Kolkata)</span> (which played a pivotal role during <span style ="color:blue">[The Bengal Renaissance](https://en.wikipedia.org/wiki/Bengali_Renaissance)</span>, one of the oldest schools in the Asia, has been called the Eaton of the East) in <span style ="color:blue">[The College Street](https://en.wikipedia.org/wiki/College_Street_(Kolkata))</span>  for the 12 years (1998-2010) of my school life. 
 
-* I completed _B.Sc. (Bachelor of Science)_ in _Statistics_ from <span style ="color:blue">[St. Xavier's College, Kolkata, India](http://www.sxccal.edu/)</span> in 2013. 
+* I completed _B.Sc. (Bachelor of Science)_ in _Statistics_ from <span style ="color:blue">[St. Xavier's College Kolkata, Autonomous under University of Calcutta; Kolkata, WB, India](http://www.sxccal.edu/)</span> in 2013. 
 
-* I attended the <span style ="color:blue">[Department of Statistics, University of Calcutta](https://www.caluniv.ac.in/academic/Statistics.html)</span> for _M.Sc. (Master of Science)_ in _Statistics_ and graduated in 2015. 
+* I attended the <span style ="color:blue">[Department of Statistics, University of Calcutta; Kolkata, WB, India](https://www.caluniv.ac.in/academic/Statistics.html)</span> for _M.Sc. (Master of Science)_ in _Statistics_ and graduated in 2015. 
 
-* I joined the <span style ="color:blue">[Indian Statistical Insititute](https://www.isical.ac.in/)</span> as a Statistical Trainee, from Fall 2015 - Spring 2016. 
+* I joined the <span style ="color:blue">[Indian Statistical Insititute; Kolkata, WB, India](https://www.isical.ac.in/)</span> as a Statistical Trainee, from Fall 2015 - Spring 2016. 
 
-* I joined <span style ="color:blue">[Amity University Kolkata](https://www.amity.edu/kolkata/)</span>, WB, India as an Adjunct Faculty of Statistics and taught undergraduate and graduate statistics students from Summer 2016 - Summer 2018. 
+* I joined <span style ="color:blue">[Amity University Kolkata; WB, India](https://www.amity.edu/kolkata/)</span> as an Adjunct Faculty of Statistics and taught undergraduate and graduate level statistics courses from Summer 2016 - Summer 2018. 
 
 * In Fall 2018 I joined UofL for my PhD. 
