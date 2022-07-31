@@ -14,7 +14,7 @@ redirect_from:
 
 # TIMELINE
 
-* I am fortunate to have attended the <span style ="color:blue">[Hindu School](https://en.wikipedia.org/wiki/Hindu_School,_Kolkata)</span> (which played a pivotal role during <span style ="color:blue">[The Bengal Renaissance](https://en.wikipedia.org/wiki/Bengali_Renaissance)</span>, one of the oldest schools in the Asia, has been called the Eaton of the East) in <span style ="color:blue">[The College Street](https://en.wikipedia.org/wiki/College_Street_(Kolkata))</span>  for the 12 years (1998-2010) of my school life. 
+* I am fortunate to have attended the <span style ="color:blue">[Hindu School](https://en.wikipedia.org/wiki/Hindu_School,_Kolkata)</span> (which played a pivotal role during <span style ="color:blue">[The Bengal Renaissance](https://en.wikipedia.org/wiki/Bengali_Renaissance)</span>, one of the oldest schools in the Asia, has been called the Eaton of the East) in <span style ="color:blue">[The College Street](https://en.wikipedia.org/wiki/College_Street_(Kolkata))</span>  for the whole 12 years of my school life (1998-2010). 
 
 * I completed _B.Sc. (Bachelor of Science)_ in _Statistics_ from <span style ="color:blue">[St. Xavier's College Kolkata, Autonomous under University of Calcutta; Kolkata, WB, India](http://www.sxccal.edu/)</span> in 2013. 
 
