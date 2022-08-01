@@ -9,7 +9,7 @@ redirect_from:
 
 <span style="text-align: justify"> 
 
-I am currently a **Graduate School Fellow** of <span style = "color:blue">[University of Louisville](https://louisville.edu/sphis)</span>, in the 4th year of my PhD in Biostatistics at the _Department of Bioinformatics and Biostatistics_ of <span style = "color:blue">[School of Public Health, University of Louisville](https://louisville.edu/sphis)</span>.
+I am currently a **Graduate School Fellow** of <span style = "color:blue">[University of Louisville](https://louisville.edu/sphis)</span>, in the 4th year of my PhD in Biostatistics at the _Department of Bioinformatics and Biostatistics_ of <span style = "color:blue">[School of Public Health, University of Louisville (UofL)](https://louisville.edu/sphis)</span>.
 
 As a PhD candidate, I am working under the supervision of <span style ="color:blue">[Jeremy Gaskins, PhD](https://louisville.edu/sphis/directory/jeremy-gaskins-phd)</span> and <span style ="color:blue">[Riten Mitra, PhD](https://louisville.edu/sphis/directory/riten-mitra)</span>. My research primarily focuses on Bayesian Graphical Models in Higher Dimensions, Bayesian Variable Selection, Shrinkage Priors and High Dimensional Covariance Estimation. I am interested in addressing application oriented Statistical problems. Right now, I have experiences with Genomic and large Public Health data. Apart from these, I am interested in applications of Survival Analysis, Queuing Theory and Longitudinal Data Analysis.
 
