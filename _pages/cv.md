@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-* My complete CV can be found [_**here**_](https://drive.google.com/file/d/1DiHQlbQvHmUcRQw-bIfp5jz2Hc5qcLUM/view?usp=sharing)
+* My complete CV can be found [_**here**_](https://drive.google.com/file/d/1Y3Iz-r9unOtENojvzJ5jLxP2gHLa_xhR/view?usp=sharing)
