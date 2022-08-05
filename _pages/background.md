@@ -22,6 +22,6 @@ redirect_from:
 
 * I joined the <span style ="color:blue">[Indian Statistical Insititute; Kolkata, WB, India](https://www.isical.ac.in/)</span> as a Statistical Trainee, from Fall 2015 - Spring 2016. 
 
-* I joined <span style ="color:blue">[Amity University Kolkata; WB, India](https://www.amity.edu/kolkata/)</span> as an Adjunct Faculty of Statistics and taught undergraduate and graduate level statistics courses from Summer 2016 - Summer 2018. 
+* I joined <span style ="color:blue">[Amity University Kolkata; WB, India](https://www.amity.edu/kolkata/)</span> as an Assistant Professor (Contract) of Statistics and taught undergraduate and graduate level statistics courses from Summer 2016 - Summer 2018. 
 
 * In Fall 2018 I joined UofL for my PhD. 
