@@ -26,13 +26,13 @@ redirect_from:
 
 * <span style="text-align: justify">  May, M.E. , <span style ="color:red">Bhadury, S.</span>, Gaskins, J., Dunlap, N.E. <span style ="color:blue"> [Assessing the Relationship of Background Lung Density on Outcome and Toxicity after Stereotactic Body Radiation Therapy](https://www.sciencedirect.com/science/article/pii/S0360301619300768)</span>, **Proceedings of the 61st Annual Meeting of the American Society for Radiation Oncology 2019** </span>
 
+* <span style="text-align: justify"> Wattles, B.A. , Smith, M.J, Feygin Y., Jawad K.S, <span style ="color:red">Bhadury, S.</span>, Sun, J., Kong, M.,Woods, C.R, [Recurrent antibiotic use in Kentucky children with 6 years continuous Medicaid enrollment](https://doi.org/10.1093/jpids/piac079)<span style ="color:blue">Journal of the Pediatric Infectious Diseases Society</span> </span>
 
 
-# Under Review
+# In Press
 
 --- 
 
-* <span style="text-align: justify"> Recurrent antibiotic use in Kentucky children with 6 years continuous Medicaid enrollment: Article: <span style ="color:blue">Journal of the Pediatric Infectious Diseases Society</span> </span>
 
 * <span style="text-align: justify"> Impact of COVID-19 Pandemic Healthcare Restrictions on Utilization and Diagnostic Yield of Outpatient Transthoracic Echocardiograms: Article: <span style ="color:blue">Cardiology in the Young</span> </span>
 
