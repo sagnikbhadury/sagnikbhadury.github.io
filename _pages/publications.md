@@ -10,7 +10,7 @@ redirect_from:
 --- 
 
 
-
+* <span style="text-align: justify"> Wattles, B.A. , Smith, M.J. , Feygin Y. , Jawad K.S. , <span style ="color:red">Bhadury, S.</span>, Sun, J. , Kong, M. ,Woods, C.R. , <span style ="color:blue">[Recurrent antibiotic use in Kentucky children with 6 years continuous Medicaid enrollment](https://doi.org/10.1093/jpids/piac079)</span>, **Journal of the Pediatric Infectious Diseases Society 2022** </span> 
 
 * <span style="text-align: justify"> Jackson, C.N., Duncan, S.D., Creel, L.M., Feygin, Y., <span style ="color:red">Bhadury, S.</span> et al., <span style ="color:blue"> [Using Queuing Theory to Determine Optimal Obstetrical Bed Numbers](https://academyhealth.confex.com/academyhealth/2022arm/meetingapp.cgi/Paper/53422)</span>, Accepted in Conference **Pediatric Academic Societies 2022 & Academy Health Annual Research Meeting 2022** </span>
 
@@ -26,7 +26,7 @@ redirect_from:
 
 * <span style="text-align: justify">  May, M.E. , <span style ="color:red">Bhadury, S.</span>, Gaskins, J., Dunlap, N.E. <span style ="color:blue"> [Assessing the Relationship of Background Lung Density on Outcome and Toxicity after Stereotactic Body Radiation Therapy](https://www.sciencedirect.com/science/article/pii/S0360301619300768)</span>, **Proceedings of the 61st Annual Meeting of the American Society for Radiation Oncology 2019** </span>
 
-* <span style="text-align: justify"> Wattles, B.A. , Smith, M.J. , Feygin Y. , Jawad K.S. , <span style ="color:red">Bhadury, S.</span>, Sun, J. , Kong, M. ,Woods, C.R. , <span style ="color:blue">[Recurrent antibiotic use in Kentucky children with 6 years continuous Medicaid enrollment](https://doi.org/10.1093/jpids/piac079)</span>, **Journal of the Pediatric Infectious Diseases Society** </span> 
+
 
 
 # In Press
