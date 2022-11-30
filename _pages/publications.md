@@ -10,6 +10,8 @@ redirect_from:
 --- 
 
 
+* <span style="text-align: justify"> Scott, M., Metcalf, C., <span style ="color:red">Bhadury, S.</span>, et al., <span style ="color:blue"> [Impact of COVID-19 Pandemic Healthcare Restrictions on Utilization and Diagnostic Yield of Outpatient Transthoracic Echocardiograms](https://doi.org/10.1017/S1047951122003535)</span>,  **Cardiology in the Young 2022** </span>
+
 * <span style="text-align: justify"> Wattles, B.A. , Smith, M.J. , Feygin Y. , Jawad K.S. , <span style ="color:red">Bhadury, S.</span>, Sun, J. , Kong, M. ,Woods, C.R. , <span style ="color:blue">[Recurrent antibiotic use in Kentucky children with 6 years continuous Medicaid enrollment](https://doi.org/10.1093/jpids/piac079)</span>, **Journal of the Pediatric Infectious Diseases Society 2022** </span> 
 
 * <span style="text-align: justify"> Jackson, C.N., Duncan, S.D., Creel, L.M., Feygin, Y., <span style ="color:red">Bhadury, S.</span> et al., <span style ="color:blue"> [Using Queuing Theory to Determine Optimal Obstetrical Bed Numbers](https://academyhealth.confex.com/academyhealth/2022arm/meetingapp.cgi/Paper/53422)</span>, Accepted in Conference **Pediatric Academic Societies 2022 & Academy Health Annual Research Meeting 2022** </span>
