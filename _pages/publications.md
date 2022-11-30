@@ -30,15 +30,6 @@ redirect_from:
 
 
 
-
-# In Press
-
---- 
-
-
-* <span style="text-align: justify"> Impact of COVID-19 Pandemic Healthcare Restrictions on Utilization and Diagnostic Yield of Outpatient Transthoracic Echocardiograms: Article: <span style ="color:blue">Cardiology in the Young</span> </span>
-
-
 ---
 
 # Under Preparation
