@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sagnik Bhadury"
 title_separator          : "-"
 name                     : &name "Sagnik Bhadury"
-description              : &description "PhD Student, Graduate School Fellow"
+description              : &description "Postdoctoral Fellow"
 url                      : https://sagnikbhadury.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -86,7 +86,7 @@ author:
   location         : "Ann Arbor, MI"
   employer         : "University of Michigan"
   googlescholar    : #"https://scholar.google.co.in/citations?user=SAGNIK"
-  email            : "sagnik.bhadury@louisville.edu"
+  email            : "bhadury@umich.edu"
   kaggle           : 
   uri              :
   bitbucket        :
@@ -98,9 +98,9 @@ author:
   github           : "sagnikbhadury"
   google_plus      :
   keybase          :
-  instagram        : "adwoito_skb"
+  instagram        : # "adwoito_skb"
   lastfm           :
-  linkedin         : "sagnik-k-bhadury"
+  linkedin         : # "sagnik-k-bhadury"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
