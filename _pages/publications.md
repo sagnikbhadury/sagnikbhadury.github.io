@@ -36,13 +36,13 @@ redirect_from:
 
 ---
 
-* <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span>, Mitra R., Gaskins J., Bayesian Methods For Gaussian Graphical Models With Neighborhood Selection with an application of High-dimensional Triple Negative Breast Cancer Data </span>
+* <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span>, Mitra R., Gaskins J., Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation </span>
 
-* <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span>  Mitra R., Gaskins J., A Bayesian Method For Multiple Graphs </span>
+* <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span>  Mitra R., Gaskins J., A Bayesian Approach For Multiple Graphs </span>
 
 * <span style="text-align: justify"> Duncan, S.D., Creel, L.M., <span style ="color:red">Bhadury, S.</span> et al., Longitudinal Analysis of NICU and Using Queuing Theory to Determine Optimal NICU Beds for the Hospitals of Kentucky </span>
 
-* <span style="text-align: justify"> Duncan, S.D., Creel, L.M., <span style ="color:red">Bhadury, S.</span> et al., Determining Optimal Beds for the Hospitals of Kentucky </span>
+* <span style="text-align: justify"> Duncan, S.D., <span style ="color:red">Bhadury, S.</span> et al., Determining Optimal Beds for the Hospitals of Kentucky </span>
 
 
 ---
