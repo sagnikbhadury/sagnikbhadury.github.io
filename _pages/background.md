@@ -14,14 +14,16 @@ redirect_from:
 
 # TIMELINE
 
-* I am fortunate to have attended the <span style ="color:blue">[Hindu School](https://en.wikipedia.org/wiki/Hindu_School,_Kolkata)</span> (which played a pivotal role during <span style ="color:blue">[The Bengal Renaissance](https://en.wikipedia.org/wiki/Bengali_Renaissance)</span>, one of the oldest schools in the Asia, has been called the Eaton of the East) in <span style ="color:blue">[The College Street](https://en.wikipedia.org/wiki/College_Street_(Kolkata))</span>  for the whole 12 years of my school life (1998-2010). 
+* I am fortunate to have attended the <span style ="color:blue">[Hindu School](https://en.wikipedia.org/wiki/Hindu_School,_Kolkata)</span> situated in the heart of <span style ="color:blue">[The College Street](https://en.wikipedia.org/wiki/College_Street_(Kolkata))</span>  for the whole 12 years of my school life (1998-2010). 
 
 * I completed _B.Sc. (Bachelor of Science)_ in _Statistics_ from <span style ="color:blue">[St. Xavier's College Kolkata, Autonomous under University of Calcutta; Kolkata, WB, India](http://www.sxccal.edu/)</span> in 2013. 
 
 * I attended the <span style ="color:blue">[Department of Statistics, University of Calcutta; Kolkata, WB, India](https://www.caluniv.ac.in/academic/Statistics.html)</span> for _M.Sc. (Master of Science)_ in _Statistics_ and graduated in 2015. 
 
-* I joined the <span style ="color:blue">[Indian Statistical Insititute; Kolkata, WB, India](https://www.isical.ac.in/)</span> as a Statistical Trainee, from Fall 2015 - Spring 2016. 
+* I worked in the <span style ="color:blue">[Indian Statistical Insititute; Kolkata, WB, India](https://www.isical.ac.in/)</span> as a Statistical Trainee, from Fall 2015 - Spring 2016. 
 
 * I joined <span style ="color:blue">[Amity University Kolkata; WB, India](https://www.amity.edu/kolkata/)</span> as an Adjunct Professor (Contract) of Statistics and taught undergraduate and graduate level statistics courses from Summer 2016 - Summer 2018. 
 
-* In Fall 2018 I joined UofL for my PhD. 
+* In Spring 2018 I joined the University of Louisville, Louisville, KY, for my PhD in Biostatistics and graduated in Fall 2022  
+
+* I joined the University of Michigan, Ann Arbor, MI, as a Postdoctoral Research Fellow in Winter 2023.
