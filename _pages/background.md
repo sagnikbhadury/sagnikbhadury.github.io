@@ -23,6 +23,6 @@ redirect_from:
 
 * I joined <span style ="color:blue">[Amity University Kolkata; WB, India](https://www.amity.edu/kolkata/)</span> as an Adjunct Professor (Contract) of Statistics and taught undergraduate and graduate level statistics courses from Summer 2016 - Summer 2018. 
 
-* In Spring 2018 I joined the  <span style ="color:blue">[University of Louisville; Louisville, KY, USA](https://louisville.edu/)</span> for my PhD in Biostatistics and graduated in Fall 2022. 
+* In Fall 2018 I joined the  <span style ="color:blue">[University of Louisville; Louisville, KY, USA](https://louisville.edu/)</span> for my PhD in Biostatistics and graduated in Fall 2022. 
 
 * I joined the  <span style ="color:blue">[University of Michigan; Ann Arbor, MI, USA](https://umich.edu/)</span> as a Postdoctoral Research Fellow in Winter 2023.
