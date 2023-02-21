@@ -7,9 +7,8 @@ redirect_from:
   - /resume
 ---
 
-* My complete CV can be found [_**here**_](https://drive.google.com/file/d/1Y3Iz-r9unOtENojvzJ5jLxP2gHLa_xhR/view?usp=sharing)
+* My complete CV might be found [_**here**_](https://drive.google.com/file/d/1Y3Iz-r9unOtENojvzJ5jLxP2gHLa_xhR/view?usp=sharing), if not, the following can help.
 
-* During the span of my PhD, apart from <span style ="color:blue">[R](https://cran.r-project.org/)</span> , I have grown an interest in different coding languages such as <span style ="color:blue">[C++](https://en.wikipedia.org/wiki/C%2B%2B)</span> and <span style ="color:blue">[Julia](https://julialang.org/)</span> that can compute faster.
 
 
 # TIMELINE
