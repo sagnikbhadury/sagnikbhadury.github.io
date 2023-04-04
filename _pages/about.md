@@ -9,7 +9,7 @@ redirect_from:
 
 <span style="text-align: justify"> 
 
-I am currently a **Postdoctoral Research Fellow**  of <span style = "color:blue">[University of Michigan Medical School](https://medicine.umich.edu/)</span>, working in the <span style ="color:blue">[Systems Imaging & Bioinformatics Lab](https://sibl.lab.medicine.umich.edu/)</span>. 
+I am currently a **Postdoctoral Research Fellow**  at <span style = "color:blue">[University of Michigan](https://umich.edu/)</span>, working in the <span style ="color:blue">[Systems Imaging & Bioinformatics Lab](https://sibl.lab.medicine.umich.edu/)</span>. 
  
 I got my PhD in Biostatistics from the _Department of Bioinformatics and Biostatistics_ of <span style = "color:blue">[School of Public Health, University of Louisville (UofL)](https://louisville.edu/sphis)</span>. My PhD research, pursued under the supervision of <span style ="color:blue">[Jeremy Gaskins, PhD](https://louisville.edu/sphis/directory/jeremy-gaskins-phd)</span> and <span style ="color:blue">[Riten Mitra, PhD](https://louisville.edu/sphis/directory/riten-mitra)</span>, was focused on Higher Dimensional-Bayesian-Graphical Models, Undirected Graphs, Markov chain Monte Carlo (MCMC) algorithms, Bayesian Hierarchical Models, Shrinkage Priors, Bayesian Variable Selection, and High Dimensional Covariance Estimation. Apart from these I am interested in Computational Statistics, Queuing Theory and Longitudinal Data Analysis. 
   
