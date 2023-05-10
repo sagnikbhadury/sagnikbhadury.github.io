@@ -11,18 +11,21 @@ redirect_from:
 
 
 
-# TIMELINE
+# EDUCATION
 
 * I am fortunate to have attended the <span style ="color:blue">[Hindu School](https://en.wikipedia.org/wiki/Hindu_School,_Kolkata)</span> situated in the heart of <span style ="color:blue">[The College Street](https://en.wikipedia.org/wiki/College_Street_(Kolkata))</span>  for the whole 12 years of my school life (1998-2010). 
 
-* I completed _B.Sc. (Bachelor of Science)_ in _Statistics_ from <span style ="color:blue">[St. Xavier's College Kolkata, Autonomous under University of Calcutta; Kolkata, WB, India](http://www.sxccal.edu/)</span> in 2013. 
+* _B.Sc. (Bachelor of Science)_ in _Statistics_ from <span style ="color:blue">[St. Xavier's College Kolkata, Autonomous under University of Calcutta; Kolkata, WB, India](http://www.sxccal.edu/)</span> 2010-2013. 
 
-* I attended the <span style ="color:blue">[Department of Statistics, University of Calcutta; Kolkata, WB, India](https://www.caluniv.ac.in/academic/Statistics.html)</span> for _M.Sc. (Master of Science)_ in _Statistics_ and graduated in 2015. 
+* _M.Sc. (Master of Science)_ in _Statistics_ from <span style ="color:blue">[Department of Statistics, University of Calcutta; Kolkata, WB, India](https://www.caluniv.ac.in/academic/Statistics.html)</span> 2013-2015. 
 
-* I worked in the <span style ="color:blue">[Indian Statistical Insititute; Kolkata, WB, India](https://www.isical.ac.in/)</span> as a Statistical Trainee, from Fall 2015 - Spring 2016. 
+* _Ph.D._ in _Biostatistics_ from <span style ="color:blue">[University of Louisville; Louisville, KY, USA](https://louisville.edu/)</span> 2018-2022. 
 
-* I joined <span style ="color:blue">[Amity University Kolkata; WB, India](https://www.amity.edu/kolkata/)</span> as an Adjunct Professor (Contract) of Statistics and taught undergraduate and graduate level statistics courses from Summer 2016 - Summer 2018. 
 
-* In Fall 2018 I joined the  <span style ="color:blue">[University of Louisville; Louisville, KY, USA](https://louisville.edu/)</span> for my PhD in Biostatistics and graduated in Fall 2022. 
+# WORK 
 
-* I joined the  <span style ="color:blue">[University of Michigan; Ann Arbor, MI, USA](https://umich.edu/)</span> as a Postdoctoral Research Fellow in Winter 2023.
+* Statistical Trainee, <span style ="color:blue">[Indian Statistical Insititute; Kolkata, WB, India](https://www.isical.ac.in/)</span>, 2015 (Aug) - 2016 (Mar). 
+
+* Adjunct Professor (Contract) of Statistics, <span style ="color:blue">[Amity University Kolkata; WB, India](https://www.amity.edu/kolkata/)</span> Undergraduate and Graduate level Statistics/Biostatistics courses, 2016 (Mar) - 2018 (Jun). 
+
+* Postdoctoral Research Fellow, <span style ="color:blue">[University of Michigan; Ann Arbor, MI, USA](https://umich.edu/)</span> 2023+ .
