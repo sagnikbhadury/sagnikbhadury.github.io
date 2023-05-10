@@ -13,7 +13,7 @@ redirect_from:
 
 # EDUCATION
 
-* I am fortunate to have attended the <span style ="color:blue">[Hindu School](https://en.wikipedia.org/wiki/Hindu_School,_Kolkata)</span> situated in the heart of <span style ="color:blue">[The College Street](https://en.wikipedia.org/wiki/College_Street_(Kolkata))</span>  for the whole 12 years of my school life (1998-2010). 
+* I am fortunate to have attended the <span style ="color:blue">[Hindu School](https://en.wikipedia.org/wiki/Hindu_School,_Kolkata)</span> situated in the heart of <span style ="color:blue">[The College Street](https://en.wikipedia.org/wiki/College_Street_(Kolkata))</span> for 12 years of my school life (1998-2010). 
 
 * _B.Sc. (Bachelor of Science)_ in _Statistics_ from <span style ="color:blue">[St. Xavier's College Kolkata, Autonomous under University of Calcutta; Kolkata, WB, India](http://www.sxccal.edu/)</span> 2010-2013. 
 
