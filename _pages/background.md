@@ -26,6 +26,6 @@ redirect_from:
 
 * Statistical Trainee, <span style ="color:blue">[Indian Statistical Insititute; Kolkata, WB, India](https://www.isical.ac.in/)</span>, 2015 (Aug) - 2016 (Mar). 
 
-* Adjunct Professor (Contract) of Statistics, <span style ="color:blue">[Amity University Kolkata; WB, India](https://www.amity.edu/kolkata/)</span> Statistics/Biostatistics (UG and G) courses, 2016 (Mar) - 2018 (Jun). 
+* Adjunct Professor (Contract) of Statistics, <span style ="color:blue">[Amity University Kolkata; WB, India](https://www.amity.edu/kolkata/)</span> Stat/Biostat (UG and G) courses, 2016 (Mar) - 2018 (Jun). 
 
 * Postdoctoral Research Fellow, <span style ="color:blue">[University of Michigan; Ann Arbor, MI, USA](https://umich.edu/)</span> 2023+ .
