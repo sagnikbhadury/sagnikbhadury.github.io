@@ -28,4 +28,4 @@ redirect_from:
 
 * Adjunct Professor (Contract) of Statistics, <span style ="color:blue">[Amity University Kolkata; WB, India](https://www.amity.edu/kolkata/)</span> Stat/Biostat (UG and G) courses, 2016 (Mar) - 2018 (Jun). 
 
-* Postdoctoral Research Fellow, <span style ="color:blue">[University of Michigan; Ann Arbor, MI, USA](https://umich.edu/)</span> 2023+ .
+* Postdoctoral Research Fellow, <span style ="color:blue">[University of Michigan; Ann Arbor, MI, USA](https://umich.edu/)</span> 2023 - Present.
