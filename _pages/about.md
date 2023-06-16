@@ -9,7 +9,7 @@ redirect_from:
 
 <span style="text-align: justify"> 
 
-I am currently working as a **Postdoctoral Research Fellow**  at <span style = "color:blue">[University of Michigan](https://umich.edu/)</span>, working with <span style ="color:blue">[Arvind Rao, PhD](https://sph.umich.edu/faculty-profiles/rao-arvind.html)</span> in the <span style ="color:blue">[Systems Imaging & Bioinformatics Lab](https://sibl.lab.medicine.umich.edu/)</span>.
+I am currently working as a **Postdoctoral Research Fellow**  of <span style = "color:blue">[University of Michigan](https://umich.edu/)</span>, working with <span style ="color:blue">[Arvind Rao, PhD](https://sph.umich.edu/faculty-profiles/rao-arvind.html)</span> in the <span style ="color:blue">[Systems Imaging & Bioinformatics Lab](https://sibl.lab.medicine.umich.edu/)</span>.
 
 My research focusses on Undirected Graphs, High Dimensional Bayesian Graphical Models, Bayesian Hierarchical Models, Shrinkage Priors, Bayesian Variable Selection, Spatial Statistics. Apart from these I am interested in Variational Bayes Algorithms, Computational Statistics, Longitudinal Data Analysis abutting on areas of Biostatistics. From an application perspective I am interested in Gene networks, Cancer Biology, Single Cell Data, Spatial Transcriptomics and Imaging.
 
