@@ -11,7 +11,6 @@ redirect_from:
 
 # Publications
 
----
 
 * <span style="text-align: justify"> Scott, M., Metcalf, C., <span style ="color:red">Bhadury, S.</span>, et al., <span style ="color:blue"> [Impact of COVID-19 Pandemic Healthcare Restrictions on Utilization and Diagnostic Yield of Outpatient Transthoracic Echocardiograms](https://doi.org/10.1017/S1047951122003535)</span>,  **Cardiology in the Young 2022** </span>
 
@@ -37,7 +36,7 @@ redirect_from:
 
 # Under Preparation
 
----
+
 
 * <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span>, Mitra R., Gaskins J., Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation </span>
 
@@ -51,7 +50,7 @@ redirect_from:
 
 # Thesis
 
----
+
 * <span style="text-align: justify"> <span style ="color:red">Bhadury, Sagnik K. </span>, Advisors : Gaskins, Jeremy T. and Mitra, Ritendranath <span style ="color:blue"> [Bayesian Methods for Graphical Models with Neighborhood
 Selection](https://ir.library.louisville.edu/cgi/viewcontent.cgi?article=5302&context=etd)</span>, 
 ---
