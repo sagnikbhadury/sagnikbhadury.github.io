@@ -31,7 +31,7 @@ redirect_from:
 * <span style="text-align: justify">  May, M.E. , <span style ="color:red">Bhadury, S.</span>, Gaskins, J., Dunlap, N.E. <span style ="color:blue"> [Assessing the Relationship of Background Lung Density on Outcome and Toxicity after Stereotactic Body Radiation Therapy](https://www.sciencedirect.com/science/article/pii/S0360301619300768)</span>, **Proceedings of the 61st Annual Meeting of the American Society for Radiation Oncology 2019** </span>
 
 
-# Under Preparation
+# In Preparation
 
 * <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span>, Mitra R., Gaskins J., Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation </span>
 
