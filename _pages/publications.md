@@ -43,7 +43,7 @@ redirect_from:
 
 # Thesis
 
-* <span style="text-align: justify"> <span style ="color:red">Bhadury, Sagnik K. <span style ="color:blue"> [Bayesian Methods for Graphical Models with Neighborhood Selection](https://ir.library.louisville.edu/etd/4001/)</span>, PhD Dissertation Thesis Advisors: **Gaskins, Jeremy T. and Mitra, Ritendranath** </span>
+* <span style="text-align: justify"> <span style ="color:red">Bhadury, Sagnik K.</span> <span style ="color:blue"> [Bayesian Methods for Graphical Models with Neighborhood Selection](https://ir.library.louisville.edu/etd/4001/)</span>, PhD Dissertation Thesis Advisors: **Gaskins, Jeremy T. and Mitra, Ritendranath** </span>
 
 ---
 
