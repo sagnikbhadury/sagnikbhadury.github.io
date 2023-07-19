@@ -11,6 +11,7 @@ redirect_from:
 
 ---
 
+* Division of Cancer Epidemiology and Genetics, National Cancer Institute, USA; **Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation for Triple Negative Breast Cancer**; *Fall 2022*
 * Merck, USA; **Bayesian Estimation for Gaussian Graphical Models**; *Fall 2022*
 * FDA, USA; **Bayesian Methods for Sparse Graph Estimation in Higher Dimensions for Triple Negative Breast Cancer Patients**; *Fall 2022*
 * _e-ConSus 2021_ : International Conference on Revisiting Strategies for Sustainable Development: Kazi Nazrul University, WB, India; **Bayesian Methods for Analyzing Gene Expression profiles of Breast Cancer Patients**; *Winter 2021*
