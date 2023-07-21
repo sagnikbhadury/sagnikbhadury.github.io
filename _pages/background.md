@@ -15,7 +15,7 @@ redirect_from:
 
 * I attended <span style ="color:blue">[The Hindu School](https://en.wikipedia.org/wiki/Hindu_School,_Kolkata)</span> in the very heart of <span style ="color:blue">[The College Street](https://en.wikipedia.org/wiki/College_Street_(Kolkata))</span> for 12 years of my school life (1998-2010).
 
-* _Bachelor of Science_ in _Statistics_ from <span style ="color:blue">[St. Xavier's College Kolkata, Autonomous under University of Calcutta; WB, India](http://www.sxccal.edu/)</span> 2010-2013. 
+* _Bachelor of Science_ in _Statistics_ from <span style ="color:blue">[St. Xavier's College Kolkata, Auton. University of Calcutta; WB, India](http://www.sxccal.edu/)</span> 2010-2013. 
 
 * _Master of Science_ in _Statistics_ from <span style ="color:blue">[Department of Statistics, University of Calcutta; Kolkata, WB, India](https://www.caluniv.ac.in/academic/Statistics.html)</span> 2013-2015. 
 
