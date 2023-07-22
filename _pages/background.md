@@ -15,7 +15,7 @@ redirect_from:
 
 * I attended <span style ="color:blue">[The Hindu School](https://en.wikipedia.org/wiki/Hindu_School,_Kolkata)</span> in the very heart of <span style ="color:blue">[The College Street](https://en.wikipedia.org/wiki/College_Street_(Kolkata))</span> for 12 years of my school life (1998-2010).
 
-* _Bachelor of Science_ in _Statistics_ from <span style ="color:blue">[St. Xavier's College Kolkata, Auton. University of Calcutta; WB, India](http://www.sxccal.edu/)</span> 2010-2013. 
+* _Bachelor of Science_ in _Statistics_ from <span style ="color:blue">[St. Xavier's College Kolkata, University of Calcutta; WB, India](http://www.sxccal.edu/)</span> 2010-2013. 
 
 * _Master of Science_ in _Statistics_ from <span style ="color:blue">[Department of Statistics, University of Calcutta; Kolkata, WB, India](https://www.caluniv.ac.in/academic/Statistics.html)</span> 2013-2015. 
 
@@ -24,8 +24,8 @@ redirect_from:
 
 # WORK 
 
-* Statistical Trainee, <span style ="color:blue">[Indian Statistical Insititute; Kolkata, WB, India](https://www.isical.ac.in/)</span>, 2015 (Aug) - 2016 (Mar). 
+* Statistical Trainee, <span style ="color:blue">[Indian Statistical Insititute; Kolkata, WB, India](https://www.isical.ac.in/)</span>, 2015 - 2016.
 
-* Adjunct Professor (Contract) of Statistics, <span style ="color:blue">[Amity University Kolkata; WB, India](https://www.amity.edu/kolkata/)</span> Stat/Biostat (UG and G) courses, 2016 (Mar) - 2018 (Jun). 
+* Adjunct Professor (Contract) of Statistics, <span style ="color:blue">[Amity University Kolkata; WB, India](https://www.amity.edu/kolkata/)</span> Stat/Biostat (UG and G) courses, 2016 - 2018.
 
 * Postdoctoral Research Fellow, <span style ="color:blue">[University of Michigan; Ann Arbor, MI, USA](https://umich.edu/)</span> 2023 - Present.
