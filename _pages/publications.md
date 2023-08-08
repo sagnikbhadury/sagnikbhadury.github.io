@@ -9,6 +9,11 @@ redirect_from:
 
 --- 
 
+# Arxived
+
+* <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span>, Mitra R., Gaskins J., <span style ="color:blue"> [Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation](https://arxiv.org/pdf/2308.02713.pdf) </span>
+
+
 # Peer Reviewed 
 
 * <span style="text-align: justify"> Scott, M., Metcalf, C., <span style ="color:red">Bhadury, S.</span>, et al., <span style ="color:blue"> [Impact of COVID-19 Pandemic Healthcare Restrictions on Utilization and Diagnostic Yield of Outpatient Transthoracic Echocardiograms](https://doi.org/10.1017/S1047951122003535)</span>,  **Cardiology in the Young 2022** </span>
@@ -28,11 +33,6 @@ redirect_from:
 * <span style="text-align: justify"> May, M.E. , <span style ="color:red">Bhadury, S.</span>, Gaskins, J., Dunlap, N.E. <span style ="color:blue"> [Comparison of Outcomes and Pulmonary Toxicity of Motion Management Methods in Stereotactic Body Radiation Therapy for the Treatment of Early Stage Non-Small Cell Lung Cancer](https://www.sciencedirect.com/science/article/pii/S0360301619321960)</span>, **Proceedings of the 61st Annual Meeting of the American Society for Radiation Oncology 2019** </span>
 
 * <span style="text-align: justify">  May, M.E. , <span style ="color:red">Bhadury, S.</span>, Gaskins, J., Dunlap, N.E. <span style ="color:blue"> [Assessing the Relationship of Background Lung Density on Outcome and Toxicity after Stereotactic Body Radiation Therapy](https://www.sciencedirect.com/science/article/pii/S0360301619300768)</span>, **Proceedings of the 61st Annual Meeting of the American Society for Radiation Oncology 2019** </span>
-
-
-# Arxived
-
-* <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span>, Mitra R., Gaskins J., <span style ="color:blue"> [Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation](https://arxiv.org/pdf/2308.02713.pdf) </span>
 
 
 # In Preparation
