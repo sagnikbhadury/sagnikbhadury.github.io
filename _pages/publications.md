@@ -11,7 +11,7 @@ redirect_from:
 
 # Arxived
 
-* <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span>, Mitra R., Gaskins J., <span style ="color:blue"> [Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation](https://arxiv.org/pdf/2308.02713.pdf) </span>
+* <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span>, Mitra R., Gaskins J., <span style ="color:blue"> [Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation](https://arxiv.org/abs/2308.02713) </span>
 
 
 # Peer Reviewed 
