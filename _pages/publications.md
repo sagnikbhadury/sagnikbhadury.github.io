@@ -14,7 +14,16 @@ redirect_from:
 * <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span>, Mitra R., Gaskins J., <span style ="color:blue"> [Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation](https://arxiv.org/abs/2308.02713) </span>
 
 
-# Peer Reviewed 
+# In Preparation
+
+* <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span>  Mitra R., Gaskins J., A Bayesian Approach For Multiple Graphs </span>
+
+* <span style="text-align: justify"> Duncan, S.D., Creel, L.M., <span style ="color:red">Bhadury, S.</span> et al., Longitudinal Analysis of NICU and Using Queuing Theory to Determine Optimal NICU Beds for the Hospitals of Kentucky </span>
+
+* <span style="text-align: justify"> Duncan, S.D., <span style ="color:red">Bhadury, S.</span> et al., Determining Optimal Beds for the Hospitals of Kentucky </span>
+
+
+# Others - Peer Reviewed 
 
 * <span style="text-align: justify"> Scott, M., Metcalf, C., <span style ="color:red">Bhadury, S.</span>, et al., <span style ="color:blue"> [Impact of COVID-19 Pandemic Healthcare Restrictions on Utilization and Diagnostic Yield of Outpatient Transthoracic Echocardiograms](https://doi.org/10.1017/S1047951122003535)</span>,  **Cardiology in the Young 2022** </span>
 
@@ -34,14 +43,6 @@ redirect_from:
 
 * <span style="text-align: justify">  May, M.E. , <span style ="color:red">Bhadury, S.</span>, Gaskins, J., Dunlap, N.E. <span style ="color:blue"> [Assessing the Relationship of Background Lung Density on Outcome and Toxicity after Stereotactic Body Radiation Therapy](https://www.sciencedirect.com/science/article/pii/S0360301619300768)</span>, **Proceedings of the 61st Annual Meeting of the American Society for Radiation Oncology 2019** </span>
 
-
-# In Preparation
-
-* <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span>  Mitra R., Gaskins J., A Bayesian Approach For Multiple Graphs </span>
-
-* <span style="text-align: justify"> Duncan, S.D., Creel, L.M., <span style ="color:red">Bhadury, S.</span> et al., Longitudinal Analysis of NICU and Using Queuing Theory to Determine Optimal NICU Beds for the Hospitals of Kentucky </span>
-
-* <span style="text-align: justify"> Duncan, S.D., <span style ="color:red">Bhadury, S.</span> et al., Determining Optimal Beds for the Hospitals of Kentucky </span>
 
 
 # Thesis
