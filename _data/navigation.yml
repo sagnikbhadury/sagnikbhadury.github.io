@@ -3,13 +3,15 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Background"
+    url: /background/
+    
   - title: "Awards"
     url: /Awards/
 
   - title: "Talks"
     url: /talks/    
 
-  - title: "Background"
-    url: /background/
+
 
 
