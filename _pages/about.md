@@ -15,6 +15,6 @@ My research has been centered around Undirected Graphs, High Dimensional Bayesia
 
 I earned _Ph.D._ in _Biostatistics_ from <span style ="color:blue">[University of Louisville; Louisville, KY, USA](https://louisville.edu/)</span> in Fall 2022, under the supervision of <span style ="color:blue">[Jeremy Gaskins, PhD](https://louisville.edu/sphis/directory/jeremy-gaskins-phd)</span> and <span style ="color:blue">[Riten Mitra, PhD](https://louisville.edu/sphis/directory/riten-mitra)</span>, was focussed on high dimensional gene network estimation for multiple breast cancers. Prior to my graduation, I won the Doctoral Dissertation Completion Award, Graduate School, University of Louisville [<span style ="color:blue">[Link](https://louisville.edu/graduate/faculty-staff/directors-of-graduate-studies/fall-2018/DoctoralDissertationCompletion.pdf/)</span>]. 
 
-# NEWS
+# News
 
 * Preprint available: <span style ="color:blue"> [Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation](https://arxiv.org/abs/2308.02713) </span>
