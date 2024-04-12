@@ -29,4 +29,4 @@ redirect_from:
 Actively engaged in delivering lectures and creating syllabi. I have contributed to the mentorship and supervision of student dissertation projects, demonstrating a commitment to fostering academic growth.
 
 * Postdoctoral Research Fellow, <span style ="color:blue">[University of Michigan; Ann Arbor, MI, USA](https://umich.edu/)</span> 2023 - Present.
-I apply my expertise in Graphical Models, Bayesian Methods, Network Inference and Machine Learning to analyze imaging related large genomic and epigenomic data sets, developing novel algorithms and tools to address complex biomedical problems. 
+I use my expertise in Graphical Models, Bayesian Methods, Network Inference and Machine Learning in developing novel algorithms and tools to analyze large genomic and epigenomic data arising from biomedical imaging while addressing complex biomedical problems.
