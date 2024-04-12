@@ -26,6 +26,7 @@ redirect_from:
 * Statistical Trainee, <span style ="color:blue">[Indian Statistical Insititute; Kolkata, WB, India](https://www.isical.ac.in/)</span>, 2015 - 2016.
 
 * Adjunct Professor (Contract) of Statistics, <span style ="color:blue">[Amity University Kolkata; WB, India](https://www.amity.edu/kolkata/)</span> Statistics/Biostatistics (UG & G), 2016 - 2018.
-I developed course contents, delivered lectures, graded copies, and guided a few dissertation projects during this appointment. Though majority of my workload was employed in delivering lectures and developing course contents.
+Actively engaged in delivering lectures and creating syllabi. I have contributed to the mentorship and supervision of student dissertation projects, demonstrating a commitment to fostering academic growth.
 
 * Postdoctoral Research Fellow, <span style ="color:blue">[University of Michigan; Ann Arbor, MI, USA](https://umich.edu/)</span> 2023 - Present.
+I apply my expertise in Graphical Models, Bayesian Methods, Network Inference and Machine Learning to analyze imaging related large genomic and epigenomic data sets, developing novel algorithms and tools to address complex biomedical problems. 
