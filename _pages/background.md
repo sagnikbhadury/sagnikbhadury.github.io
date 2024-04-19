@@ -29,4 +29,12 @@ redirect_from:
 Actively engaged in delivering lectures and creating syllabi. I have contributed to the mentorship and supervision of student dissertation projects, demonstrating a commitment to fostering academic growth.
 
 * Postdoctoral Research Fellow, <span style ="color:blue">[University of Michigan; Ann Arbor, MI, USA](https://umich.edu/)</span> 2023 - Present.
-I use my expertise in Graphical Models, Bayesian Methods, Network Inference and Machine Learning in developing novel algorithms and tools to analyze large genomic and epigenomic data arising from biomedical imaging while addressing complex biomedical problems.
+I use my expertise in developing novel algorithms and tools to analyze large genomic and epigenomic data arising from biomedical imaging while addressing complex biomedical problems.
+
+# OTHER STUFF
+
+I am very passionate about the harmonious world of melodies, my musical tastes are eclectic, yet I possess a particular fondness for Classical Music, spanning from the rich traditions of Hindusthani to the timeless compositions of European origin. Literature has been a constant companion in my journey; I have indulged in numerous Bengali and English novels, which fueled my once insatiable appetite for reading. Photography is another avenue of artistic expression I explore intermittently; while a Google Pixel often suffices for casual endeavors, I turn to my <span style ="color:blue">[Sony 7 Alpha II](https://electronics.sony.com/imaging/interchangeable-lens-cameras/full-frame/p/ilce7m2k-b)</span>, coupled with a <span style ="color:blue">[Nikon 70-300mm VR lens](https://downloadcenter.nikonimglib.com/en/products/287/AF-S_VR_Zoom-Nikkor_70-300mm_f_45-56G_IF-ED.html)</span> lens through a Viltrox adapter, for more serious photographic pursuits.
+
+
+
+
