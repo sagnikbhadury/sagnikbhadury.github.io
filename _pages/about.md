@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "About Me"
+title: "The Person Behind the Scenes"
 permalink: /
 author_profile: true
 redirect_from: 
