@@ -10,7 +10,7 @@ redirect_from:
 
 * My complete CV might be found [_**here**_](https://drive.google.com/file/d/1Y3Iz-r9unOtENojvzJ5jLxP2gHLa_xhR/view?usp=sharing), if not, the following can help.
 
-# EDUCATION
+# Education
 
 * I attended <span style ="color:blue">[The Hindu School](https://en.wikipedia.org/wiki/Hindu_School,_Kolkata)</span> in the very heart of <span style ="color:blue">[The College Street](https://en.wikipedia.org/wiki/College_Street_(Kolkata))</span> for 12 years of my school life (1998-2010).
 
@@ -21,7 +21,7 @@ redirect_from:
 * _Doctor of Philosophy_ in _Biostatistics_, <span style ="color:blue">[University of Louisville; Louisville, KY, USA](https://louisville.edu/)</span> 2018-2022. 
 
 
-# WORK 
+# Work
 
 * Statistical Trainee, <span style ="color:blue">[Indian Statistical Insititute; Kolkata, WB, India](https://www.isical.ac.in/)</span>, 2015 - 2016.
 
@@ -31,9 +31,9 @@ Actively engaged in delivering lectures and creating syllabi. I have contributed
 * Postdoctoral Research Fellow, <span style ="color:blue">[University of Michigan; Ann Arbor, MI, USA](https://umich.edu/)</span> 2023 - Present.
 I use my expertise in developing novel algorithms and tools to analyze large genomic and epigenomic data arising from biomedical imaging while addressing complex biomedical problems.
 
-# OTHER STUFF
+# My Sanctuary
 
-I am very passionate about the harmonious world of melodies, my musical tastes are eclectic, yet I possess a particular fondness for Classical Music, spanning from the rich traditions of Hindusthani to the timeless compositions of European origin. Literature has been a constant companion in my journey; I have indulged in numerous Bengali and English novels, which fueled my once insatiable appetite for reading. Photography is another avenue of artistic expression I explore intermittently; while a Google Pixel often suffices for casual endeavors, I turn to my <span style ="color:blue">[Sony 7 Alpha II](https://electronics.sony.com/imaging/interchangeable-lens-cameras/full-frame/p/ilce7m2k-b)</span>, coupled with a <span style ="color:blue">[Nikon 70-300mm VR lens](https://downloadcenter.nikonimglib.com/en/products/287/AF-S_VR_Zoom-Nikkor_70-300mm_f_45-56G_IF-ED.html)</span> lens through a Viltrox adapter, for more serious photographic pursuits.
+I am very passionate about the harmonious world of melodies, my musical tastes are eclectic, yet I possess a particular fondness for Classical Music, spanning from the rich traditions of Hindusthani to the timeless compositions of European origin. Literature has been a constant companion in my journey; I have indulged in numerous Bengali and English novels, which fueled my once insatiable appetite for reading. Photography is another avenue of artistic expression I explore intermittently; while a Google Pixel often suffices for casual endeavors, I turn to my <span style ="color:#00FFFF">[Sony 7 Alpha II](https://electronics.sony.com/imaging/interchangeable-lens-cameras/full-frame/p/ilce7m2k-b)</span>, coupled with a <span style ="color:#00FFFF">[Nikon 70-300mm VR lens](https://downloadcenter.nikonimglib.com/en/products/287/AF-S_VR_Zoom-Nikkor_70-300mm_f_45-56G_IF-ED.html)</span> lens through a Viltrox adapter, for more serious photographic pursuits.
 
 
 
