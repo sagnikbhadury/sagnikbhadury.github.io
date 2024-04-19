@@ -11,7 +11,7 @@ title                    : "Sagnik Bhadury"
 title_separator          : "-"
 name                     : &name "Sagnik Bhadury"
 description              : &description "Research Fellow, Michigan Medicine, University of Michigan"
-url                      : https://sagnikbhadury.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : shttps://sagnikbhadury.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -98,9 +98,9 @@ author:
   github           : "sagnikbhadury"
   google_plus      :
   keybase          :
-  instagram        : # "adwoito_skb"
+  instagram        : "adwoito_skb"
   lastfm           :
-  linkedin         : # "sagnik-k-bhadury"
+  linkedin         : "sagnik-k-bhadury"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
