@@ -33,8 +33,7 @@ I use my expertise in developing novel algorithms and tools to analyze large gen
 
 # My Sanctuary
 
-I am very passionate about the harmonious world of melodies, my musical tastes are eclectic, yet I possess a particular fondness for Classical Music, spanning from the rich traditions of Hindusthani to the timeless compositions of European origin. Literature has been a constant companion in my journey; I have indulged in numerous Bengali and English novels, which fueled my once insatiable appetite for reading. Photography is another avenue of artistic expression I explore intermittently; while a Google Pixel often suffices for casual endeavors, I turn to my <span style ="color:red">[Sony 7 Alpha II](https://electronics.sony.com/imaging/interchangeable-lens-cameras/full-frame/p/ilce7m2k-b)</span>, coupled with a <span style ="color:red">[Nikon 70-300mm VR lens](https://downloadcenter.nikonimglib.com/en/products/287/AF-S_VR_Zoom-Nikkor_70-300mm_f_45-56G_IF-ED.html)</span> through a Viltrox adapter, for more serious photographic pursuits. 
-
+I am very passionate about the harmonious world of melodies, my musical tastes are eclectic, yet I possess a particular fondness for Classical Music, spanning from the rich traditions of Hindusthani to the timeless compositions of European origin. Literature has been a constant companion in my journey; I have indulged in numerous Bengali and English novels, which fueled my once insatiable appetite for reading. Photography is another avenue of artistic expression I explore intermittently; while a Google Pixel often suffices for casual endeavors, I turn to my <span style ="color:red">[Sony 7 Alpha II](https://en.wikipedia.org/wiki/Sony_%CE%B17)</span>, coupled with a <span style ="color:red">[Nikon 70-300mm VR lens](https://downloadcenter.nikonimglib.com/en/products/287/AF-S_VR_Zoom-Nikkor_70-300mm_f_45-56G_IF-ED.html)</span> through a Viltrox adapter, for more serious photographic pursuits. 
 
 
 
