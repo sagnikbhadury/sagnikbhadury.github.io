@@ -15,7 +15,7 @@ I am a **Research Fellow**  in the <span style ="color:blue">[Systems Imaging & 
 
 My research portfolio is anchored in Bayesian frameworks, addressing methods for Undirected Graph construction, High-Dimensional Graphical Models, as well as practical methodologies for Sparse Network Estimation and Bayesian Variable Selection within Hierarchical Models. I've been trying to broaden my expertise by venturing into the realms of Spatial Statistics, and Variational Bayes Algorithms for scalable statistical analysis in biomedical imaging. This development signifies my commitment to incorporate innovative computational methods for complex data in a field that demands precision and efficiency.
 
-Application wise, I focus on advanced biostatistical methods for cancer research through sequencing data and integrative biomedical imaging technologies like Spatial Transcriptomics (ST), and Spatial Multiplex-Immunoprofiling (mIF). My current aim is to develop methods and analytical tools for Spatial Cancer Systems Biology aiding Precision Medicine. 
+Application wise, I focus on advanced biostatistical methods for cancer research through sequencing data and biomedical imaging technologies like Spatial Transcriptomics (ST), Spatial Multiplex-Immunoprofiling (mIF) and Magnetic resonance imaging. My current aim is to develop methods and analytical tools for Spatial Cancer Systems Biology aiding Precision Medicine. 
 
 # News
 
