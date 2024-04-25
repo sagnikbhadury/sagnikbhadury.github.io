@@ -33,7 +33,8 @@ Developing novel algorithms and tools to analyze large biomedical imaging data.
 
 # Tech Proficiencies
 
-* Softwares: R, C++, Julia, Python and Jupyter Notebook, MATLAB, Bash (TORQUE, SLURM), SAS, MINITAB, SPSS
+* Languages: R, C++, Julia, Python with Jupyter Notebook, Bash (TORQUE, SLURM)
+* Softwares: MATLAB, SAS, MINITAB, SPSS
 
 # My Sanctuary
 
