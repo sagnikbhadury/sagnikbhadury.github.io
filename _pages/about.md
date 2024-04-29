@@ -9,7 +9,7 @@ redirect_from:
 
 <span style="text-align: justify"> 
 
-Thanks for visiting my online platform for self-promotion! :stuck_out_tongue_winking_eye: 
+Thanks for visiting my online platform for self-promotion!
 
 I am a **Postdoctoral Researcher**  in the <span style ="color:blue">[Systems Imaging & Bioinformatics Lab](https://sibl.lab.medicine.umich.edu/)</span>,  <span style = "color:blue">[Michigan Medicine](https://www.uofmhealth.org/)</span>, <span style = "color:blue">[University of Michigan, MI, USA](https://umich.edu/)</span>, being mentored by <span style ="color:blue">[Arvind Rao, PhD](https://sph.umich.edu/faculty-profiles/rao-arvind.html)</span>, where I create innovative techniques, computational algorithms, and software instruments for the examination of extensive genomic and epigenomic data, derived from biomedical imaging within Cancer Systems Biology, aiding Precision Medicine. I earned _Ph.D._ in _Biostatistics_ under the watchful eye of <span style ="color:blue">[Jeremy Gaskins, PhD](https://louisville.edu/sphis/directory/jeremy-gaskins-phd)</span> and <span style ="color:blue">[Riten Mitra, PhD](https://louisville.edu/sphis/directory/riten-mitra)</span>, from <span style ="color:blue">[University of Louisville; KY, USA](https://louisville.edu/)</span> in Fall 2022. In recognition of my doctoral research progress, the Grad School of UofL honored me with the Doctoral Dissertation Completion Award.
 
