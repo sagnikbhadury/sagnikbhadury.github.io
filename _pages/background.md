@@ -33,7 +33,8 @@ Developing novel algorithms and tools to analyze large biomedical imaging data.
 
 # Tech Proficiencies
 
-* Languages: R, C++, Julia, Python with Jupyter Notebook, Bash (TORQUE, SLURM), Stan
+* Languages: R, C++, Julia, Python with Jupyter Notebook, Bash , Stan
+* HPC: SLURM, TORQUE
 * Softwares: MATLAB, SAS, MINITAB, SPSS
 
 # My Sanctuary
