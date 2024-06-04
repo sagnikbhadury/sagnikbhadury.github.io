@@ -23,7 +23,7 @@ redirect_from:
 * <span style="text-align: justify"> Duncan, S.D., <span style ="color:red">Bhadury, S.</span> et al., Determining Optimal Beds for the Hospitals of Kentucky </span>
 
 
-# Others - Peer Reviewed 
+# Others 
 
 * <span style="text-align: justify"> Scott, M., Metcalf, C., <span style ="color:red">Bhadury, S.</span>, et al., <span style ="color:blue"> [Impact of COVID-19 Pandemic Healthcare Restrictions on Utilization and Diagnostic Yield of Outpatient Transthoracic Echocardiograms](https://doi.org/10.1017/S1047951122003535)</span>,  **Cardiology in the Young 2022** </span>
 
