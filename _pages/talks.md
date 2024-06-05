@@ -6,6 +6,11 @@ author_profile: true
 redirect_from: 
 - /talks.html
 ---
+# Upcoming
+* JSM - Portland US - 2024
+* IISA - Cochin India - 2024
+
+---
 
 # Invited Talks 
 
