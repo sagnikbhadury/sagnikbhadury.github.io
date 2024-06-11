@@ -6,14 +6,16 @@ author_profile: true
 redirect_from: 
 - /talks.html
 ---
+
+---
 # Upcoming
+---
+
 * JSM - Portland US - 2024
 * IISA - Cochin India - 2024
 
 ---
-
 # Invited Talks 
-
 ---
 
 * Division of Cancer Epidemiology and Genetics, National Cancer Institute, USA; **Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation for Triple Negative Breast Cancer**; *Fall 2022* 
@@ -24,9 +26,7 @@ redirect_from:
 * Lecture Series on Mathematics and Data Science, Department of Mathematics, Raidighi College, affiliated with University of Calcutta, **Data visualization and prediction using R**; *Fall 2020*
 
 ---
-
 # Contributed Talks
-
 ---
 
 * _Kentucky Chapter Meeting of American Statistical Association_; **Fast Bayesian Estimation for Gaussian Graphical Models through Parallel Regressions**, at University of Kentucky, KY, USA; *Spring 2022*
@@ -34,3 +34,8 @@ redirect_from:
 
 
 ---
+# Member
+---
+
+* American Statistical Association (ASA)
+* Indian International Statistical Association (IISA)
