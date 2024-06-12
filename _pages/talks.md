@@ -37,5 +37,7 @@ redirect_from:
 # Member
 ---
 
-* American Statistical Association (ASA)
+* American Statistical Association (ASA) 2018 - Present
+* Kentucky chapter of ASA - 2018 - 2022
+* Ann Arbor chapter of ASA - 2023 - Present
 * Indian International Statistical Association (IISA)
