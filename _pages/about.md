@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Glad, you are here!"
+title: "Glad, Explore, Enjoy!"
 permalink: /
 author_profile: true
 redirect_from: 
-  - /about
+  - /about.html
 ---
  
 <span style="text-align: justify"> 
