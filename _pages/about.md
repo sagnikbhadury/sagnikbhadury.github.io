@@ -4,7 +4,7 @@ title: "Glad, you are here!"
 permalink: /
 author_profile: true
 redirect_from: 
-  - /about.html
+  - /about
 ---
  
 <span style="text-align: justify"> 
