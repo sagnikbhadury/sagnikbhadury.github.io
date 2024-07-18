@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "I am glad that you are here!"
+title: "Glad to have you here!"
 permalink: /
 author_profile: true
 redirect_from: 
