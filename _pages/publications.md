@@ -18,8 +18,6 @@ redirect_from:
 
 * <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span>  Mitra R., Gaskins J., A Bayesian Approach For Multiple Graphs </span>
 
-* <span style="text-align: justify"> Duncan, S.D., Creel, L.M., <span style ="color:red">Bhadury, S.</span> et al., Longitudinal Analysis of NICU and Using Queuing Theory to Determine Optimal NICU Beds for the Hospitals of Kentucky </span>
-
 * <span style="text-align: justify"> Duncan, S.D., <span style ="color:red">Bhadury, S.</span> et al., Determining Optimal Beds for the Hospitals of Kentucky </span>
 
 
