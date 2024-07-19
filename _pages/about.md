@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Glad to have you here!"
+title: "Hi, Welcome!"
 permalink: /
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
  
 <span style="text-align: justify"> 
 
-Thanks for visiting my personal promotion platform! 
+Glad you're here and thanks for visiting my personal promotion platform! 
 
 I am a **Postdoctoral Researcher**  in the <span style ="color:blue">[Systems Imaging & Bioinformatics Lab](https://sibl.lab.medicine.umich.edu/)</span>,  <span style = "color:blue">[Michigan Medicine](https://www.uofmhealth.org/)</span>, <span style = "color:blue">[University of Michigan, MI, USA](https://umich.edu/)</span>, being mentored by <span style ="color:blue">[Arvind Rao](https://sph.umich.edu/faculty-profiles/rao-arvind.html)</span>, where I create innovative techniques, computational algorithms, and softwares for extensive genomic and epigenomic data examination, derived from biomedical imaging within Cancer Systems Biology, aiding Precision Medicine. As a Graduate School Fellow, I finished my _Ph.D._ in _Biostatistics_ under <span style ="color:blue">[Jeremy Gaskins](https://louisville.edu/sphis/directory/jeremy-gaskins-phd)</span> and <span style ="color:blue">[Riten Mitra](https://louisville.edu/sphis/directory/riten-mitra)</span>, from <span style ="color:blue">[University of Louisville; KY, USA](https://louisville.edu/)</span> in Fall 2022.
 
