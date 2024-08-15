@@ -9,6 +9,8 @@ redirect_from:
 
 --- 
 
+I know it is unconvensional, but I do not always update this page. If you are interested in my profile, please email me. 
+
 # Preprint
 
 * <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span>, Mitra R., Gaskins J., <span style ="color:blue"> [Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation](https://arxiv.org/abs/2308.02713) </span>
@@ -43,9 +45,10 @@ redirect_from:
 
 
 
-# Thesis
+<!---# Thesis
 
 * <span style="text-align: justify"> <span style ="color:red">Bhadury, Sagnik K.</span> <span style ="color:blue"> [Bayesian Methods for Graphical Models with Neighborhood Selection](https://ir.library.louisville.edu/etd/4001/)</span>, PhD Dissertation Thesis Advisors: **Gaskins, Jeremy T. and Mitra, Ritendranath** </span>
+--->
 
 ---
 
