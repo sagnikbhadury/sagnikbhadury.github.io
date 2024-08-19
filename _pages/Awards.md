@@ -7,11 +7,11 @@ redirect_from:
 - /Awards.html
 ---
 
-# Major awards and honors
+# Updates
 
 ---
 
-* <span style="text-align: justify">  <span style ="color:blue"> [NSF Travel Award for Workshop on Stochastic Analysis, Random Fields, and Applications](https://imstat.org/meetings-calendar/workshop-on-stochastic-analysis-random-fields-and-applications/)</span> </span>, at Michigan State University, Fall 2023.
+* <span style="text-align: justify">  <span style ="color:blue"> [NSF Travel Award for Workshop on Stochastic Analysis, Random Fields, and Applications](https://imstat.org/meetings-calendar/workshop-on-stochastic-analysis-random-fields-and-applications)</span> </span>, Michigan State University, Fall 2023.
 
 
 * <span style="text-align: justify">  <span style ="color:blue"> [Graduate Dissertation Completion Award](https://louisville.edu/graduate/current-students/dissertation-completion-award-nomination-form)</span> </span>, Graduate School, University of Louisville, Fall 2022.
