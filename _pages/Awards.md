@@ -7,7 +7,7 @@ redirect_from:
 - /Awards.html
 ---
 
-# Updates
+# Acknowledging Appreciation
 
 ---
 
