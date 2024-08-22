@@ -29,7 +29,7 @@ redirect_from:
 Actively engaged in delivering lectures and creating syllabi. I have also contributed to the mentorship and supervision of multiple student dissertation projects. 
 
 * Postdoctoral Research Fellow, <span style ="color:blue">[University of Michigan; Ann Arbor, MI, USA](https://umich.edu/)</span> 2023 - Present.
-Developing novel algorithms and tools to analyze large biomedical imaging data.
+
 
 # Tech Proficiencies
 
