@@ -15,7 +15,7 @@ I am a **Postdoctoral Researcher**  in the <span style ="color:blue">[Systems Im
 
 My research portfolio is anchored in Bayesian frameworks, addressing methods for Undirected Graph construction, High-Dim Graphical Models, as well as practical methodologies for Sparse Network Estimation and Bayesian Variable Selection within Hierarchical Models. I've been trying to venture into the realms of Spatial Statistics, and Variational Bayes Algorithms for scalability in biomedical imaging incorporating innovative computational methods for complex data in a field that demands precision and efficiency.
 
-Application wise, I am fascinated by advanced biostatistical methods for cancer research through next-gen sequencing and biomedical imaging techs like Multiplex-Immunoprofiling (mIF), Spatial Transcriptomics (ST), Magnetic resonance imaging (MRI). 
+Application wise, I am fascinated by advanced biostatistical methods for cancer research through numerous next-gen sequencing and biomedical imaging technologies like Multiplex-Immunoprofiling (mIF), Spatial Transcriptomics (ST) and Magnetic resonance imaging (MRI). 
 
 # News
 
