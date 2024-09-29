@@ -15,8 +15,7 @@ I am a **Postdoctoral Research Fellow**  in the <span style ="color:blue">[Syste
 
 My research portfolio is anchored in Bayesian frameworks addressing High-Dim Graphical Models, methodologies for Sparse Network Estimation and Bayesian Variable Selection within Hierarchical Models. I have been working on algorithms for scalability in biomedical imaging incorporating innovative computational methods for complex data in a field that demands precision and efficiency.
 
-Currenly, I am being trained in advanced bioinformatic tools and biostatistical methods for cancer research through numerous next-gen sequencing and biomedical imaging technologies like Multiplex-Immunoprofiling (mIF), Spatial Transcriptomics (ST) and Magnetic resonance imaging (MRI).
-
+Currenly, I am being trained in advanced bioinformatic tools and biostatistical methods for cancer research through numerous next-gen sequencing and biomedical imaging technologies like Multiplex-Immunoprofiling (mIF).
 # News
 
 * Preprint available: <span style ="color:blue"> [Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation](https://arxiv.org/abs/2308.02713) </span>
