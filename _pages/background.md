@@ -13,18 +13,18 @@ redirect_from:
 # Academic Adventures
 <!---* I attended <span style ="color:blue">[The Hindu School](https://en.wikipedia.org/wiki/Hindu_School,_Kolkata)</span> in the very heart of <span style ="color:blue">[The College Street](https://en.wikipedia.org/wiki/College_Street_(Kolkata))</span> for 12 years of my school life (1998-2010). --->
 
-* _Bachelor of Science_ in _Statistics_, <span style ="color:blue">[University of Calcutta, St. Xavier's College Kolkata, Auton.; WB, India](http://www.sxccal.edu/)</span> 2010-2013. 
+* _B.Sc._ _Statistics_, <span style ="color:blue">[St. Xavier's College Kolkata, Auton. under University of Calcutta, WB, India](http://www.sxccal.edu/)</span> 2010-2013. 
 
-* _Master of Science_ in _Statistics_, <span style ="color:blue">[University of Calcutta; Kolkata, WB, India](https://www.caluniv.ac.in/academic/Statistics.html)</span> 2013-2015. 
+* _M.Sc_ _Statistics_, <span style ="color:blue">[University of Calcutta; Kolkata, WB, India](https://www.caluniv.ac.in/academic/Statistics.html)</span> 2013-2015. 
 
-* _Doctor of Philosophy_ in _Biostatistics_, <span style ="color:blue">[University of Louisville; Louisville, KY, USA](https://louisville.edu/)</span> 2018-2022. 
+* _Ph.D._ _Biostatistics_, <span style ="color:blue">[University of Louisville; Louisville, KY, USA](https://louisville.edu/)</span> 2018-2022. 
 
 
 # Professional Pursuits
 
 * Statistical Trainee, <span style ="color:blue">[Indian Statistical Insititute; Kolkata, WB, India](https://www.isical.ac.in/)</span>, 2015 - 2016.
 
-* Adjunct Professor (Contract) of Statistics, <span style ="color:blue">[Amity University Kolkata; WB, India](https://www.amity.edu/kolkata/)</span> (UG & PG Statistics), 2016 - 2018.
+* Adjunct Professor (Contractual) of Statistics, <span style ="color:blue">[Amity University Kolkata; WB, India](https://www.amity.edu/kolkata/)</span> (UG & PG Statistics), 2016 - 2018.
 
 * Postdoctoral Research Fellow, <span style ="color:blue">[University of Michigan; Ann Arbor, MI, USA](https://umich.edu/)</span> 2023 - Present.
 
@@ -37,4 +37,4 @@ redirect_from:
 
 # My Sanctuary
 
-I am passionate about the harmonious world of melodies, my musical tastes are eclectic, yet I possess a particular fondness for Classical Music, spanning from the rich traditions of Hindusthani to the timeless compositions of European origin. Literature has been a constant companion in my journey; I have indulged in numerous Bengali novels, which fueled my once insatiable appetite for reading. Photography is another avenue of artistic expression I explore intermittently; while a Google Pixel often suffices for casual endeavors, I turn to my <span style ="color:red">[Sony 7 Alpha II](https://en.wikipedia.org/wiki/Sony_%CE%B17)</span>, coupled with a <span style ="color:red">[Nikon 70-300mm VR lens](https://downloadcenter.nikonimglib.com/en/products/287/AF-S_VR_Zoom-Nikkor_70-300mm_f_45-56G_IF-ED.html)</span> through a Viltrox adapter, for more serious photographic pursuits. Lastly, hiking is fun!
+I am passionate about the harmonious world of melodies, my musical tastes are eclectic, yet I possess a particular fondness for Classical Music, spanning from the rich traditions of Hindusthani to the timeless compositions of European origin. Literature has been a constant companion in my journey; timeless Bengali novels used to fuel my once insatiable appetite for reading. Photography is another avenue of artistic expression I explore intermittently; while a Google Pixel often suffice casual endeavors, but I turn to my <span style ="color:red">[Sony 7 Alpha II](https://en.wikipedia.org/wiki/Sony_%CE%B17)</span>, coupled with a <span style ="color:red">[Nikon 70-300mm VR lens](https://downloadcenter.nikonimglib.com/en/products/287/AF-S_VR_Zoom-Nikkor_70-300mm_f_45-56G_IF-ED.html)</span> through a Viltrox adapter (Tamron lenses do really well) for more serious photographic pursuits. Lastly, hiking is fun!
