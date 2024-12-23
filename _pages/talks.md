@@ -22,7 +22,6 @@ redirect_from:
 * FDA, USA; **Bayesian Methods for Sparse Graph Estimation in Higher Dimensions for Triple Negative Breast Cancer Patients**; *Fall 2022* 
 * _e-ConSus 2021_ : International Conference on Revisiting Strategies for Sustainable Development: Kazi Nazrul University, WB, India; **Bayesian Methods for Analyzing Gene Expression profiles of Breast Cancer Patients**; *Winter 2021*
 * Biostatistics Student Seminar, _Department of Bioinformatics and Biostatistics_,  University of Louisville, KY, USA , **Bayesian methodology for Graphical Models with Neighborhood Regressions**; *Fall 2021*
-* Lecture Series on Mathematics and Data Science, Department of Mathematics, Raidighi College with University of Calcutta, **Data visualization and prediction using R**; *Fall 2020*
 
 ---
 # Contributed
