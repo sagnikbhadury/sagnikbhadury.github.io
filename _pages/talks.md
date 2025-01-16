@@ -7,16 +7,12 @@ redirect_from:
 - /talks.html
 ---
 
----
-# Upcoming
----
-
-* IISA - Cochin India - 2024
 
 ---
 # Invited
 ---
 
+* _Annual Conference of Indian International Statistical Association_; **Bayesian Inference for Point Patterns in Space**, at Cochin, KL, India; *Winter 2024*
 * Division of Cancer Epidemiology and Genetics, National Cancer Institute, USA; **Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation for Triple Negative Breast Cancer**; *Fall 2022* 
 * Merck, USA; **Bayesian Estimation for Gaussian Graphical Models**; *Fall 2022* 
 * FDA, USA; **Bayesian Methods for Sparse Graph Estimation in Higher Dimensions for Triple Negative Breast Cancer Patients**; *Fall 2022* 
@@ -30,7 +26,6 @@ redirect_from:
 * _Joint Statistical Meeting_; **Bayesian Inference for Point Patterns in Space**, at Portland, OR, USA; *Summer 2024*
 * _Kentucky Chapter Meeting of American Statistical Association_; **Bayesian Estimation for Gaussian Graphical Models through Regressions**, at University of Kentucky, KY, USA; *Spring 2022*
 * _Kentucky Chapter Meeting of American Statistical Association_; **Sparse Graph Estimation in Higher Dimensions with Neighborhood Regressions**, at University of Louisville, KY, USA; *Spring 2021* **(Won Best Presentation Award)**
-
 
 ---
 # Member
