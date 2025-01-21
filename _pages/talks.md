@@ -24,6 +24,7 @@ redirect_from:
 ---
 
 * _Joint Statistical Meeting_; **Bayesian Inference for Point Patterns in Space**, at Portland, OR, USA; *Summer 2024*
+* _Joint Statistical Meeting_; **Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation**, at Portland, OR, USA; *Summer 2024*
 * _Kentucky Chapter Meeting of American Statistical Association_; **Bayesian Estimation for Gaussian Graphical Models through Regressions**, at University of Kentucky, KY, USA; *Spring 2022*
 * _Kentucky Chapter Meeting of American Statistical Association_; **Sparse Graph Estimation in Higher Dimensions with Neighborhood Regressions**, at University of Louisville, KY, USA; *Spring 2021* **(Won Best Presentation Award)**
 
