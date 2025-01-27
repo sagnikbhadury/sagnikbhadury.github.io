@@ -11,7 +11,9 @@ redirect_from:
 
 ---
 
-* <span style="text-align: justify">  <span style ="color:blue"> [NSF Travel Award for Workshop on Stochastic Analysis, Random Fields, and Applications](https://imstat.org/meetings-calendar/workshop-on-stochastic-analysis-random-fields-and-applications)</span> </span>, Michigan State University, Fall 2023.
+* <span style="text-align: justify">  NSF Travel Award <span style ="color:blue"> [2024 Annual Conference of Indian International Statistical Association](https://www.intindstat.org/conference2024/index)</span> </span>, Cochin, KL, India, Winter 2024.
+
+* <span style="text-align: justify">  NSF Travel Award <span style ="color:blue"> [Workshop on Stochastic Analysis, Random Fields, and Applications](https://imstat.org/meetings-calendar/workshop-on-stochastic-analysis-random-fields-and-applications)</span> </span>, Michigan State University, Fall 2023.
 
 
 * <span style="text-align: justify">  <span style ="color:blue"> [Graduate Dissertation Completion Award](https://louisville.edu/graduate/current-students/dissertation-completion-award-nomination-form)</span> </span>, Graduate School, University of Louisville, Fall 2022.
@@ -22,7 +24,7 @@ redirect_from:
 
 * <span style="text-align: justify">  <span style ="color:blue">[Graduate Research Assistantship](https://louisville.edu/graduate/faculty-staff/policies-and-procedures/policy-on-graduate-assistantships)</span>, Fall 2018 - Summer 2022, School of Public Health, University of Louisville.
 
-* <span style="text-align: justify">  <span style ="color:blue">  [DST INSPIRE National Scholarship](https://online-inspire.gov.in/) </span> by Department of Science and Technology, Government of India, 2010.
+* <span style="text-align: justify">  DST INSPIRE <span style ="color:blue">  [National Scholarship](https://online-inspire.gov.in/) </span> by Department of Science and Technology, Government of India, 2010.
 
 ---
 
