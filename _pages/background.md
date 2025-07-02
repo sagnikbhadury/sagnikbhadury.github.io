@@ -27,7 +27,7 @@ redirect_from:
 
 * _M.Sc_ _Statistics_, <span style ="color:blue">[University of Calcutta; Kolkata, WB, India](https://www.caluniv.ac.in/academic/Statistics.html)</span> 2013-2015. 
 
-* _B.Sc._ _Statistics_, <span style ="color:blue">[St. Xavier's College Kolkata, Auton. under University of Calcutta, WB, India](http://www.sxccal.edu/)</span> 2010-2013. 
+* _B.Sc._ _Statistics_, <span style ="color:blue">[St. Xavier's College Kolkata, University of Calcutta, WB, India](http://www.sxccal.edu/)</span> 2010-2013. 
 
 
 
