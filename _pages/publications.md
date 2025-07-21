@@ -15,6 +15,8 @@ I know it is unconvensional, but I do not always update this page. If you are in
 
 * <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span>, Mitra R., Gaskins J., <span style ="color:blue"> [Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation](https://arxiv.org/abs/2308.02713) </span>
 
+* <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> Informed Spatially Aware Patterns for Multiplexed Immunofluorescence data  </span>
+
 
 # In Preparation
 
