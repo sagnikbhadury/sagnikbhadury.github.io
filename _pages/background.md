@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-* My complete CV might be found [_**here**_]([https://drive.google.com/file/d/1Y3Iz-r9unOtENojvzJ5jLxP2gHLa_xhR/view?usp=sharing](https://drive.google.com/file/d/1MFh11aN-_4uBYKS2aEeurqzn4g2GTqmJ/view?usp=drive_link)), if not, the following can help.
+* My complete CV might be found [_**here**_](https://drive.google.com/file/d/1MFh11aN-_4uBYKS2aEeurqzn4g2GTqmJ/view?usp=sharing), if not, the following can help.
 
 # Professional Pursuits
 
