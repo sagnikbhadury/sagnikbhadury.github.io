@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-* My complete CV might be found [_**here**_](https://drive.google.com/file/d/1MFh11aN-_4uBYKS2aEeurqzn4g2GTqmJ/view?usp=sharing), if not, the following can help.
+* My complete CV might be found [_**here**_](https://drive.google.com/file/d/1BY8fQ_fHV3LiY4feqpGjgf3NPihJ-GQK/view?usp=sharing), if not, the following can help.
 
 # Professional Pursuits
 
@@ -42,4 +42,5 @@ redirect_from:
 # My Sanctuary
 
 I am passionate about the harmonious world of melodies, my musical tastes are eclectic, yet I possess a particular fondness for Classical Music, spanning from the rich traditions of Hindusthani to the timeless compositions of European origin. Literature has been a constant companion in my journey; timeless Bengali novels used to fuel my once insatiable appetite for reading. Photography is another avenue of artistic expression I explore intermittently; I turn to my <span style ="color:red">[Sony 7 Alpha II](https://en.wikipedia.org/wiki/Sony_%CE%B17)</span>, coupled with a <span style ="color:red">[Nikon 70-300mm VR lens](https://downloadcenter.nikonimglib.com/en/products/287/AF-S_VR_Zoom-Nikkor_70-300mm_f_45-56G_IF-ED.html)</span> through a Viltrox adapter (Tamron lenses do really well) for serious photographic pursuits. 
+
 
