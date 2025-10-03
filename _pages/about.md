@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Greetings, Fellow Explorer!"
+title: "Welcome, Curious Mind!"
 permalink: /
 author_profile: true
 redirect_from: 
@@ -20,4 +20,5 @@ My research portfolio is anchored in Bayesian frameworks addressing Graphical Mo
 
 * Preprint available: <span style ="color:blue"> [Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation](https://arxiv.org/abs/2308.02713) </span>
 * Preprint available: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> Informed Spatially Aware Patterns for Multiplexed Immunofluorescence data  </span>
+
 
