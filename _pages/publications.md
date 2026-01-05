@@ -14,12 +14,10 @@ I know it is unconvensional, but I do not always update this page. If you are in
 # Preprint
 
 * <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span>, Mitra R., Gaskins J., <span style ="color:blue"> [Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation](https://arxiv.org/abs/2308.02713) </span>
-
-* <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> Informed Spatially Aware Patterns for Multiplexed Immunofluorescence data  </span>
-
-* <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> Radiogenomic analysis for Lower Grade Gliomas incorporating tumor heterogeneity in MRI images through densities and shape  </span>
-
-* <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> Graph-Based Multi-Modal Learning in Lung Cancer  </span>
+* Accepted Nature Scientific Reports: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> Informed Spatially Aware Patterns for Multiplexed Immunofluorescence data  </span>
+* Preprint available: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> Graph-Based Multi-Modal Learning for Integrating Histopathological and Transcriptomic Features in Lung Cancer </span>
+* Preprint available: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> Functional Depth biomarkers Distinguish Lung Cancer Subtypes </span>
+* Preprint available: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> Radiogenomic analysis for Lower Grade Gliomas incorporating tumor heterogeneity in MRI images through densities and shape  </span>
 
 
 # Others 
@@ -50,5 +48,6 @@ I know it is unconvensional, but I do not always update this page. If you are in
 --->
 
 ---
+
 
 
