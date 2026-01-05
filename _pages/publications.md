@@ -22,6 +22,15 @@ I know it is unconvensional, but I do not always update this page. If you are in
 
 # Others 
 
+
+* Sravya, P., Freeman, J. , Gokul, A., <span style ="color:red">Bhadury, S.</span>, et al.  <span style ="color:blue"> [Microenvironment-derived acetylated amino acids promote glioblastoma DNA repair by rerouting glucose fates and enhancing histone acetylation](https://academic.oup.com/neuro-oncology/article/27/Supplement_5/v464/8319942)</span>, **Neuro-Oncology 2025** </span>
+
+* Shankar, S., Ravikumar, V., Tripathy, A.,  <span style ="color:red">Bhadury, S.</span>, et al.  <span style ="color:blue"> [Glioblastoma evolution and resistance is mediated by a shift in cell state and tumor microenvironmental interactions](https://aacrjournals.org/cancerres/article/84/5_Supplement_1/B001/734329)</span>, **Cancer Research 2024** </span>
+
+* <span style="text-align: justify"> Tripathi, A., Shankar, S., Ravikumar, V., <span style ="color:red">Bhadury, S.</span>, et al.  <span style ="color:blue"> [Single Cell Sequencing of Recurrent Glioblastoma Defines Cellular States Associated with Therapy Resistance](https://academic.oup.com/neuro-oncology/article/25/Supplement_5/v292/7406172)</span>, **Neuro-Oncology 2023** </span>
+
+* Sravya, P., Singer, A. , Scott, AJ., <span style ="color:red">Bhadury, S.</span>, et al.  <span style ="color:blue"> [Microglia in the Glioblastoma Microenvironment Assist Repair of Radiation-Induced DNA Damage in a Contact-Independent Manner](https://academic.oup.com/neuro-oncology/article/25/Supplement_5/v98/7405697)</span>, **Neuro-Oncology 2023** </span>
+
 * <span style="text-align: justify"> Scott, M., Metcalf, C., <span style ="color:red">Bhadury, S.</span>, et al., <span style ="color:blue"> [Impact of COVID-19 Pandemic Healthcare Restrictions on Utilization and Diagnostic Yield of Outpatient Transthoracic Echocardiograms](https://doi.org/10.1017/S1047951122003535)</span>,  **Cardiology in the Young 2022** </span>
 
 * <span style="text-align: justify"> Wattles, B.A. , Smith, M.J. , Feygin Y. , Jawad K.S. , <span style ="color:red">Bhadury, S.</span>, Sun, J. , Kong, M. ,Woods, C.R. , <span style ="color:blue">[Recurrent antibiotic use in Kentucky children with 6 years continuous Medicaid enrollment](https://doi.org/10.1093/jpids/piac079)</span>, **Journal of the Pediatric Infectious Diseases Society 2022** </span> 
@@ -48,6 +57,7 @@ I know it is unconvensional, but I do not always update this page. If you are in
 --->
 
 ---
+
 
 
 
