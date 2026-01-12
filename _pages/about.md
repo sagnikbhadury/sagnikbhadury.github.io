@@ -19,10 +19,11 @@ My research portfolio is anchored in Bayesian frameworks addressing Graphical Mo
 # News
 
 * Preprint available: <span style ="color:blue"> [Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation](https://arxiv.org/abs/2308.02713) </span>
-* Accepted Nature Scientific Reports: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> Informed Spatially Aware Patterns for Multiplexed Immunofluorescence data  </span>
+* Accepted Nature Scientific Reports: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> [Informed Spatially Aware Patterns for Multiplexed Immunofluorescence data](https://www.nature.com/articles/s41598-026-35341-8)  </span>
 * Preprint available: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> Graph-Based Multi-Modal Learning for Integrating Histopathological and Transcriptomic Features in Lung Cancer </span>
 * Preprint available: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> Functional Depth biomarkers Distinguish Lung Cancer Subtypes </span>
 * Preprint available: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> Radiogenomic analysis for Lower Grade Gliomas incorporating tumor heterogeneity in MRI images through densities and shape  </span>
+
 
 
 
