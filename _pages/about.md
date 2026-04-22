@@ -18,12 +18,13 @@ My research portfolio is anchored in Bayesian frameworks addressing Graphical Mo
 
 # News
 
-* Preprint available: <span style ="color:blue"> [Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation](https://arxiv.org/abs/2308.02713) </span>
-* Accepted Nature Scientific Reports: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> [Informed Spatially Aware Patterns for Multiplexed Immunofluorescence data](https://www.nature.com/articles/s41598-026-35341-8)  </span>
-* Preprint available: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> Bayesian Joint Estimation of Multiple Graphs through Shared Shrinkage </span>
+* <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span>, Mitra, R., Gaskins, J., <span style ="color:blue"> [Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation](https://arxiv.org/abs/2308.02713) </span>
 * Preprint available: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> Graph-Based Multi-Modal Learning for Integrating Histopathological and Transcriptomic Features in Lung Cancer </span>
 * Preprint available: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> Functional Depth biomarkers Distinguish Lung Cancer Subtypes </span>
-* Preprint available: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> Radiogenomic analysis for Lower Grade Gliomas incorporating tumor heterogeneity in MRI images through densities and shape  </span>
+* Preprint available: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span>, Gaskins, J., Rao, A., <span style ="color:blue"> [Spatially Varying Graphical Models for Cell-Cell Interaction Networks in Multiplexed Tissue Imaging](https://doi.org/10.64898/2026.04.01.715977)
+* Preprint available: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span>, Rao, A., <span style ="color:blue"> [ISPAT 3D: Spatially Varying Conditional Volumetric Network Estimation for 3D Tumor Imaging](https://doi.org/10.64898/2026.04.16.719017) 
+* Preprint available: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> Bayesian Joint Estimation of Multiple Graphs through Shared Shrinkage </span>
+* Preprint available: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> RISM: Radiomic feature Integration with Spike-and-slab for Multimodal survival analysis.  </span>
 
 
 
