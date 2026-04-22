@@ -13,12 +13,18 @@ I know it is unconvensional, but I do not always update this page. If you are in
 
 # Preprint
 
-* <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span>, Mitra R., Gaskins J., <span style ="color:blue"> [Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation](https://arxiv.org/abs/2308.02713) </span>
-* Nature Scientific Reports: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> [Informed Spatially Aware Patterns for Multiplexed Immunofluorescence data](https://www.nature.com/articles/s41598-026-35341-8)  </span>
-* Preprint available: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> Bayesian Joint Estimation of Multiple Graphs through Shared Shrinkage </span>
+* <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span>, Mitra, R., Gaskins, J., <span style ="color:blue"> [Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation](https://arxiv.org/abs/2308.02713) </span>
 * Preprint available: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> Graph-Based Multi-Modal Learning for Integrating Histopathological and Transcriptomic Features in Lung Cancer </span>
 * Preprint available: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> Functional Depth biomarkers Distinguish Lung Cancer Subtypes </span>
-* Preprint available: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> Radiogenomic analysis for Lower Grade Gliomas incorporating tumor heterogeneity in MRI images through densities and shape  </span>
+* Preprint available: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span>, Gaskins, J., Rao, A., <span style ="color:blue"> [Spatially Varying Graphical Models for Cell-Cell Interaction Networks in Multiplexed Tissue Imaging](https://doi.org/10.64898/2026.04.01.715977)
+* Preprint available: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span>, Rao, A., <span style ="color:blue"> [ISPAT 3D: Spatially Varying Conditional Volumetric Network Estimation for 3D Tumor Imaging](https://doi.org/10.64898/2026.04.16.719017) 
+* Preprint available: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> Bayesian Joint Estimation of Multiple Graphs through Shared Shrinkage </span>
+* Preprint available: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> RISM: Radiomic feature Integration with Spike-and-slab for Multimodal survival analysis.  </span>
+
+# Published
+
+* Nature Scientific Reports: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> [ISPAT: Informed Spatially Aware Patterns for Multiplexed Immunofluorescence data](https://www.nature.com/articles/s41598-026-35341-8)  </span>
+* npj Artificial Intelligence: Tsang, A., Krishnan, S., Kulkarni, R., <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> Rao, A., et al. <span style ="color:blue"> [Encoding functional edges in graphs to model spatially varying relationships in the tumor microenvironment.](https://doi.org/10.1038/s44387-026-00075-5)  </span>
 
 
 # Others 
