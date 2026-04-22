@@ -22,7 +22,8 @@ I know it is unconvensional, but I do not always update this page. If you are in
 * Preprint available: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> RISM: Radiomic feature Integration with Spike-and-slab for Multimodal survival analysis.  </span>
 
 # Published
-
+* <span style="text-align: justify"> Scott, M., Metcalf, C., <span style ="color:red">Bhadury, S.</span>, et al., <span style ="color:blue"> [Impact of COVID-19 Pandemic Healthcare Restrictions on Utilization and Diagnostic Yield of Outpatient Transthoracic Echocardiograms](https://publications.aap.org/pediatrics/article/149/1/338/185976)</span>, Accepted in Conference **American Academy of Pediatrics Annual Meeting 2022** </span>
+* <span style="text-align: justify"> Wattles, B.A. , Smith, M.J. , Feygin Y. , Jawad K.S. , <span style ="color:red">Bhadury, S.</span>, Sun, J. , Kong, M. ,Woods, C.R. , <span style ="color:blue">[Recurrent antibiotic use in Kentucky children with 6 years continuous Medicaid enrollment](https://doi.org/10.1093/jpids/piac079)</span>, **Journal of the Pediatric Infectious Diseases Society 2022** </span>
 * Nature Scientific Reports: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> [ISPAT: Informed Spatially Aware Patterns for Multiplexed Immunofluorescence data](https://www.nature.com/articles/s41598-026-35341-8)  </span>
 * npj Artificial Intelligence: Tsang, A., Krishnan, S., Kulkarni, R., <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> Rao, A., et al. <span style ="color:blue"> [Encoding functional edges in graphs to model spatially varying relationships in the tumor microenvironment.](https://doi.org/10.1038/s44387-026-00075-5)  </span>
 
@@ -40,15 +41,12 @@ I know it is unconvensional, but I do not always update this page. If you are in
 
 * <span style="text-align: justify"> Scott, M., Metcalf, C., <span style ="color:red">Bhadury, S.</span>, et al., <span style ="color:blue"> [Impact of COVID-19 Pandemic Healthcare Restrictions on Utilization and Diagnostic Yield of Outpatient Transthoracic Echocardiograms](https://doi.org/10.1017/S1047951122003535)</span>,  **Cardiology in the Young 2022** </span>
 
-* <span style="text-align: justify"> Wattles, B.A. , Smith, M.J. , Feygin Y. , Jawad K.S. , <span style ="color:red">Bhadury, S.</span>, Sun, J. , Kong, M. ,Woods, C.R. , <span style ="color:blue">[Recurrent antibiotic use in Kentucky children with 6 years continuous Medicaid enrollment](https://doi.org/10.1093/jpids/piac079)</span>, **Journal of the Pediatric Infectious Diseases Society 2022** </span> 
 
 * <span style="text-align: justify"> Jackson, C.N., Duncan, S.D., Creel, L.M., Feygin, Y., <span style ="color:red">Bhadury, S.</span> et al., <span style ="color:blue"> [Using Queuing Theory to Determine Optimal Obstetrical Bed Numbers](https://academyhealth.confex.com/academyhealth/2022arm/meetingapp.cgi/Paper/53422)</span>, Accepted in Conference **Pediatric Academic Societies 2022 & Academy Health Annual Research Meeting 2022** </span>
 
 *  <span style="text-align: justify"> Duncan, S.D., Creel, L.M., <span style ="color:red">Bhadury, S.</span> et al., <span style ="color:blue"> [Using Queuing Theory to Determine Optimal NICU Bed Numbers](https://academyhealth.confex.com/academyhealth/2022arm/meetingapp.cgi/Paper/53170)</span>, Accepted in Conference **Pediatric Academic Societies 2022 & Academy Health Annual Research Meeting 2022** </span>
   
 * <span style="text-align: justify"> Duncan, S.D.,Feygin, Y., <span style ="color:red">Bhadury, S.</span> et al.,  <span style ="color:blue"> [Declining Access to Obstetrical Beds in Rural Kentucky](https://academyhealth.confex.com/academyhealth/2022arm/meetingapp.cgi/Paper/53463)</span>, Accepted in Conference **Pediatric Academic Societies 2022 & Academy Health Annual Research Meeting 2022** </span>
-
-* <span style="text-align: justify"> Scott, M., Metcalf, C., <span style ="color:red">Bhadury, S.</span>, et al., <span style ="color:blue"> [Impact of COVID-19 Pandemic Healthcare Restrictions on Utilization and Diagnostic Yield of Outpatient Transthoracic Echocardiograms](https://publications.aap.org/pediatrics/article/149/1/338/185976)</span>, Accepted in Conference **American Academy of Pediatrics Annual Meeting 2022** </span>
 
 *  <span style="text-align: justify"> Green, J.V., Bryant, K.A., Boland, L.F., Stout, G.G., Junkins, A.D., Stahl, J.A., Feygin, Y., <span style ="color:red">Bhadury, S.</span>, Espinosa, C.,  <span style ="color:blue"> [Increased NICU mupirocin use drives MRSA mupirocin resistance but not transmission or invasive infection](https://virtual2021.pas-meeting.org/fsPopup.asp?efp=WldIRlFRV1gxNDAzOA&PosterID=365942&rnd=0.5142702&mode=posterinfo)</span>, **Poster at Annual Meeting of Pediatric Academic Societies 2021 - E-PAS2021:4909-HP-QA.478** </span>
 
