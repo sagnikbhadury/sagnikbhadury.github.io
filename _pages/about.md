@@ -19,7 +19,7 @@ I am a **Postdoctoral Research Fellow** in the <span style ="color:blue">[System
 
 * **Ph.D. in Biostatistics, University of Louisville** (2022) &middot; **Postdoctoral Research Fellow, University of Michigan** (current)
 * **Awards**: NSF Travel Award (IISA 2024), Graduate Dissertation Completion Award, Best Bayesian Student Presentation Award (ASA-KY) &mdash; see [Awards]({{ "/Awards/" | relative_url }})
-* **Publications**: Multiple first-author manuscript and six active preprints &mdash; see [Publications]({{ "/publications/" | relative_url }})
+* **Publications**: Multiple first-author and collaborative manuscripts and six active preprints &mdash; see [Publications]({{ "/publications/" | relative_url }})
 * **Code**: seven public research repositories, each packaged as an installable R tool &mdash; see [Data & Projects]({{ "/datasets/" | relative_url }})
 
 ## Research Areas
