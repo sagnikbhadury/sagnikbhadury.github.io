@@ -13,7 +13,7 @@ redirect_from:
 
 I am a **Postdoctoral Research Fellow** in the <span style ="color:blue">[Systems Imaging & Bioinformatics Lab](https://sibl.lab.medicine.umich.edu/)</span>, <span style = "color:blue">[Gilbert S. Omenn Department of Computational Medicine and Bioinformatics](https://medschool.umich.edu/departments/computational-medicine-bioinformatics)</span>,  <span style = "color:blue">[Michigan Medicine](https://www.uofmhealth.org/)</span>, <span style = "color:blue">[University of Michigan; Ann Arbor, MI, USA](https://umich.edu/)</span>, mentored by <span style ="color:blue;">Arvind Rao, PhD </span> \{<span style ="color:blue">[1](https://sph.umich.edu/faculty-profiles/rao-arvind.html), [2](https://medschool.umich.edu/profile/5596/arvind-rao)</span>\}. I earned my _Ph.D._ in _Biostatistics_ from <span style ="color:blue">[University of Louisville; KY, USA](https://louisville.edu/)</span> in Fall 2022, under the joint supervision of <span style ="color:blue">[Jeremy Gaskins, PhD](https://louisville.edu/sphis/directory/jeremy-gaskins-phd)</span> and Late Riten Mitra, PhD.
 
-</span>
+
 
 ## Highlights
 
