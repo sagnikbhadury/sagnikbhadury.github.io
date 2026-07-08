@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="text-align: justify; font-size: 1.1em;">I develop **Bayesian statistical methods for spatial and multi-modal cancer genomics** &mdash; graphical models, sparsity priors, and causal inference &mdash; applied to multiplexed tissue imaging, spatial transcriptomics, MRI, and H&amp;E histology.</span>
+<span style="text-align: justify; font-size: 1.1em;">I develop **Bayesian statistical methods for spatial and various types of data and multi-modal cancer genomics** &mdash; graphical models, sparsity priors, and causal inference &mdash; applied to multiplexed tissue imaging, spatial transcriptomics, MRI, and H&amp;E histology.</span>
 
 <span style="text-align: justify">
 
