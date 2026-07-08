@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" width="100%" role="img" aria-labelledby="heTitle">
+<title id="heTitle">Graph-based multimodal fusion of H&amp;E histomorphology and transcriptomic features in lung cancer</title>
+<rect x="1" y="1" width="478" height="298" rx="12" fill="#ffffff" stroke="#dfe6ea"/>
+<text x="24" y="30" font-family="Helvetica Neue, Arial, sans-serif" font-size="15" font-weight="700" fill="#1f3b57">Graph fusion of H&amp;E morphology and transcriptomics</text>
+
+<!-- H&E branch -->
+<rect x="24" y="55" width="150" height="150" rx="8" fill="#f8f1f5" stroke="#a95a86" stroke-width="1.4"/>
+<text x="99" y="72" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="11.5" font-weight="700" fill="#7c3f66">H&amp;E histology graph</text>
+<g stroke="#a95a86" stroke-width="1.3" opacity="0.6">
+<line x1="55" y1="100" x2="90" y2="115"/>
+<line x1="90" y1="115" x2="130" y2="100"/>
+<line x1="90" y1="115" x2="80" y2="150"/>
+<line x1="130" y1="100" x2="145" y2="140"/>
+<line x1="80" y1="150" x2="120" y2="170"/>
+<line x1="145" y1="140" x2="120" y2="170"/>
+</g>
+<g stroke="#ffffff" stroke-width="1">
+<circle cx="55" cy="100" r="7" fill="#c186a8"/>
+<circle cx="90" cy="115" r="7" fill="#a95a86"/>
+<circle cx="130" cy="100" r="7" fill="#c186a8"/>
+<circle cx="80" cy="150" r="7" fill="#7c3f66"/>
+<circle cx="145" cy="140" r="7" fill="#a95a86"/>
+<circle cx="120" cy="170" r="7" fill="#c186a8"/>
+</g>
+<text x="99" y="195" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="9.5" fill="#7a8288">nuclei &amp; tissue morphology</text>
+
+<!-- transcriptomic branch -->
+<rect x="306" y="55" width="150" height="150" rx="8" fill="#eef6f7" stroke="#1b7f8b" stroke-width="1.4"/>
+<text x="381" y="72" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="11.5" font-weight="700" fill="#154a52">Transcriptomic graph</text>
+<g stroke="#1b7f8b" stroke-width="1.3" opacity="0.6">
+<line x1="335" y1="100" x2="370" y2="115"/>
+<line x1="370" y1="115" x2="410" y2="100"/>
+<line x1="370" y1="115" x2="360" y2="150"/>
+<line x1="410" y1="100" x2="425" y2="140"/>
+<line x1="360" y1="150" x2="400" y2="170"/>
+<line x1="425" y1="140" x2="400" y2="170"/>
+</g>
+<g stroke="#ffffff" stroke-width="1">
+<circle cx="335" cy="100" r="7" fill="#1b7f8b"/>
+<circle cx="370" cy="115" r="7" fill="#1f3b57"/>
+<circle cx="410" cy="100" r="7" fill="#1b7f8b"/>
+<circle cx="360" cy="150" r="7" fill="#1f3b57"/>
+<circle cx="425" cy="140" r="7" fill="#1b7f8b"/>
+<circle cx="400" cy="170" r="7" fill="#1f3b57"/>
+</g>
+<text x="381" y="195" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="9.5" fill="#7a8288">gene &amp; ligand-receptor nodes</text>
+
+<!-- fusion -->
+<g stroke="#7a8288" stroke-width="1.6" fill="none" marker-end="url(#arrow3)">
+<path d="M176,130 L214,130"/>
+<path d="M304,130 L266,130"/>
+</g>
+<defs>
+<marker id="arrow3" markerWidth="9" markerHeight="9" refX="7" refY="4" orient="auto">
+  <path d="M0,0 L8,4 L0,8 z" fill="#7a8288"/>
+</marker>
+</defs>
+<circle cx="240" cy="130" r="26" fill="#fdf7ec" stroke="#f89406" stroke-width="2"/>
+<text x="240" y="126" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="700" fill="#9a5c04">fused</text>
+<text x="240" y="140" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="700" fill="#9a5c04">graph</text>
+
+<text x="24" y="240" font-family="Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#7a8288">Dual-branch graph learning links tissue morphology to transcriptomic regulation for gene &amp;</text>
+<text x="24" y="256" font-family="Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#7a8288">ligand-receptor interaction discovery in LUAD-LUSC</text>
+</svg>

@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" width="100%" role="img" aria-labelledby="ispatTitle">
+<title id="ispatTitle">Schematic of ISPAT: spatial graphical model over multiplexed immunofluorescence cell-type intensities</title>
+<rect x="1" y="1" width="478" height="298" rx="12" fill="#ffffff" stroke="#dfe6ea"/>
+<text x="24" y="30" font-family="Helvetica Neue, Arial, sans-serif" font-size="15" font-weight="700" fill="#1f3b57">ISPAT — spatial graphical model on a tissue slide</text>
+<rect x="24" y="46" width="432" height="210" rx="8" fill="#f5f8f9" stroke="#e1e8ea"/>
+
+<!-- edges (conditional dependencies) drawn first, under nodes -->
+<g stroke="#1b7f8b" stroke-linecap="round">
+<line x1="70" y1="80" x2="140" y2="60" stroke-width="2" opacity="0.55"/>
+<line x1="140" y1="60" x2="210" y2="95" stroke-width="1.5" opacity="0.4"/>
+<line x1="210" y1="95" x2="285" y2="70" stroke-width="2.2" opacity="0.6"/>
+<line x1="285" y1="70" x2="355" y2="90" stroke-width="1.5" opacity="0.4"/>
+<line x1="355" y1="90" x2="420" y2="75" stroke-width="2" opacity="0.5"/>
+
+<line x1="95" y1="150" x2="165" y2="170" stroke-width="1.8" opacity="0.5"/>
+<line x1="165" y1="170" x2="235" y2="145" stroke-width="2.2" opacity="0.6"/>
+<line x1="235" y1="145" x2="305" y2="175" stroke-width="1.5" opacity="0.4"/>
+<line x1="305" y1="175" x2="375" y2="150" stroke-width="2" opacity="0.55"/>
+<line x1="375" y1="150" x2="435" y2="170" stroke-width="1.5" opacity="0.4"/>
+
+<line x1="110" y1="235" x2="180" y2="255" stroke-width="2" opacity="0.5"/>
+<line x1="180" y1="255" x2="250" y2="230" stroke-width="1.6" opacity="0.4"/>
+<line x1="250" y1="230" x2="320" y2="250" stroke-width="2.2" opacity="0.6"/>
+<line x1="320" y1="250" x2="390" y2="240" stroke-width="1.6" opacity="0.4"/>
+
+<line x1="140" y1="60" x2="165" y2="170" stroke-width="1.4" opacity="0.3"/>
+<line x1="235" y1="145" x2="180" y2="255" stroke-width="1.4" opacity="0.3"/>
+<line x1="285" y1="70" x2="305" y2="175" stroke-width="1.4" opacity="0.3"/>
+<line x1="375" y1="150" x2="320" y2="250" stroke-width="1.4" opacity="0.3"/>
+</g>
+
+<!-- cell-type nodes -->
+<g stroke="#ffffff" stroke-width="1.2">
+<circle cx="70" cy="80" r="6.5" fill="#1f3b57"/>
+<circle cx="140" cy="60" r="6.5" fill="#1b7f8b"/>
+<circle cx="210" cy="95" r="6.5" fill="#f89406"/>
+<circle cx="285" cy="70" r="6.5" fill="#ee5f5b"/>
+<circle cx="355" cy="90" r="6.5" fill="#1f3b57"/>
+<circle cx="420" cy="75" r="6.5" fill="#1b7f8b"/>
+
+<circle cx="95" cy="150" r="6.5" fill="#f89406"/>
+<circle cx="165" cy="170" r="6.5" fill="#ee5f5b"/>
+<circle cx="235" cy="145" r="6.5" fill="#1f3b57"/>
+<circle cx="305" cy="175" r="6.5" fill="#1b7f8b"/>
+<circle cx="375" cy="150" r="6.5" fill="#f89406"/>
+<circle cx="435" cy="170" r="6.5" fill="#ee5f5b"/>
+
+<circle cx="110" cy="235" r="6.5" fill="#1f3b57"/>
+<circle cx="180" cy="255" r="6.5" fill="#1b7f8b"/>
+<circle cx="250" cy="230" r="6.5" fill="#ee5f5b"/>
+<circle cx="320" cy="250" r="6.5" fill="#f89406"/>
+<circle cx="390" cy="240" r="6.5" fill="#1f3b57"/>
+</g>
+
+<!-- legend -->
+<g font-family="Helvetica Neue, Arial, sans-serif" font-size="11" fill="#3a4750">
+<circle cx="36" cy="278" r="5" fill="#1f3b57"/><text x="46" y="282">APC</text>
+<circle cx="96" cy="278" r="5" fill="#1b7f8b"/><text x="106" y="282">CTL</text>
+<circle cx="156" cy="278" r="5" fill="#f89406"/><text x="166" y="282">Epithelial</text>
+<circle cx="246" cy="278" r="5" fill="#ee5f5b"/><text x="256" y="282">Treg</text>
+<text x="330" y="282" fill="#7a8288">edges = estimated conditional dependencies</text>
+</g>
+</svg>

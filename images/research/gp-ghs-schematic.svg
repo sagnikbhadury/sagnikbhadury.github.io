@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" width="100%" role="img" aria-labelledby="gpghsTitle">
+<title id="gpghsTitle">Schematic of GP-GHS: Gaussian Process group horseshoe shrinkage of interaction strength across space</title>
+<rect x="1" y="1" width="478" height="298" rx="12" fill="#ffffff" stroke="#dfe6ea"/>
+<text x="24" y="30" font-family="Helvetica Neue, Arial, sans-serif" font-size="15" font-weight="700" fill="#1f3b57">GP-GHS — spatially varying shrinkage of edge strength</text>
+
+<!-- smooth GP curve representing shrinkage weight w(s) -->
+<text x="24" y="58" font-family="Helvetica Neue, Arial, sans-serif" font-size="11" fill="#7a8288">shrinkage weight w(s)</text>
+<polyline points="40,90 70,85 100,60 130,88 160,95 190,70 220,50 250,72 280,92 310,96 340,78 370,55 400,68 430,90"
+  fill="none" stroke="#1b7f8b" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="40" y1="100" x2="440" y2="100" stroke="#c9d5da" stroke-width="1"/>
+
+<!-- graph edges whose thickness follows the curve height (spike = thin, slab = thick) -->
+<text x="24" y="140" font-family="Helvetica Neue, Arial, sans-serif" font-size="11" fill="#7a8288">estimated interaction network along the tissue axis</text>
+<g stroke-linecap="round">
+<line x1="40" y1="200" x2="70" y2="200" stroke="#1f3b57" stroke-width="1.4" opacity="0.35"/>
+<line x1="70" y1="200" x2="100" y2="200" stroke="#1f3b57" stroke-width="4.5" opacity="0.85"/>
+<line x1="100" y1="200" x2="130" y2="200" stroke="#1f3b57" stroke-width="1.6" opacity="0.4"/>
+<line x1="130" y1="200" x2="160" y2="200" stroke="#1f3b57" stroke-width="1.2" opacity="0.3"/>
+<line x1="160" y1="200" x2="190" y2="200" stroke="#1f3b57" stroke-width="2.4" opacity="0.55"/>
+<line x1="190" y1="200" x2="220" y2="200" stroke="#1f3b57" stroke-width="5.5" opacity="0.9"/>
+<line x1="220" y1="200" x2="250" y2="200" stroke="#1f3b57" stroke-width="2.4" opacity="0.55"/>
+<line x1="250" y1="200" x2="280" y2="200" stroke="#1f3b57" stroke-width="1.2" opacity="0.3"/>
+<line x1="280" y1="200" x2="310" y2="200" stroke="#1f3b57" stroke-width="1.2" opacity="0.3"/>
+<line x1="310" y1="200" x2="340" y2="200" stroke="#1f3b57" stroke-width="2.6" opacity="0.55"/>
+<line x1="340" y1="200" x2="370" y2="200" stroke="#1f3b57" stroke-width="5" opacity="0.85"/>
+<line x1="370" y1="200" x2="400" y2="200" stroke="#1f3b57" stroke-width="2.2" opacity="0.5"/>
+<line x1="400" y1="200" x2="430" y2="200" stroke="#1f3b57" stroke-width="1.2" opacity="0.3"/>
+</g>
+<g stroke="#ffffff" stroke-width="1">
+<circle cx="40" cy="200" r="5" fill="#ee5f5b"/>
+<circle cx="70" cy="200" r="5" fill="#ee5f5b"/>
+<circle cx="100" cy="200" r="5" fill="#ee5f5b"/>
+<circle cx="130" cy="200" r="5" fill="#ee5f5b"/>
+<circle cx="160" cy="200" r="5" fill="#ee5f5b"/>
+<circle cx="190" cy="200" r="5" fill="#ee5f5b"/>
+<circle cx="220" cy="200" r="5" fill="#ee5f5b"/>
+<circle cx="250" cy="200" r="5" fill="#ee5f5b"/>
+<circle cx="280" cy="200" r="5" fill="#ee5f5b"/>
+<circle cx="310" cy="200" r="5" fill="#ee5f5b"/>
+<circle cx="340" cy="200" r="5" fill="#ee5f5b"/>
+<circle cx="370" cy="200" r="5" fill="#ee5f5b"/>
+<circle cx="400" cy="200" r="5" fill="#ee5f5b"/>
+<circle cx="430" cy="200" r="5" fill="#ee5f5b"/>
+</g>
+
+<g font-family="Helvetica Neue, Arial, sans-serif" font-size="11" fill="#3a4750">
+<line x1="30" y1="272" x2="60" y2="272" stroke="#1f3b57" stroke-width="1.2" opacity="0.35"/>
+<text x="68" y="276">spike (near-zero interaction)</text>
+<line x1="260" y1="272" x2="290" y2="272" stroke="#1f3b57" stroke-width="5" opacity="0.85"/>
+<text x="298" y="276">slab (retained interaction)</text>
+</g>
+</svg>

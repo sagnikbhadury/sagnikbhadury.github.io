@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" width="100%" role="img" aria-labelledby="mediationTitle">
+<title id="mediationTitle">Mediation diagram: does spatial cell co-occurrence mediate the disease group to outcome relationship</title>
+<rect x="1" y="1" width="478" height="298" rx="12" fill="#ffffff" stroke="#dfe6ea"/>
+<text x="24" y="30" font-family="Helvetica Neue, Arial, sans-serif" font-size="15" font-weight="700" fill="#1f3b57">Spatial mediation analysis</text>
+
+<!-- M node (top) -->
+<rect x="170" y="60" width="200" height="56" rx="10" fill="#eef6f7" stroke="#1b7f8b" stroke-width="1.6"/>
+<text x="270" y="84" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#154a52">Spatial co-occurrence /</text>
+<text x="270" y="100" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#154a52">cell-type density (M)</text>
+
+<!-- X node (bottom left) -->
+<rect x="20" y="210" width="170" height="56" rx="10" fill="#eef2f5" stroke="#1f3b57" stroke-width="1.6"/>
+<text x="105" y="234" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#1f3b57">Disease group</text>
+<text x="105" y="250" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#1f3b57">(X)</text>
+
+<!-- Y node (bottom right) -->
+<rect x="300" y="210" width="170" height="56" rx="10" fill="#fdf1ef" stroke="#ee5f5b" stroke-width="1.6"/>
+<text x="385" y="234" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#9c3a35">Tissue-level</text>
+<text x="385" y="250" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#9c3a35">outcome (Y)</text>
+
+<!-- paths -->
+<g stroke="#7a8288" stroke-width="1.8" fill="none" marker-end="url(#arrow)">
+<path d="M120,210 C150,160 200,130 235,116"/>
+<path d="M310,116 C345,130 380,160 400,210"/>
+<path d="M195,238 L295,238"/>
+</g>
+
+<defs>
+<marker id="arrow" markerWidth="9" markerHeight="9" refX="7" refY="4" orient="auto">
+  <path d="M0,0 L8,4 L0,8 z" fill="#7a8288"/>
+</marker>
+</defs>
+
+<g font-family="Helvetica Neue, Arial, sans-serif" font-size="12" fill="#3a4750">
+<text x="145" y="170">a</text>
+<text x="368" y="170">b</text>
+<text x="240" y="230">c&#8242; (direct effect)</text>
+</g>
+
+<text x="24" y="292" font-family="Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#7a8288">Bootstrap mediation with sensitivity analysis over distance threshold and diversity heterogeneity</text>
+</svg>

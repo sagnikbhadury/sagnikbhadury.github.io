@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" width="100%" role="img" aria-labelledby="fdTitle">
+<title id="fdTitle">Functional depth biomarkers distinguishing lung cancer subtypes from H&amp;E-derived functional curves</title>
+<rect x="1" y="1" width="478" height="298" rx="12" fill="#ffffff" stroke="#dfe6ea"/>
+<text x="24" y="30" font-family="Helvetica Neue, Arial, sans-serif" font-size="15" font-weight="700" fill="#1f3b57">Functional depth biomarkers separate tumor subtypes</text>
+
+<rect x="24" y="46" width="432" height="200" rx="8" fill="#f7f9fa" stroke="#e1e8ea"/>
+<line x1="44" y1="230" x2="436" y2="230" stroke="#c9d5da" stroke-width="1"/>
+<line x1="44" y1="60" x2="44" y2="230" stroke="#c9d5da" stroke-width="1"/>
+
+<!-- subtype A band + curves (navy) -->
+<path d="M60,140 C120,110 180,115 240,135 C300,150 360,140 420,120 L420,175 C360,195 300,205 240,190 C180,175 120,170 60,195 Z"
+  fill="#1f3b57" fill-opacity="0.15" stroke="none"/>
+<g fill="none" stroke="#1f3b57" stroke-width="1.4" opacity="0.75">
+<path d="M60,150 C120,125 180,128 240,145 C300,158 360,150 420,132"/>
+<path d="M60,165 C120,140 180,142 240,158 C300,172 360,162 420,145"/>
+<path d="M60,178 C120,152 180,155 240,170 C300,182 360,175 420,158"/>
+</g>
+
+<!-- subtype B band + curves (coral/red) -->
+<path d="M60,90 C120,75 180,85 240,95 C300,105 360,95 420,80 L420,110 C360,122 300,132 240,125 C180,118 120,108 60,120 Z"
+  fill="#ee5f5b" fill-opacity="0.15" stroke="none"/>
+<g fill="none" stroke="#ee5f5b" stroke-width="1.4" opacity="0.8">
+<path d="M60,98 C120,84 180,92 240,100 C300,108 360,100 420,88"/>
+<path d="M60,108 C120,94 180,102 240,110 C300,118 360,110 420,98"/>
+</g>
+
+<text x="60" y="245" font-family="Helvetica Neue, Arial, sans-serif" font-size="10" fill="#7a8288">tumor region (arclength-normalized)</text>
+
+<g font-family="Helvetica Neue, Arial, sans-serif" font-size="11" fill="#3a4750">
+<rect x="300" y="58" width="14" height="8" fill="#ee5f5b" fill-opacity="0.5"/>
+<text x="318" y="66">Subtype A (e.g. LUAD)</text>
+<rect x="300" y="76" width="14" height="8" fill="#1f3b57" fill-opacity="0.5"/>
+<text x="318" y="84">Subtype B (e.g. LUSC)</text>
+</g>
+
+<text x="24" y="270" font-family="Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#7a8288">Shaded bands show central 50% depth region per subtype for a functional biomarker curve</text>
+</svg>

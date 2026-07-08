@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" width="100%" role="img" aria-labelledby="ispat3dTitle">
+<title id="ispat3dTitle">Schematic of ISPAT-3D: volumetric spatial network estimation across serial tissue sections</title>
+<rect x="1" y="1" width="478" height="298" rx="12" fill="#ffffff" stroke="#dfe6ea"/>
+<text x="24" y="30" font-family="Helvetica Neue, Arial, sans-serif" font-size="15" font-weight="700" fill="#1f3b57">ISPAT 3D — volumetric network across serial sections</text>
+
+<!-- three isometric tissue sections stacked in depth -->
+<g>
+  <!-- back slice -->
+  <polygon points="120,235 400,235 360,90 160,90" fill="#eef3f5" stroke="#c9d5da" stroke-width="1.3"/>
+  <!-- middle slice -->
+  <polygon points="100,250 380,250 350,120 130,120" fill="#f2f6f7" stroke="#c9d5da" stroke-width="1.3" opacity="0.95"/>
+  <!-- front slice -->
+  <polygon points="80,265 360,265 340,150 100,150" fill="#f7fafb" stroke="#b9c8ce" stroke-width="1.5"/>
+</g>
+
+<!-- z-labels -->
+<g font-family="Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#7a8288">
+<text x="365" y="86">z = 3</text>
+<text x="356" y="116">z = 2</text>
+<text x="346" y="146">z = 1</text>
+</g>
+
+<!-- nodes per slice with same-type vertical (through-depth) edges -->
+<g stroke="#1b7f8b" stroke-linecap="round">
+<line x1="180" y1="165" x2="200" y2="140" stroke-width="1.6" opacity="0.5"/>
+<line x1="200" y1="140" x2="220" y2="112" stroke-width="1.6" opacity="0.5"/>
+<line x1="260" y1="180" x2="278" y2="152" stroke-width="1.6" opacity="0.5"/>
+<line x1="278" y1="152" x2="296" y2="122" stroke-width="1.6" opacity="0.5"/>
+<line x1="150" y1="210" x2="168" y2="182" stroke-width="1.6" opacity="0.5"/>
+<line x1="168" y1="182" x2="186" y2="152" stroke-width="1.6" opacity="0.5"/>
+</g>
+<g stroke="#1f3b57" stroke-linecap="round">
+<line x1="180" y1="165" x2="260" y2="180" stroke-width="1.4" opacity="0.4"/>
+<line x1="200" y1="140" x2="278" y2="152" stroke-width="1.4" opacity="0.4"/>
+<line x1="220" y1="112" x2="296" y2="122" stroke-width="1.4" opacity="0.4"/>
+<line x1="150" y1="210" x2="180" y2="165" stroke-width="1.4" opacity="0.4"/>
+<line x1="168" y1="182" x2="200" y2="140" stroke-width="1.4" opacity="0.4"/>
+<line x1="186" y1="152" x2="220" y2="112" stroke-width="1.4" opacity="0.4"/>
+</g>
+
+<g stroke="#ffffff" stroke-width="1.1">
+<circle cx="150" cy="210" r="6" fill="#ee5f5b"/>
+<circle cx="180" cy="165" r="6" fill="#ee5f5b"/>
+<circle cx="200" cy="140" r="6" fill="#ee5f5b"/>
+<circle cx="220" cy="112" r="6" fill="#ee5f5b"/>
+
+<circle cx="260" cy="180" r="6" fill="#f89406"/>
+<circle cx="278" cy="152" r="6" fill="#f89406"/>
+<circle cx="296" cy="122" r="6" fill="#f89406"/>
+<circle cx="168" cy="182" r="6" fill="#f89406"/>
+<circle cx="186" cy="152" r="6" fill="#f89406"/>
+</g>
+
+<g font-family="Helvetica Neue, Arial, sans-serif" font-size="11" fill="#3a4750">
+<circle cx="40" cy="278" r="5" fill="#ee5f5b"/><text x="50" y="282">cell type A, tracked through depth</text>
+<circle cx="260" cy="278" r="5" fill="#f89406"/><text x="270" y="282">cell type B</text>
+</g>
+</svg>

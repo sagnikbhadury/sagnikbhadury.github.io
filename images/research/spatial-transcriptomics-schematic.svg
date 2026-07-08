@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" width="100%" role="img" aria-labelledby="stTitle">
+<title id="stTitle">Spatial transcriptomics: functional edges over a spot grid encoding spatially varying gene relationships</title>
+<rect x="1" y="1" width="478" height="298" rx="12" fill="#ffffff" stroke="#dfe6ea"/>
+<text x="24" y="30" font-family="Helvetica Neue, Arial, sans-serif" font-size="15" font-weight="700" fill="#1f3b57">Spatial transcriptomics — functional edges on a spot grid</text>
+<rect x="24" y="46" width="432" height="212" rx="8" fill="#f7f9fa" stroke="#e1e8ea"/>
+
+<!-- functional edges (curved, varying thickness/opacity by "spatial function") -->
+<g fill="none" stroke="#1b7f8b" stroke-linecap="round">
+<path d="M80,90 C110,70 130,70 160,90" stroke-width="2.6" opacity="0.6"/>
+<path d="M160,90 C190,105 210,105 240,90" stroke-width="1.4" opacity="0.3"/>
+<path d="M240,90 C270,70 290,70 320,90" stroke-width="3.2" opacity="0.75"/>
+<path d="M320,90 C350,105 370,105 400,90" stroke-width="1.4" opacity="0.3"/>
+
+<path d="M80,150 C110,130 130,130 160,150" stroke-width="1.8" opacity="0.4"/>
+<path d="M160,150 C190,165 210,165 240,150" stroke-width="3" opacity="0.7"/>
+<path d="M240,150 C270,130 290,130 320,150" stroke-width="1.8" opacity="0.4"/>
+<path d="M320,150 C350,165 370,165 400,150" stroke-width="2.6" opacity="0.6"/>
+
+<path d="M80,210 C110,190 130,190 160,210" stroke-width="2.4" opacity="0.55"/>
+<path d="M160,210 C190,225 210,225 240,210" stroke-width="1.4" opacity="0.3"/>
+<path d="M240,210 C270,190 290,190 320,210" stroke-width="2.6" opacity="0.6"/>
+<path d="M320,210 C350,225 370,225 400,210" stroke-width="1.6" opacity="0.35"/>
+
+<path d="M80,90 C70,120 70,120 80,150" stroke-width="1.6" opacity="0.35"/>
+<path d="M160,90 C150,120 150,120 160,150" stroke-width="2.8" opacity="0.65"/>
+<path d="M240,90 C230,120 230,120 240,150" stroke-width="1.6" opacity="0.35"/>
+<path d="M320,90 C310,120 310,120 320,150" stroke-width="2.2" opacity="0.5"/>
+<path d="M400,90 C390,120 390,120 400,150" stroke-width="1.6" opacity="0.35"/>
+<path d="M80,150 C70,180 70,180 80,210" stroke-width="2.2" opacity="0.5"/>
+<path d="M160,150 C150,180 150,180 160,210" stroke-width="1.6" opacity="0.35"/>
+<path d="M240,150 C230,180 230,180 240,210" stroke-width="2.6" opacity="0.6"/>
+<path d="M320,150 C310,180 310,180 320,210" stroke-width="1.6" opacity="0.35"/>
+<path d="M400,150 C390,180 390,180 400,210" stroke-width="2.2" opacity="0.5"/>
+</g>
+
+<!-- spots colored by expression intensity (heatmap gradient) -->
+<g stroke="#ffffff" stroke-width="1">
+<circle cx="80" cy="90" r="9" fill="#f89406" fill-opacity="0.9"/>
+<circle cx="160" cy="90" r="9" fill="#ee5f5b" fill-opacity="0.9"/>
+<circle cx="240" cy="90" r="9" fill="#1f3b57" fill-opacity="0.9"/>
+<circle cx="320" cy="90" r="9" fill="#f89406" fill-opacity="0.9"/>
+<circle cx="400" cy="90" r="9" fill="#1b7f8b" fill-opacity="0.9"/>
+
+<circle cx="80" cy="150" r="9" fill="#1b7f8b" fill-opacity="0.9"/>
+<circle cx="160" cy="150" r="9" fill="#1f3b57" fill-opacity="0.9"/>
+<circle cx="240" cy="150" r="9" fill="#ee5f5b" fill-opacity="0.9"/>
+<circle cx="320" cy="150" r="9" fill="#1b7f8b" fill-opacity="0.9"/>
+<circle cx="400" cy="150" r="9" fill="#f89406" fill-opacity="0.9"/>
+
+<circle cx="80" cy="210" r="9" fill="#f89406" fill-opacity="0.9"/>
+<circle cx="160" cy="210" r="9" fill="#1b7f8b" fill-opacity="0.9"/>
+<circle cx="240" cy="210" r="9" fill="#1f3b57" fill-opacity="0.9"/>
+<circle cx="320" cy="210" r="9" fill="#ee5f5b" fill-opacity="0.9"/>
+<circle cx="400" cy="210" r="9" fill="#1b7f8b" fill-opacity="0.9"/>
+</g>
+
+<text x="24" y="284" font-family="Helvetica Neue, Arial, sans-serif" font-size="10.5" fill="#7a8288">spot color = local gene expression · edge = spatially varying functional relationship strength</text>
+</svg>
