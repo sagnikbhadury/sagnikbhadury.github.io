@@ -9,11 +9,11 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Data & Projects"
+    url: /datasets/
+
   - title: "Talks"
     url: /talks/
-
-  - title: "Teaching"
-    url: /teaching/
 
   - title: "Awards"
     url: /Awards/
