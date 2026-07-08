@@ -6,16 +6,40 @@ author_profile: true
 redirect_from: 
   - /about.html
 ---
- 
-<span style="text-align: justify"> 
 
-Thanks for visiting my personal platform! 
+<span style="text-align: justify; font-size: 1.1em;">I develop **Bayesian statistical methods for spatial and multi-modal cancer genomics** &mdash; graphical models, sparsity priors, and causal inference &mdash; applied to multiplexed tissue imaging, spatial transcriptomics, MRI, and H&amp;E histology.</span>
 
-I am a **Postdoctoral Research Fellow**  in the <span style ="color:blue">[Systems Imaging & Bioinformatics Lab](https://sibl.lab.medicine.umich.edu/)</span>, <span style = "color:blue">[Gilbert S. Omenn Department of Computational Medicine and Bioinformatics](https://medschool.umich.edu/departments/computational-medicine-bioinformatics)</span>,  <span style = "color:blue">[Michigan Medicine](https://www.uofmhealth.org/)</span>, <span style = "color:blue">[University of Michigan; Ann Arbor, MI, USA](https://umich.edu/)</span>, being mentored by <span style ="color:blue;">Arvind Rao, PhD </span> \{<span style ="color:blue">[1](https://sph.umich.edu/faculty-profiles/rao-arvind.html), [2](https://medschool.umich.edu/profile/5596/arvind-rao)</span>\}. I earned my _Ph.D._ in _Biostatistics_ from <span style ="color:blue">[University of Louisville; KY, USA](https://louisville.edu/)</span> in Fall 2022, under the joint supervision of <span style ="color:blue">[Jeremy Gaskins, PhD](https://louisville.edu/sphis/directory/jeremy-gaskins-phd)</span> and Late Riten Mitra, PhD.
+<span style="text-align: justify">
+
+I am a **Postdoctoral Research Fellow** in the <span style ="color:blue">[Systems Imaging & Bioinformatics Lab](https://sibl.lab.medicine.umich.edu/)</span>, <span style = "color:blue">[Gilbert S. Omenn Department of Computational Medicine and Bioinformatics](https://medschool.umich.edu/departments/computational-medicine-bioinformatics)</span>,  <span style = "color:blue">[Michigan Medicine](https://www.uofmhealth.org/)</span>, <span style = "color:blue">[University of Michigan; Ann Arbor, MI, USA](https://umich.edu/)</span>, mentored by <span style ="color:blue;">Arvind Rao, PhD </span> \{<span style ="color:blue">[1](https://sph.umich.edu/faculty-profiles/rao-arvind.html), [2](https://medschool.umich.edu/profile/5596/arvind-rao)</span>\}. I earned my _Ph.D._ in _Biostatistics_ from <span style ="color:blue">[University of Louisville; KY, USA](https://louisville.edu/)</span> in Fall 2022, under the joint supervision of <span style ="color:blue">[Jeremy Gaskins, PhD](https://louisville.edu/sphis/directory/jeremy-gaskins-phd)</span> and Late Riten Mitra, PhD.
+
+</span>
+
+## Highlights
+
+* **Ph.D. in Biostatistics**, University of Louisville (2022) &middot; current Postdoctoral Research Fellow, University of Michigan
+* **Awards**: NSF Travel Award (IISA 2024), Graduate Dissertation Completion Award, Best Bayesian Student Presentation Award (ASA-KY) &mdash; see [Awards]({{ "/Awards/" | relative_url }})
+* **Publications**: one first-author *Nature Scientific Reports* paper and six active preprints &mdash; see [Publications]({{ "/publications/" | relative_url }})
+* **Code**: seven public research repositories, each packaged as an installable R tool &mdash; see [Data & Projects]({{ "/datasets/" | relative_url }})
+
+## Research Areas
+
+<span style="text-align: justify">
+<span class="page__taxonomy-item">Bayesian Graphical Models</span>
+<span class="page__taxonomy-item">Spatial Statistics</span>
+<span class="page__taxonomy-item">Sparsity Priors (Horseshoe, Spike-and-Slab)</span>
+<span class="page__taxonomy-item">Multi-Modal Data Integration</span>
+<span class="page__taxonomy-item">Multiplexed Tissue Imaging</span>
+<span class="page__taxonomy-item">Spatial Transcriptomics</span>
+<span class="page__taxonomy-item">Causal Inference</span>
+<span class="page__taxonomy-item">Cancer Genomics</span>
+</span>
+
+See the [Research]({{ "/research/" | relative_url }}) page for how these areas connect, organized by theme rather than by publication date.
 
 ## Research Interests
 
-My research portfolio is anchored in Bayesian frameworks addressing Graphical Models for Sparse Network Estimation, Spatial Graphical Models, Sparsity inducing Bayesian priors (Spike and Slab, Horseshoe) and some causal inference. Recently I have paid some attention towards MLPs and Foundation Models. I like working on statistically motivated, scalable, innovative computational algorithms and advanced bioinformatic tools for cancer research through next-gen sequencing in conjunction with complex biomedical imaging data with precision and efficiency. My work spans analysis, methods development and image processing of 2D and 3D multiplexed immunofluorescence, H&E imaging, spatial transcriptomics, MRI, RNA-seq data in pancreatic cancer (IPMN--PDAC), colorectal carcinoma, breast carcinoma, prostate adenocarcinoma, hepatocellular carcinoma, lower grade glioma and integrating histomorphological with transcriptomic regulatory features in non-small cell lung cancer (LUAD--LUSC) for identifying gene interactions, ligand-receptor interactions, causal cell function pathways, multimodal data and feature integration, biomarker discovery and information retrieval.
+<span style="text-align: justify">I like working on statistically motivated, scalable, innovative computational algorithms and advanced bioinformatic tools for cancer research &mdash; combining next-generation sequencing with complex biomedical imaging data with precision and efficiency, across pancreatic (IPMN&ndash;PDAC), colorectal, breast, prostate, hepatocellular, and lower-grade glioma cancers, plus non-small cell lung cancer (LUAD&ndash;LUSC). Recently I've also been paying attention to MLPs and foundation models. The full breakdown by theme is on the [Research]({{ "/research/" | relative_url }}) page.</span>
 
 
 # News

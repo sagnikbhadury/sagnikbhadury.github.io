@@ -11,6 +11,14 @@ redirect_from:
 
 I know it is unconvensional, but I do not always update this page. If you are interested in my profile, please email me. 
 
+# Selected Publications
+
+* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> [ISPAT: Informed Spatially Aware Patterns for Multiplexed Immunofluorescence data](https://www.nature.com/articles/s41598-026-35341-8)</span>, **Nature Scientific Reports** &mdash; Bayesian spatial graphical model recovering shared and region-specific cell-cell interaction networks from mIF imaging.</span>
+* <span style="text-align: justify">Tsang, A., Krishnan, S., Kulkarni, R., <span style ="color:red">Bhadury, S.</span>, Rao, A., et al. <span style ="color:blue"> [Encoding functional edges in graphs to model spatially varying relationships in the tumor microenvironment](https://doi.org/10.1038/s44387-026-00075-5)</span>, **npj Artificial Intelligence**.</span>
+* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Mitra, R., Gaskins, J. <span style ="color:blue"> [Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation](https://arxiv.org/abs/2308.02713)</span> &mdash; foundational methods work underlying the spatial and multi-modal graphical models above.</span>
+
+See [Research]({{ "/research/" | relative_url }}) for how these fit into the broader research program, organized by theme.
+
 # Preprint
 
 * Preprint available: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span>, Mitra, R., Gaskins, J., <span style ="color:blue"> [Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation](https://arxiv.org/abs/2308.02713) </span>
