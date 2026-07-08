@@ -3,9 +3,6 @@ main:
   - title: "Background"
     url: /background/
 
-  - title: "CV"
-    url: /cv/
-
   - title: "Publications"
     url: /publications/
 
