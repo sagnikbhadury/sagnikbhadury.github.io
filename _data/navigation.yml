@@ -1,7 +1,5 @@
 # main links links
 main:
-  - title: "Work with me"
-    url: /work-with-me/
 
   - title: "Background"
     url: /background/
@@ -14,7 +12,10 @@ main:
 
   - title: "Data & Projects"
     url: /datasets/
-
+  
+  - title: "Work with me"
+    url: /work-with-me/
+    
   - title: "Talks"
     url: /talks/
 
