@@ -20,9 +20,10 @@ My methods work is developed hand-in-hand with the complex biomedical data types
 
 * <span style="text-align: justify"><span style="color:red">Bhadury, S.</span> et al. <span style="color:blue">Graph-Based Multi-Modal Learning for Integrating Histopathological and Transcriptomic Features in Lung Cancer</span> — graph-based fusion of transcriptomic and histopathological features in non-small cell lung cancer (LUAD-LUSC) to identify gene interactions and ligand-receptor interactions.</span>
 
+<!--
 ![H&E and transcriptomic graph fusion](/images/research/he-fusion-schematic.svg "Model schematic: dual-branch graph fusion of H&E morphology and transcriptomic features")
 {: .align-center}
-
+-->
 * <span style="text-align: justify">Tsang, A., Krishnan, S., Kulkarni, R., <span style="color:red">Bhadury, S.</span>, Rao, A., et al. <span style="color:blue">[Encoding functional edges in graphs to model spatially varying relationships in the tumor microenvironment](https://doi.org/10.1038/s44387-026-00075-5)</span>, **npj Artificial Intelligence**.</span>
 
 ## 2D & 3D Multiplexed Immunofluorescence (mIF)
