@@ -5,7 +5,7 @@ title: "Work with me"
 author_profile: true
 ---
 
-I work with tissue imaging groups in two ways. Read both and pick the one that fits your project. If you are not sure, describe the project and I will tell you which track makes sense.
+I work with tissue imaging groups in two ways. Read both and pick the one that fits your project. If you are not sure, describe the project and I will tell you which track makes sense. Overall I am interested in collaborating with domain experts with hands on/hands off experience in exploring complex data structures.
 
 <div class="work-tracks">
 
