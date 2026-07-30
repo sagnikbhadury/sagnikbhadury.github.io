@@ -1,8 +1,9 @@
 ---
 layout: archive
-title: " "
+title: "Talks"
 permalink: /talks/
 author_profile: true
+description: "Invited talks and conference presentations on Bayesian graphical models, spatial statistics, cancer genomics, and high-dimensional inference."
 redirect_from: 
 - /talks.html
 ---

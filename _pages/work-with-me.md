@@ -3,6 +3,7 @@ layout: single
 permalink: /work-with-me/
 title: "Work with me"
 author_profile: true
+description: "Consulting and research collaboration opportunities in Bayesian modeling, spatial statistics, tissue imaging, and complex biomedical data analysis."
 ---
 
 I work with tissue imaging groups in two ways. Read both and pick the one that fits your project. If you are not sure, describe the project and I will tell you which track makes sense. Overall I am interested in collaborating with domain experts with hands on/hands off experience in exploring complex data structures.
@@ -40,23 +41,3 @@ I work with tissue imaging groups in two ways. Read both and pick the one that f
 ## What I do not take on
 
 To keep quality high I take a small number of projects at a time. Routine analysis that a general bioinformatics core can handle is usually better placed there. I focus on the spatial and Bayesian modeling that is hard to get elsewhere.
-
-<style>
-.work-tracks {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 2em;
-  margin: 1.5em 0 2.5em;
-}
-.work-track {
-  flex: 1 1 320px;
-  border: 1px solid #e5e5e5;
-  border-radius: 4px;
-  padding: 1.4em 1.6em;
-}
-.work-track h2 {
-  margin-top: 0;
-  font-size: 1.2em;
-  color: #1f3b57;
-}
-</style>

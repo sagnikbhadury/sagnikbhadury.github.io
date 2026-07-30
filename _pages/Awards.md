@@ -1,8 +1,9 @@
 ---
 layout: archive
-title: " "
+title: "Awards & Honors"
 permalink: /Awards/
 author_profile: true
+description: "Awards and academic honors received by Sagnik Bhadury in biostatistics, Bayesian methodology, and statistical research."
 redirect_from: 
 - /Awards.html
 ---

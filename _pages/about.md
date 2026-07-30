@@ -1,65 +1,154 @@
 ---
-layout: archive
-title: "Welcome, Curious Mind!"
+layout: home
+title: "Sagnik Bhadury"
+seo_title: "Sagnik Bhadury — Bayesian Biostatistics & Spatial Cancer Genomics"
 permalink: /
-author_profile: true
-redirect_from: 
+author_profile: false
+description: "Bayesian biostatistician developing graphical models and spatial methods for multi-modal cancer data."
+schema_type: ProfilePage
+redirect_from:
   - /about.html
 ---
 
-<span style="text-align: justify; font-size: 1.1em;">I develop **Bayesian statistical/biostatistical methods and bioinformatic analytic pipelines for spatial and various data types and multi-modal cancer genomics** &mdash; graphical models, sparsity priors, machine learning and causal inference &mdash; applied to multiplexed tissue imaging, spatial transcriptomics, MRI, and H&amp;E histology.</span>
+<section class="home-hero">
+  <div class="home-hero__copy">
+    <p class="eyebrow"><span></span> Postdoctoral Research Fellow · Michigan Medicine</p>
+    <h1>Statistics for the <em>structure</em> inside cancer data.</h1>
+    <p class="home-hero__lead">I develop Bayesian statistical and biostatistical methods, machine-learning models, and bioinformatic pipelines that uncover networks, spatial variation, and cross-modal signals—from tissue images and spatial transcriptomics to MRI and H&amp;E histology.</p>
+    <div class="home-actions">
+      <a class="button button--primary" href="{{ '/research/' | relative_url }}">Explore my research <span aria-hidden="true">→</span></a>
+      <a class="button button--quiet" href="{{ '/publications/' | relative_url }}">View publications</a>
+    </div>
+    <ul class="home-meta" aria-label="Current role and location">
+      <li><i class="fa fa-building-o" aria-hidden="true"></i> University of Michigan</li>
+      <li><i class="fa fa-map-marker" aria-hidden="true"></i> Ann Arbor, Michigan</li>
+    </ul>
+  </div>
 
-<span style="text-align: justify">
+  <div class="home-hero__portrait">
+    <div class="portrait-frame">
+      <img src="{{ '/images/PORTRAIT.jpg' | relative_url }}" alt="Portrait of Sagnik Bhadury">
+      <div class="portrait-card">
+        <span class="status-dot" aria-hidden="true"></span>
+        <p><strong>Current focus</strong><br>Spatial &amp; multi-modal cancer genomics</p>
+      </div>
+    </div>
+  </div>
+</section>
 
-I am a **Postdoctoral Research Fellow** in the <span style ="color:blue">[Systems Imaging & Bioinformatics Lab](https://sibl.lab.medicine.umich.edu/)</span>, <span style = "color:blue">[Gilbert S. Omenn Department of Computational Medicine and Bioinformatics](https://medschool.umich.edu/departments/computational-medicine-bioinformatics)</span>,  <span style = "color:blue">[Michigan Medicine](https://www.uofmhealth.org/)</span>, <span style = "color:blue">[University of Michigan; Ann Arbor, MI, USA](https://umich.edu/)</span>, mentored by <span style ="color:blue;">Arvind Rao, PhD </span> \{<span style ="color:blue">[1](https://sph.umich.edu/faculty-profiles/rao-arvind.html), [2](https://medschool.umich.edu/profile/5596/arvind-rao)</span>\}. I earned my _Ph.D._ in _Biostatistics_ from <span style ="color:blue">[University of Louisville; KY, USA](https://louisville.edu/)</span> in Fall 2022, under the joint supervision of <span style ="color:blue">[Jeremy Gaskins, PhD](https://louisville.edu/sphis/directory/jeremy-gaskins-phd)</span> and Late Riten Mitra, PhD.
+<section class="home-intro" aria-labelledby="intro-title">
+  <div>
+    <p class="section-kicker">What I do</p>
+    <h2 id="intro-title">Methodology grounded in consequential biomedical questions.</h2>
+  </div>
+  <p>I am a Postdoctoral Research Fellow in the <a href="https://sibl.lab.medicine.umich.edu/">Systems Imaging &amp; Bioinformatics Lab</a> at the University of Michigan, mentored by Arvind Rao, PhD. I earned my PhD in Biostatistics from the University of Louisville in 2022 under Jeremy Gaskins, PhD and the late Riten Mitra, PhD.</p>
+</section>
 
+<section class="home-section" aria-labelledby="themes-title">
+  <div class="section-heading">
+    <div>
+      <p class="section-kicker">Research themes</p>
+      <h2 id="themes-title">Four connected lines of inquiry</h2>
+    </div>
+    <a class="text-link" href="{{ '/research/' | relative_url }}">See the full research program <span aria-hidden="true">→</span></a>
+  </div>
 
+  <div class="theme-grid">
+    <a class="theme-card" href="{{ '/research/#1-bayesian-graphical-models--sparse-network-estimation' | relative_url }}">
+      <span class="theme-card__number">01</span>
+      <h3>Graphical models</h3>
+      <p>High-dimensional network estimation with horseshoe and spike-and-slab priors.</p>
+      <span class="theme-card__arrow" aria-hidden="true">↗</span>
+    </a>
+    <a class="theme-card" href="{{ '/research/#2-spatial-statistics-for-multiplexed-tissue-imaging' | relative_url }}">
+      <span class="theme-card__number">02</span>
+      <h3>Spatial statistics</h3>
+      <p>Cell–cell interaction networks in 2D and 3D multiplexed tissue imaging.</p>
+      <span class="theme-card__arrow" aria-hidden="true">↗</span>
+    </a>
+    <a class="theme-card" href="{{ '/research/#3-multi-modal-integration--imaging-genomics' | relative_url }}">
+      <span class="theme-card__number">03</span>
+      <h3>Multi-modal integration</h3>
+      <p>Fusing histopathology, transcriptomics, and radiomics into coherent models.</p>
+      <span class="theme-card__arrow" aria-hidden="true">↗</span>
+    </a>
+    <a class="theme-card" href="{{ '/research/#4-causal-inference--functional-data-analysis' | relative_url }}">
+      <span class="theme-card__number">04</span>
+      <h3>Causal &amp; functional data</h3>
+      <p>Mediation, sensitivity analysis, and interpretable functional biomarkers.</p>
+      <span class="theme-card__arrow" aria-hidden="true">↗</span>
+    </a>
+  </div>
+</section>
 
-## Highlights
+<section class="home-section home-featured" aria-labelledby="featured-title">
+  <div class="section-heading">
+    <div>
+      <p class="section-kicker">Selected work</p>
+      <h2 id="featured-title">From statistical idea to research tool</h2>
+    </div>
+    <a class="text-link" href="{{ '/datasets/' | relative_url }}">Browse data &amp; projects <span aria-hidden="true">→</span></a>
+  </div>
 
-* **Ph.D. in Biostatistics, University of Louisville** (2022) &middot; **Postdoctoral Research Fellow, University of Michigan** (current)
-* **Awards**: NSF Travel Award (IISA 2024), Graduate Dissertation Completion Award, Best Bayesian Student Presentation Award (ASA-KY) &mdash; see [Awards]({{ "/Awards/" | relative_url }})
-* **Publications**: Multiple first-author and collaborative manuscripts and six active preprints &mdash; see [Publications]({{ "/publications/" | relative_url }})
-* **Code**: seven public research repositories, each packaged as an installable R tool &mdash; see [Data & Projects]({{ "/datasets/" | relative_url }})
+  <div class="featured-grid">
+    <article class="featured-card featured-card--visual">
+      <div class="featured-card__image">
+        <img src="{{ '/images/research/ispat-schematic.svg' | relative_url }}" alt="Diagram of the ISPAT spatial graphical model">
+      </div>
+      <div class="featured-card__body">
+        <p class="card-label">Published · Scientific Reports</p>
+        <h3>ISPAT</h3>
+        <p>Informed spatially aware patterns for multiplexed immunofluorescence data.</p>
+        <div class="card-links">
+          <a href="https://www.nature.com/articles/s41598-026-35341-8">Read paper ↗</a>
+          <a href="https://github.com/sagnikbhadury/ISPAT">View code ↗</a>
+        </div>
+      </div>
+    </article>
 
-## Research Areas
+    <div class="featured-list">
+      <article>
+        <p class="card-label">Preprint · 3D imaging</p>
+        <h3>ISPAT 3D</h3>
+        <p>Spatially varying conditional volumetric network estimation for three-dimensional tumor imaging.</p>
+        <a class="text-link" href="https://doi.org/10.64898/2026.04.16.719017">Read preprint <span aria-hidden="true">↗</span></a>
+      </article>
+      <article>
+        <p class="card-label">Open-source methods</p>
+        <h3>Seven research repositories</h3>
+        <p>Reproducible implementations spanning spatial graphs, causal inference, functional depth, and imaging genomics.</p>
+        <a class="text-link" href="https://github.com/sagnikbhadury">Explore GitHub <span aria-hidden="true">↗</span></a>
+      </article>
+    </div>
+  </div>
+</section>
 
-<span style="text-align: justify">
-<span class="page__taxonomy-item">Bayesian Graphical Models</span>
-<span class="page__taxonomy-item">Spatial Statistics</span>
-<span class="page__taxonomy-item">Sparsity Priors (Horseshoe, Spike-and-Slab)</span>
-<span class="page__taxonomy-item">Multi-Modal Data Integration</span>
-<span class="page__taxonomy-item">Multiplexed Tissue Imaging</span>
-<span class="page__taxonomy-item">Spatial Transcriptomics</span>
-<span class="page__taxonomy-item">Causal Inference</span>
-<span class="page__taxonomy-item">Cancer Genomics</span>
-</span>
+<section class="modality-band" aria-labelledby="modalities-title">
+  <div>
+    <p class="section-kicker">Data modalities</p>
+    <h2 id="modalities-title">One statistical toolkit, many views of the tumor.</h2>
+  </div>
+  <ul>
+    <li>Spatial transcriptomics</li>
+    <li>Multiplexed tissue imaging</li>
+    <li>MRI &amp; radiomics</li>
+    <li>H&amp;E histology</li>
+  </ul>
+  <a class="modality-band__link" href="{{ '/research-domains/' | relative_url }}">Read the research domain guide <span aria-hidden="true">→</span></a>
+</section>
 
-See the [Research]({{ "/research/" | relative_url }}) page for how these areas connect, organized by theme rather than by publication date.
-
-## Research Interests
-
-<span style="text-align: justify">I like working on statistically motivated, scalable, innovative computational algorithms and advanced bioinformatic tools for cancer research &mdash; combining next-generation sequencing with complex biomedical imaging data with precision and efficiency, across pancreatic (IPMN&ndash;PDAC), colorectal, breast, prostate, hepatocellular, and lower-grade glioma cancers, plus non-small cell lung cancer (LUAD&ndash;LUSC). Recently I've also been paying attention to MLPs and foundation models. The full breakdown by theme is on the [Research]({{ "/research/" | relative_url }}) page.</span>
-
-
-# News
-
-* <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span>, Mitra, R., Gaskins, J., <span style ="color:blue"> [Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation](https://arxiv.org/abs/2308.02713) </span>
-* Preprint available: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> Graph-Based Multi-Modal Learning for Integrating Histopathological and Transcriptomic Features in Lung Cancer </span>
-* Preprint available: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> Functional Depth biomarkers Distinguish Lung Cancer Subtypes </span>
-* Preprint available: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span>, Gaskins, J., Rao, A., <span style ="color:blue"> [Spatially Varying Graphical Models for Cell-Cell Interaction Networks in Multiplexed Tissue Imaging](https://doi.org/10.64898/2026.04.01.715977)
-* Preprint available: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span>, Rao, A., <span style ="color:blue"> [ISPAT 3D: Spatially Varying Conditional Volumetric Network Estimation for 3D Tumor Imaging](https://doi.org/10.64898/2026.04.16.719017) 
-* Preprint available: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> Bayesian Joint Estimation of Multiple Graphs through Shared Shrinkage </span>
-* Preprint available: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> RISM: Radiomic feature Integration with Spike-and-slab for Multimodal survival analysis.  </span>
-
-
-
-
-
-
-
-
-
-
-
-
+<section class="contact-band">
+  <div>
+    <p class="section-kicker">Let’s connect</p>
+    <h2>Interested in a statistical or biomedical collaboration?</h2>
+  </div>
+  <div class="contact-band__actions">
+    <a class="button button--light" href="{{ '/work-with-me/' | relative_url }}">Ways to work together <span aria-hidden="true">→</span></a>
+    <a class="contact-email" href="mailto:bhadury@umich.edu">bhadury@umich.edu</a>
+    <div class="contact-social">
+      <a href="https://github.com/sagnikbhadury" aria-label="GitHub"><i class="fa fa-github" aria-hidden="true"></i></a>
+      <a href="https://www.linkedin.com/in/sagnik-k-bhadury" aria-label="LinkedIn"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+      <a href="https://www.researchgate.net/profile/Sagnik-Bhadury" aria-label="ResearchGate"><i class="ai ai-researchgate" aria-hidden="true"></i></a>
+    </div>
+  </div>
+</section>

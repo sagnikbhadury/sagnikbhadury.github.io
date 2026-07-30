@@ -1,8 +1,9 @@
 ---
 layout: archive
-title: "Backdrop Canvas"
+title: "Background & CV"
 permalink: /background/
 author_profile: true
+description: "Academic background, research experience, and education of Sagnik Bhadury, a Bayesian biostatistician at the University of Michigan."
 redirect_from:
   - /resume
   - /cv/

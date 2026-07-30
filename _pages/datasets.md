@@ -3,6 +3,7 @@ layout: single
 permalink: /datasets/
 title: "Data & Projects"
 author_profile: true
+description: "Open-source research projects for spatial transcriptomics, multiplex immunofluorescence, MRI radiomics, H&E computational pathology, and Bayesian cancer data analysis."
 redirect_from:
   - /data/
 ---

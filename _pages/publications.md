@@ -3,13 +3,14 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+description: "Publications and preprints by Sagnik Bhadury in Bayesian graphical models, spatial statistics, cancer genomics, multiplexed tissue imaging, and multimodal learning."
 redirect_from: 
 - /publications.html
 ---
 
 --- 
 
-I know it is unconvensional, but I do not always update this page. If you are interested in my profile, please email me. 
+Selected peer-reviewed publications, preprints, and collaborative research contributions are listed below. For questions about current manuscripts or ongoing work, please [email me](mailto:bhadury@umich.edu).
 
 # Selected Publications
 

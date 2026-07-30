@@ -1,27 +1,22 @@
-# main links links
+# Main navigation
 main:
-
-  - title: "Background"
-    url: /background/
-
   - title: "Research"
     url: /research/
 
   - title: "Publications"
     url: /publications/
 
-  - title: "Data & Projects"
+  - title: "Projects"
     url: /datasets/
-  
+
   - title: "Work with me"
     url: /work-with-me/
-    
+
+  - title: "Background"
+    url: /background/
+
   - title: "Talks"
     url: /talks/
 
   - title: "Awards"
     url: /Awards/
-
-
-
-

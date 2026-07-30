@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Sagnik Bhadury"
 title_separator          : "-"
 name                     : &name "Sagnik Bhadury"
-description              : &description "Research Fellow, Michigan Medicine, University of Michigan"
-url                      : https://sagnikbhadury.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Bayesian biostatistician developing graphical models and spatial methods for multi-modal cancer data."
+url                      : https://sagnikbhadury.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sagnikbhadury/sagnikbhadury.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -62,13 +62,16 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "PORTRAIT.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Sagnik Bhadury"
+  links:
+    - "https://github.com/sagnikbhadury"
+    - "https://www.linkedin.com/in/sagnik-k-bhadury"
+    - "https://www.researchgate.net/profile/Sagnik-Bhadury"
 
 
 # Analytics
