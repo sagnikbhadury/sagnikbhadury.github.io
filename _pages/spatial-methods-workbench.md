@@ -36,6 +36,27 @@ description: "A guided research platform for reproducible spatial, network, pred
   </aside>
 </section>
 
+<section class="workbench-live" aria-labelledby="live-app-title">
+  <div class="section-heading">
+    <div>
+      <p class="section-kicker">Live application</p>
+      <h2 id="live-app-title">Run the Workbench on this page.</h2>
+    </div>
+    <p>The embedded service may take several seconds to wake after inactivity. Use the full-screen link for large tables, long sessions, or smaller displays.</p>
+  </div>
+  <div class="workbench-live__frame">
+    <iframe
+      src="https://sagnikbhadury.shinyapps.io/spatial-methods-workbench/"
+      title="Spatial Methods Workbench live Shiny application"
+      loading="eager"
+      allow="clipboard-write"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allowfullscreen>
+    </iframe>
+  </div>
+  <p class="workbench-live__fallback"><a class="button button--primary" href="https://sagnikbhadury.shinyapps.io/spatial-methods-workbench/">Open the live application full screen <span aria-hidden="true">↗</span></a></p>
+</section>
+
 <section class="workbench-statement">
   <p class="section-kicker">Purpose</p>
   <h2>One disciplined entry point to a broad methods program.</h2>
@@ -45,7 +66,8 @@ description: "A guided research platform for reproducible spatial, network, pred
 <div class="domain-callout">
   <p class="domain-callout__label">Before using real data</p>
   <h2>Read the complete installation, input, restriction, and deployment guide.</h2>
-  <p>The guide covers the public Shiny service, controlled local installation, all advanced network engines, Docker, real-data preparation, pipeline contracts, privacy, computational limits, citation, and collaboration. <a href="{{ '/workbench-guide/' | relative_url }}">Open the complete guide →</a></p>
+  <p>The guide covers the public Shiny service, controlled local installation, all advanced network engines, Docker, real-data preparation, pipeline contracts, privacy, computational limits, citation, and collaboration. <a href="{{ '/workbench-guide/' | relative_url }}">Open the latest v0.2.1 installation and usage guide →</a></p>
+  <p>For exact controls, calls, return objects, failure modes, and citations, read the <a href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench/blob/master/docs/PIPELINE_REFERENCE.md">complete function-by-function pipeline reference ↗</a>.</p>
 </div>
 
 <section class="pipeline-architecture" aria-labelledby="architecture-title">
@@ -76,42 +98,42 @@ description: "A guided research platform for reproducible spatial, network, pred
   <div class="pipeline-tier">
     <div class="pipeline-tier__heading"><span>Spatial structure</span><p>Characterize how measured features and conditional relationships vary across tissue.</p></div>
     <div class="pipeline-cards">
-      <article><b>01</b><h3>Spatial quality control</h3><p>Feature maps and permutation-based Moran’s I for evaluating spatial patterning before downstream modeling.</p><small>Requires x/y coordinates and a numeric feature</small></article>
-      <article><b>02</b><h3>Region-aware conditional networks</h3><p>Ridge-regularized partial-correlation networks overall and within mapped tissue regions.</p><small>Requires multiple numeric markers; region is optional</small></article>
-      <article><b>03</b><h3>ISPat 2D</h3><p>Bayesian estimation of shared and region-specific conditional-association networks for multiplexed spatial imaging.</p><small>Advanced public engine · x/y · region · marker matrix</small></article>
-      <article><b>04</b><h3>GP–GHS</h3><p>Spatially varying network estimation using Gaussian-process structure with group-horseshoe shrinkage.</p><small>Advanced public engine · x/y · marker matrix</small></article>
+      <article><b>01</b><h3>Spatial exploration &amp; autocorrelation</h3><p>Map a numeric feature and test spatial patterning with permutation-based Moran’s I.</p><small>Input: x/y + feature · Output: map, Moran’s I, permutation p-value</small></article>
+      <article><b>02</b><h3>Region-aware conditional networks</h3><p>Estimate ridge-regularized partial-correlation networks overall and within mapped tissue regions.</p><small>Input: 3+ numeric markers, optional region · Output: edge tables + heat maps</small></article>
+      <article><b>03</b><h3>ISPat 2D Bayesian network</h3><p>Estimate shared and region-specific conditional-association networks after spatial adjustment.</p><small>Exact public engine · Input: x/y, zone, 3+ markers · Output: networks + full fit</small></article>
+      <article><b>04</b><h3>GP–GHS network</h3><p>Estimate spatially varying edges using Gaussian-process structure with group-horseshoe shrinkage.</p><small>Exact public engine · Input: x/y + 3+ features · Output: selected adjacency + full fit</small></article>
     </div>
   </div>
 
   <div class="pipeline-tier pipeline-tier--3d">
     <div class="pipeline-tier__heading"><span>Volumetric complexity</span><p>Move beyond a single section to serial-section and three-dimensional tumor imaging.</p></div>
     <div class="pipeline-cards pipeline-cards--single">
-      <article><b>05</b><h3>ISPat 3D volumetric networks</h3><p>A dedicated higher-complexity path for shared and zone-specific conditional network estimation across volumetric or serial-section imaging data. The engine remains unavailable until x/y/z coordinates, volume identifiers, zones, features, and the exact server-side package are present.</p><small>Advanced public engine · gated input contract · no silent approximation</small></article>
+      <article><b>05</b><h3>ISPat 3D volumetric networks</h3><p>Estimate shared and zone-specific conditional networks across registered volumetric or serial-section imaging data.</p><small>Exact public engine · Input: x/y/z, zone, volume ID, 3+ markers · Output: 3D networks + fits</small></article>
     </div>
   </div>
 
   <div class="pipeline-tier">
     <div class="pipeline-tier__heading"><span>Spatial AI &amp; machine learning</span><p>Adapt public AI, ML, and deep-learning workflows to spatial biomedical prediction and discovery.</p></div>
     <div class="pipeline-cards pipeline-cards--three">
-      <article><b>06</b><h3>Spatial machine learning</h3><p>Outcome prediction from measured features and spatial coordinates with held-out validation.</p><small>Numeric or categorical outcomes · measured predictors</small></article>
-      <article><b>07</b><h3>Spatial phenotype clustering</h3><p>Multivariate phenotype discovery with an explicit control for how strongly tissue coordinates influence the partitions.</p><small>Adapted ML workflow · x/y · numeric markers</small></article>
-      <article><b>08</b><h3>Shallow-neural prediction</h3><p>A single-hidden-layer spatial prediction model with standardized inputs, weight decay, and held-out evaluation.</p><small>Adapted AI/deep-learning workflow · no result narration</small></article>
+      <article><b>06</b><h3>Spatial machine-learning prediction</h3><p>Predict a numeric outcome from measured features and optional coordinates with held-out validation.</p><small>Input: outcome + 3+ predictors · Output: predictions, test error, variable importance</small></article>
+      <article><b>07</b><h3>Spatial phenotype clustering</h3><p>Discover multivariate phenotypes while explicitly controlling how strongly tissue coordinates influence clusters.</p><small>Input: x/y + 3+ features · Output: assignments, centers, diagnostics, spatial map</small></article>
+      <article><b>08</b><h3>Shallow-neural prediction</h3><p>Fit a standardized single-hidden-layer model with weight decay and held-out evaluation.</p><small>Input: outcome + 3+ predictors · Output: held-out predictions + performance metrics</small></article>
     </div>
   </div>
 
   <div class="pipeline-tier">
     <div class="pipeline-tier__heading"><span>High-dimensional imaging</span><p>Analyze aligned contours, pixel/voxel predictors, and paired predictor–outcome images.</p></div>
     <div class="pipeline-cards pipeline-cards--three">
-      <article><b>09</b><h3>Wide-image scalar regression</h3><p>Regularized subject-level outcome prediction from selected aligned pixel, voxel, or image-derived columns.</p><small>Fast screening counterpart to SV-NN and ST-CAR directions</small></article>
-      <article><b>10</b><h3>Latent image-to-image regression</h3><p>Low-dimensional factor regression connecting aligned predictor and outcome images with held-out reconstruction error.</p><small>Fast screening counterpart to the SBLF direction</small></article>
-      <article><b>11</b><h3>Tumor shape PCA</h3><p>Landmark alignment, contour resampling, and principal-component summaries of tumor morphology.</p><small>Contour ID · ordered x/y landmarks</small></article>
+      <article><b>09</b><h3>Wide-image scalar regression</h3><p>Screen aligned pixel, voxel, or image-derived features against a numeric subject-level outcome.</p><small>Fast ridge screen—not the full SV-NN/ST-CAR posterior · Output: predictions, error, coefficients</small></article>
+      <article><b>10</b><h3>Latent image-to-image regression</h3><p>Connect aligned predictor and outcome images through low-dimensional factors and held-out reconstruction.</p><small>Fast latent screen—not the full SBLF posterior · Input: input__* + output__* columns</small></article>
+      <article><b>12</b><h3>Tumor contour &amp; shape PCA</h3><p>Resample and align ordered boundaries, then summarize tumor morphology with principal components.</p><small>Input: contour ID + ordered x/y landmarks · Output: aligned shapes, scores, variance</small></article>
     </div>
   </div>
 
   <div class="pipeline-tier">
     <div class="pipeline-tier__heading"><span>Causal structure</span><p>Estimate a prespecified indirect-effect model while keeping causal requirements explicit.</p></div>
     <div class="pipeline-cards pipeline-cards--single">
-      <article><b>12</b><h3>Mediation analysis</h3><p>Model-based indirect-effect estimation with bootstrap uncertainty and explicit temporal-ordering, exchangeability, consistency, and positivity requirements.</p><small>Exposure · mediator · outcome · collaboration recommended</small></article>
+      <article><b>11</b><h3>Mediation analysis</h3><p>Estimate model-based direct, indirect, and total effects with bootstrap uncertainty and explicit causal requirements.</p><small>Input: exposure + mediator + outcome · Output: effect estimates + bootstrap intervals</small></article>
     </div>
   </div>
 </section>
@@ -127,7 +149,7 @@ description: "A guided research platform for reproducible spatial, network, pred
     <article><h3>SV-NN direction</h3><p>The image-regression tier cites Wu, Wu &amp; Kang’s <a href="https://jmlr.org/papers/v26/22-0246.html">Bayesian spatially varying neural-network model</a> while labeling the interactive ridge implementation as a screening workflow.</p></article>
     <article><h3>ST-CAR direction</h3><p>Scalar-on-image and image-on-scalar extensions are connected to the <a href="https://openreview.net/forum?id=rnL3OafDdw&noteId=gn2VU2ZeIo">soft-thresholded CAR image-regression publication</a>; full posterior engines remain deployment-gated.</p></article>
     <article><h3>SBLF direction</h3><p>The paired-image workflow follows the latent-factor problem structure established by Guo, Kang &amp; Johnson’s <a href="https://doi.org/10.1111/biom.13420">spatial Bayesian image-on-image model</a>, with exact method identity retained in every label.</p></article>
-    <article><h3>LLM engineering boundary</h3><p>Public LLM-from-scratch, AI-engineering, and routing repositories inform deployment architecture only. Uploaded values and results are not sent to an LLM, and the platform does not automate scientific interpretation.</p></article>
+    <article><h3>Data-isolation boundary</h3><p>Uploaded values and results remain inside the active analysis service and are not sent to a third-party AI interpretation system. The platform does not automate scientific interpretation.</p></article>
   </div>
 </section>
 

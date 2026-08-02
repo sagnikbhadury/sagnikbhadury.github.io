@@ -201,7 +201,7 @@ Pin the image and dependency revisions for production. Do not mount sensitive di
 
 ## Reproducibility bundle
 
-The download includes a results table, figure when applicable, `manifest.json`, R result object, `CITATION.txt`, and `COLLABORATION.txt`. It contains no automated interpretation and no LLM prompt. The original input should be preserved separately under the study's governance plan; it is not duplicated into the bundle.
+The download includes a results table, figure when applicable, `manifest.json`, R result object, `CITATION.txt`, and `COLLABORATION.txt`. It contains no automated interpretation or interpretation prompt. The original input should be preserved separately under the study's governance plan; it is not duplicated into the bundle.
 
 ## Citation
 
