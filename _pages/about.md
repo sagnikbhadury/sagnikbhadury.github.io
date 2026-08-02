@@ -16,7 +16,7 @@ redirect_from:
     <h1>Statistics for the <em>structure</em> inside cancer data.</h1>
     <p class="home-hero__lead">I develop Bayesian statistical and biostatistical methods, machine-learning models, and bioinformatic pipelines that uncover networks, spatial variation, and cross-modal signals—from tissue images and spatial transcriptomics to MRI and H&amp;E histology.</p>
     <div class="home-actions">
-      <a class="button button--primary" href="{{ '/spatial-methods-workbench/' | relative_url }}">Explore the Workbench <span aria-hidden="true">→</span></a>
+      <a class="button button--primary" href="https://sagnikbhadury.shinyapps.io/spatial-methods-workbench/">Launch the Workbench <span aria-hidden="true">↗</span></a>
       <a class="button button--quiet" href="{{ '/research/' | relative_url }}">Explore my research <span aria-hidden="true">→</span></a>
       <a class="button button--quiet" href="{{ '/publications/' | relative_url }}">View publications</a>
     </div>
@@ -51,8 +51,9 @@ redirect_from:
     <h2 id="workbench-spotlight-title">From uploaded spatial data to a reproducible, citation-ready analysis.</h2>
     <p>The <strong>Spatial Methods Workbench</strong> turns a growing statistical methods program into a guided analysis platform. Twelve executable paths span 2D and 3D networks, spatial AI and machine learning, high-dimensional image regression, prediction, causal analysis, and tumor shape—each with compatibility checks and a complete provenance bundle.</p>
     <div class="home-actions">
-      <a class="button button--light" href="{{ '/spatial-methods-workbench/' | relative_url }}">See the full platform <span aria-hidden="true">→</span></a>
-      <a class="button button--outline-light" href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench">View source ↗</a>
+      <a class="button button--light" href="https://sagnikbhadury.shinyapps.io/spatial-methods-workbench/">Launch application <span aria-hidden="true">↗</span></a>
+      <a class="button button--outline-light" href="{{ '/spatial-methods-workbench/' | relative_url }}">Explore all pipelines <span aria-hidden="true">→</span></a>
+      <a class="button button--outline-light" href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench">Source ↗</a>
     </div>
   </div>
   <div class="workbench-spotlight__map" aria-label="Workbench pipeline overview">

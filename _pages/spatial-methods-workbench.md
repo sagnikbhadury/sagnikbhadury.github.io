@@ -15,21 +15,24 @@ description: "A guided research platform for reproducible spatial, network, pred
     <h2>A statistical methods platform for structure in biomedical data.</h2>
     <p class="workbench-hero__lead">The Spatial Methods Workbench transforms specialized methodology into a guided, reproducible analysis environment. Researchers upload a structured dataset, map its scientific variables, choose among compatible pipelines, run the analysis, and receive citation-ready outputs without needing to reconstruct the underlying workflow from separate scripts.</p>
     <div class="workbench-actions">
-      <a class="button button--primary" href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench">Application source <span aria-hidden="true">↗</span></a>
-      <a class="button button--quiet" href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.2.0">Download v0.2.0</a>
-      <a class="button button--quiet" href="https://doi.org/10.5281/zenodo.21763796">Cite the software</a>
+      <a class="button button--primary" href="https://sagnikbhadury.shinyapps.io/spatial-methods-workbench/">Launch application <span aria-hidden="true">↗</span></a>
+      <a class="button button--quiet" href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench">Application source</a>
+      <a class="button button--quiet" href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.2.1">Download v0.2.1</a>
+      <a class="button button--quiet" href="https://doi.org/10.5281/zenodo.21764196">Cite the software</a>
+      <a class="button button--quiet" href="{{ '/workbench-guide/' | relative_url }}">Installation &amp; usage guide</a>
     </div>
   </div>
   <aside class="workbench-release-card">
-    <p>Current release</p>
-    <strong>v0.2.0</strong>
+    <p>Live public application</p>
+    <strong>v0.2.1</strong>
     <dl>
       <div><dt>Interface</dt><dd>R Shiny</dd></div>
       <div><dt>Analyses</dt><dd>12 guided paths</dd></div>
-      <div><dt>Testing</dt><dd>29 passing tests</dd></div>
+      <div><dt>Testing</dt><dd>31 passing tests</dd></div>
       <div><dt>Archive</dt><dd>Zenodo DOI</dd></div>
     </dl>
-    <a href="https://doi.org/10.5281/zenodo.21763606">10.5281/zenodo.21763606 ↗</a>
+    <a href="https://sagnikbhadury.shinyapps.io/spatial-methods-workbench/">Open the Workbench ↗</a><br>
+    <a href="https://doi.org/10.5281/zenodo.21763606">All-versions DOI ↗</a>
   </aside>
 </section>
 
@@ -38,6 +41,12 @@ description: "A guided research platform for reproducible spatial, network, pred
   <h2>One disciplined entry point to a broad methods program.</h2>
   <p>Spatial and imaging studies rarely fail because investigators lack another plotting function. The harder problem is choosing an analysis whose assumptions match the available coordinates, regions, identifiers, outcomes, and features—and preserving enough information for the result to be reproduced. The Workbench addresses that gap directly. It evaluates the uploaded data, exposes only compatible analysis paths, and packages the numerical output with the settings, runtime metadata, software object, figure, and required citations.</p>
 </section>
+
+<div class="domain-callout">
+  <p class="domain-callout__label">Before using real data</p>
+  <h2>Read the complete installation, input, restriction, and deployment guide.</h2>
+  <p>The guide covers the public Shiny service, controlled local installation, all advanced network engines, Docker, real-data preparation, pipeline contracts, privacy, computational limits, citation, and collaboration. <a href="{{ '/workbench-guide/' | relative_url }}">Open the complete guide →</a></p>
+</div>
 
 <section class="pipeline-architecture" aria-labelledby="architecture-title">
   <div class="section-heading">
@@ -153,8 +162,8 @@ description: "A guided research platform for reproducible spatial, network, pred
   <p class="section-kicker">Software record</p>
   <h2>A citable platform, not an ephemeral web demo.</h2>
   <div>
-    <p><strong>Version v0.2.0:</strong> Bhadury, S. (2026). <em>Spatial Methods Workbench</em> (v0.2.0) [Computer software]. Zenodo.</p>
-    <p><a href="https://doi.org/10.5281/zenodo.21763796">doi:10.5281/zenodo.21763796</a></p>
+    <p><strong>Version v0.2.1:</strong> Bhadury, S. (2026). <em>SpatialMethodsWorkbench: Spatial Methods Workbench</em> (v0.2.1) [Computer software]. Zenodo.</p>
+    <p><a href="https://doi.org/10.5281/zenodo.21764196">doi:10.5281/zenodo.21764196</a></p>
     <p>The all-versions record is <a href="https://doi.org/10.5281/zenodo.21763606">doi:10.5281/zenodo.21763606</a>. Individual statistical engines retain their applicable publication and software citations, which the Workbench adds to the corresponding result bundle.</p>
   </div>
 </section>
