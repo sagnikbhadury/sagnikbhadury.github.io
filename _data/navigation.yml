@@ -3,6 +3,9 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "Workbench"
+    url: /spatial-methods-workbench/
+
   - title: "Publications"
     url: /publications/
 

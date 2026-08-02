@@ -16,7 +16,8 @@ redirect_from:
     <h1>Statistics for the <em>structure</em> inside cancer data.</h1>
     <p class="home-hero__lead">I develop Bayesian statistical and biostatistical methods, machine-learning models, and bioinformatic pipelines that uncover networks, spatial variation, and cross-modal signals—from tissue images and spatial transcriptomics to MRI and H&amp;E histology.</p>
     <div class="home-actions">
-      <a class="button button--primary" href="{{ '/research/' | relative_url }}">Explore my research <span aria-hidden="true">→</span></a>
+      <a class="button button--primary" href="{{ '/spatial-methods-workbench/' | relative_url }}">Explore the Workbench <span aria-hidden="true">→</span></a>
+      <a class="button button--quiet" href="{{ '/research/' | relative_url }}">Explore my research <span aria-hidden="true">→</span></a>
       <a class="button button--quiet" href="{{ '/publications/' | relative_url }}">View publications</a>
     </div>
     <ul class="home-meta" aria-label="Current role and location">
@@ -42,6 +43,24 @@ redirect_from:
     <h2 id="intro-title">Methodology grounded in consequential biomedical questions.</h2>
   </div>
   <p>I am a Postdoctoral Research Fellow in the <a href="https://sibl.lab.medicine.umich.edu/">Systems Imaging &amp; Bioinformatics Lab</a> at the University of Michigan, mentored by Arvind Rao, PhD. I earned my PhD in Biostatistics from the University of Louisville in 2022 under Jeremy Gaskins, PhD and the late Riten Mitra, PhD.</p>
+</section>
+
+<section class="workbench-spotlight" aria-labelledby="workbench-spotlight-title">
+  <div class="workbench-spotlight__lead">
+    <p class="section-kicker">Flagship research software</p>
+    <h2 id="workbench-spotlight-title">From uploaded spatial data to a reproducible, citation-ready analysis.</h2>
+    <p>The <strong>Spatial Methods Workbench</strong> turns a growing statistical methods program into a guided analysis platform. Researchers map their own data, see which pipelines are scientifically compatible, run validated 2D, 3D, network, prediction, causal, and imaging workflows, and export a complete provenance bundle.</p>
+    <div class="home-actions">
+      <a class="button button--light" href="{{ '/spatial-methods-workbench/' | relative_url }}">See the full platform <span aria-hidden="true">→</span></a>
+      <a class="button button--outline-light" href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench">View source ↗</a>
+    </div>
+  </div>
+  <div class="workbench-spotlight__map" aria-label="Workbench pipeline overview">
+    <div><span>01</span><strong>Upload &amp; map</strong><small>Coordinates · regions · outcomes · features</small></div>
+    <div><span>02</span><strong>Compatibility gate</strong><small>Only valid pipelines become available</small></div>
+    <div><span>03</span><strong>Run analysis</strong><small>Exploratory through advanced Bayesian engines</small></div>
+    <div><span>04</span><strong>Export provenance</strong><small>Results · settings · objects · citations</small></div>
+  </div>
 </section>
 
 <section class="home-section" aria-labelledby="themes-title">

@@ -1,0 +1,131 @@
+---
+layout: single
+permalink: /spatial-methods-workbench/
+title: "Spatial Methods Workbench"
+seo_title: "Spatial Methods Workbench — Guided Spatial & Biomedical Data Analysis"
+author_profile: false
+description: "A guided research platform for reproducible spatial, network, predictive, causal, and 3D biomedical data analysis developed by Sagnik Bhadury."
+---
+
+<div class="workbench-page">
+
+<section class="workbench-hero">
+  <div>
+    <p class="section-kicker">Flagship research software · Open source · DOI archived</p>
+    <h2>A statistical methods platform for structure in biomedical data.</h2>
+    <p class="workbench-hero__lead">The Spatial Methods Workbench transforms specialized methodology into a guided, reproducible analysis environment. Researchers upload a structured dataset, map its scientific variables, choose among compatible pipelines, run the analysis, and receive citation-ready outputs without needing to reconstruct the underlying workflow from separate scripts.</p>
+    <div class="workbench-actions">
+      <a class="button button--primary" href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench">Application source <span aria-hidden="true">↗</span></a>
+      <a class="button button--quiet" href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.1.1">Download v0.1.1</a>
+      <a class="button button--quiet" href="https://doi.org/10.5281/zenodo.21763607">Cite the software</a>
+    </div>
+  </div>
+  <aside class="workbench-release-card">
+    <p>Current release</p>
+    <strong>v0.1.1</strong>
+    <dl>
+      <div><dt>Interface</dt><dd>R Shiny</dd></div>
+      <div><dt>Analyses</dt><dd>8 guided paths</dd></div>
+      <div><dt>Testing</dt><dd>22 passing tests</dd></div>
+      <div><dt>Archive</dt><dd>Zenodo DOI</dd></div>
+    </dl>
+    <a href="https://doi.org/10.5281/zenodo.21763606">10.5281/zenodo.21763606 ↗</a>
+  </aside>
+</section>
+
+<section class="workbench-statement">
+  <p class="section-kicker">Purpose</p>
+  <h2>One disciplined entry point to a broad methods program.</h2>
+  <p>Spatial and imaging studies rarely fail because investigators lack another plotting function. The harder problem is choosing an analysis whose assumptions match the available coordinates, regions, identifiers, outcomes, and features—and preserving enough information for the result to be reproduced. The Workbench addresses that gap directly. It evaluates the uploaded data, exposes only compatible analysis paths, and packages the numerical output with the settings, runtime metadata, software object, figure, and required citations.</p>
+</section>
+
+<section class="pipeline-architecture" aria-labelledby="architecture-title">
+  <div class="section-heading">
+    <div>
+      <p class="section-kicker">Architecture</p>
+      <h2 id="architecture-title">A guided analysis sequence</h2>
+    </div>
+    <p>Every path begins with the same explicit data contract.</p>
+  </div>
+  <ol class="pipeline-flow">
+    <li><span>01</span><strong>Upload</strong><small>Start with a CSV or synthetic demonstration dataset.</small></li>
+    <li><span>02</span><strong>Map</strong><small>Identify coordinates, regions, IDs, outcomes, exposures, mediators, and features.</small></li>
+    <li><span>03</span><strong>Validate</strong><small>Check structure and display precisely what each pipeline still requires.</small></li>
+    <li><span>04</span><strong>Analyze</strong><small>Configure and run a compatible built-in or advanced public engine.</small></li>
+    <li><span>05</span><strong>Export</strong><small>Download results, figures, parameters, R objects, provenance, and citations.</small></li>
+  </ol>
+</section>
+
+<section class="pipeline-catalog" aria-labelledby="catalog-title">
+  <div class="section-heading">
+    <div>
+      <p class="section-kicker">Pipeline catalog</p>
+      <h2 id="catalog-title">Eight analysis paths, organized by scientific task</h2>
+    </div>
+  </div>
+
+  <div class="pipeline-tier">
+    <div class="pipeline-tier__heading"><span>Spatial structure</span><p>Characterize how measured features and conditional relationships vary across tissue.</p></div>
+    <div class="pipeline-cards">
+      <article><b>01</b><h3>Spatial quality control</h3><p>Feature maps and permutation-based Moran’s I for evaluating spatial patterning before downstream modeling.</p><small>Requires x/y coordinates and a numeric feature</small></article>
+      <article><b>02</b><h3>Region-aware conditional networks</h3><p>Ridge-regularized partial-correlation networks overall and within mapped tissue regions.</p><small>Requires multiple numeric markers; region is optional</small></article>
+      <article><b>03</b><h3>ISPat 2D</h3><p>Bayesian estimation of shared and region-specific conditional-association networks for multiplexed spatial imaging.</p><small>Advanced public engine · x/y · region · marker matrix</small></article>
+      <article><b>04</b><h3>GP–GHS</h3><p>Spatially varying network estimation using Gaussian-process structure with group-horseshoe shrinkage.</p><small>Advanced public engine · x/y · marker matrix</small></article>
+    </div>
+  </div>
+
+  <div class="pipeline-tier pipeline-tier--3d">
+    <div class="pipeline-tier__heading"><span>Volumetric complexity</span><p>Move beyond a single section to serial-section and three-dimensional tumor imaging.</p></div>
+    <div class="pipeline-cards pipeline-cards--single">
+      <article><b>05</b><h3>ISPat 3D volumetric networks</h3><p>A dedicated higher-complexity path for shared and zone-specific conditional network estimation across volumetric or serial-section imaging data. The engine remains unavailable until x/y/z coordinates, volume identifiers, zones, features, and the exact server-side package are present.</p><small>Advanced public engine · gated input contract · no silent approximation</small></article>
+    </div>
+  </div>
+
+  <div class="pipeline-tier">
+    <div class="pipeline-tier__heading"><span>Prediction, causal structure &amp; imaging</span><p>Connect spatial information to outcomes and structured biomedical objects.</p></div>
+    <div class="pipeline-cards pipeline-cards--three">
+      <article><b>06</b><h3>Spatial machine learning</h3><p>Outcome prediction from measured features and spatial coordinates with held-out validation.</p><small>Numeric or categorical outcomes · measured predictors</small></article>
+      <article><b>07</b><h3>Mediation analysis</h3><p>Model-based indirect-effect estimation with bootstrap uncertainty and explicit design requirements.</p><small>Exposure · mediator · outcome</small></article>
+      <article><b>08</b><h3>Tumor shape PCA</h3><p>Landmark alignment, contour resampling, and principal-component summaries of tumor morphology.</p><small>Contour ID · ordered x/y landmarks</small></article>
+    </div>
+  </div>
+</section>
+
+<section class="workbench-principles">
+  <div>
+    <p class="section-kicker">Built for credible research use</p>
+    <h2>Compatibility before computation. Provenance after it.</h2>
+  </div>
+  <div class="principle-grid">
+    <article><h3>Explicit compatibility gates</h3><p>The interface tells researchers what is ready, what is missing, and whether an advanced engine exists on the deployment.</p></article>
+    <article><h3>Exact engine identity</h3><p>An unavailable Bayesian or 3D method is never replaced by a simpler algorithm under the same name.</p></article>
+    <article><h3>Reproducibility bundles</h3><p>Each download preserves results, a figure, parameters, runtime metadata, the R result object, and software citations.</p></article>
+    <article><h3>Citation by design</h3><p>Users acknowledge the citation condition before analysis. Citation metadata are embedded in every export and the software has a permanent Zenodo DOI.</p></article>
+    <article><h3>Research-data caution</h3><p>The public workflow defaults to synthetic data and explicitly prohibits protected health information on an unsecured deployment.</p></article>
+    <article><h3>Tested application behavior</h3><p>Automated analysis, export, citation, and Shiny server tests protect the public workflow as the platform evolves.</p></article>
+  </div>
+</section>
+
+<section class="interpretation-boundary">
+  <div>
+    <p class="section-kicker">Scientific interpretation</p>
+    <h2>The platform computes results. Scientific conclusions require collaboration.</h2>
+  </div>
+  <div>
+    <p>The Workbench deliberately does not narrate results, assign biological mechanisms, or generate automated explanations. Interpretation depends on study design, tissue context, preprocessing, measurement technology, and the scientific question.</p>
+    <p>For study-specific interpretation, methodological consultation, or a research collaboration, contact Sagnik Bhadury directly.</p>
+    <a class="button button--light" href="mailto:bhadury@umich.edu?subject=Spatial%20Methods%20Workbench%20collaboration">Discuss a collaboration <span aria-hidden="true">→</span></a>
+  </div>
+</section>
+
+<section class="workbench-citation">
+  <p class="section-kicker">Software record</p>
+  <h2>A citable platform, not an ephemeral web demo.</h2>
+  <div>
+    <p><strong>Version v0.1.1:</strong> Bhadury, S. (2026). <em>Spatial Methods Workbench</em> (v0.1.1) [Computer software]. Zenodo.</p>
+    <p><a href="https://doi.org/10.5281/zenodo.21763607">doi:10.5281/zenodo.21763607</a></p>
+    <p>The all-versions record is <a href="https://doi.org/10.5281/zenodo.21763606">doi:10.5281/zenodo.21763606</a>. Individual statistical engines retain their applicable publication and software citations, which the Workbench adds to the corresponding result bundle.</p>
+  </div>
+</section>
+
+</div>
