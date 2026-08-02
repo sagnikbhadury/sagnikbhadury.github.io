@@ -49,7 +49,7 @@ redirect_from:
   <div class="workbench-spotlight__lead">
     <p class="section-kicker">Flagship research software</p>
     <h2 id="workbench-spotlight-title">From uploaded spatial data to a reproducible, citation-ready analysis.</h2>
-    <p>The <strong>Spatial Methods Workbench</strong> turns a growing statistical methods program into a guided analysis platform. Researchers map their own data, see which pipelines are scientifically compatible, run validated 2D, 3D, network, prediction, causal, and imaging workflows, and export a complete provenance bundle.</p>
+    <p>The <strong>Spatial Methods Workbench</strong> turns a growing statistical methods program into a guided analysis platform. Twelve executable paths span 2D and 3D networks, spatial AI and machine learning, high-dimensional image regression, prediction, causal analysis, and tumor shape—each with compatibility checks and a complete provenance bundle.</p>
     <div class="home-actions">
       <a class="button button--light" href="{{ '/spatial-methods-workbench/' | relative_url }}">See the full platform <span aria-hidden="true">→</span></a>
       <a class="button button--outline-light" href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench">View source ↗</a>

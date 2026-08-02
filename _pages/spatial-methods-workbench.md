@@ -16,17 +16,17 @@ description: "A guided research platform for reproducible spatial, network, pred
     <p class="workbench-hero__lead">The Spatial Methods Workbench transforms specialized methodology into a guided, reproducible analysis environment. Researchers upload a structured dataset, map its scientific variables, choose among compatible pipelines, run the analysis, and receive citation-ready outputs without needing to reconstruct the underlying workflow from separate scripts.</p>
     <div class="workbench-actions">
       <a class="button button--primary" href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench">Application source <span aria-hidden="true">↗</span></a>
-      <a class="button button--quiet" href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.1.1">Download v0.1.1</a>
-      <a class="button button--quiet" href="https://doi.org/10.5281/zenodo.21763607">Cite the software</a>
+      <a class="button button--quiet" href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.2.0">Download v0.2.0</a>
+      <a class="button button--quiet" href="https://doi.org/10.5281/zenodo.21763796">Cite the software</a>
     </div>
   </div>
   <aside class="workbench-release-card">
     <p>Current release</p>
-    <strong>v0.1.1</strong>
+    <strong>v0.2.0</strong>
     <dl>
       <div><dt>Interface</dt><dd>R Shiny</dd></div>
-      <div><dt>Analyses</dt><dd>8 guided paths</dd></div>
-      <div><dt>Testing</dt><dd>22 passing tests</dd></div>
+      <div><dt>Analyses</dt><dd>12 guided paths</dd></div>
+      <div><dt>Testing</dt><dd>29 passing tests</dd></div>
       <div><dt>Archive</dt><dd>Zenodo DOI</dd></div>
     </dl>
     <a href="https://doi.org/10.5281/zenodo.21763606">10.5281/zenodo.21763606 ↗</a>
@@ -60,7 +60,7 @@ description: "A guided research platform for reproducible spatial, network, pred
   <div class="section-heading">
     <div>
       <p class="section-kicker">Pipeline catalog</p>
-      <h2 id="catalog-title">Eight analysis paths, organized by scientific task</h2>
+      <h2 id="catalog-title">Twelve analysis paths, organized by scientific task</h2>
     </div>
   </div>
 
@@ -82,12 +82,43 @@ description: "A guided research platform for reproducible spatial, network, pred
   </div>
 
   <div class="pipeline-tier">
-    <div class="pipeline-tier__heading"><span>Prediction, causal structure &amp; imaging</span><p>Connect spatial information to outcomes and structured biomedical objects.</p></div>
+    <div class="pipeline-tier__heading"><span>Spatial AI &amp; machine learning</span><p>Adapt public AI, ML, and deep-learning workflows to spatial biomedical prediction and discovery.</p></div>
     <div class="pipeline-cards pipeline-cards--three">
       <article><b>06</b><h3>Spatial machine learning</h3><p>Outcome prediction from measured features and spatial coordinates with held-out validation.</p><small>Numeric or categorical outcomes · measured predictors</small></article>
-      <article><b>07</b><h3>Mediation analysis</h3><p>Model-based indirect-effect estimation with bootstrap uncertainty and explicit design requirements.</p><small>Exposure · mediator · outcome</small></article>
-      <article><b>08</b><h3>Tumor shape PCA</h3><p>Landmark alignment, contour resampling, and principal-component summaries of tumor morphology.</p><small>Contour ID · ordered x/y landmarks</small></article>
+      <article><b>07</b><h3>Spatial phenotype clustering</h3><p>Multivariate phenotype discovery with an explicit control for how strongly tissue coordinates influence the partitions.</p><small>Adapted ML workflow · x/y · numeric markers</small></article>
+      <article><b>08</b><h3>Shallow-neural prediction</h3><p>A single-hidden-layer spatial prediction model with standardized inputs, weight decay, and held-out evaluation.</p><small>Adapted AI/deep-learning workflow · no result narration</small></article>
     </div>
+  </div>
+
+  <div class="pipeline-tier">
+    <div class="pipeline-tier__heading"><span>High-dimensional imaging</span><p>Analyze aligned contours, pixel/voxel predictors, and paired predictor–outcome images.</p></div>
+    <div class="pipeline-cards pipeline-cards--three">
+      <article><b>09</b><h3>Wide-image scalar regression</h3><p>Regularized subject-level outcome prediction from selected aligned pixel, voxel, or image-derived columns.</p><small>Fast screening counterpart to SV-NN and ST-CAR directions</small></article>
+      <article><b>10</b><h3>Latent image-to-image regression</h3><p>Low-dimensional factor regression connecting aligned predictor and outcome images with held-out reconstruction error.</p><small>Fast screening counterpart to the SBLF direction</small></article>
+      <article><b>11</b><h3>Tumor shape PCA</h3><p>Landmark alignment, contour resampling, and principal-component summaries of tumor morphology.</p><small>Contour ID · ordered x/y landmarks</small></article>
+    </div>
+  </div>
+
+  <div class="pipeline-tier">
+    <div class="pipeline-tier__heading"><span>Causal structure</span><p>Estimate a prespecified indirect-effect model while keeping causal requirements explicit.</p></div>
+    <div class="pipeline-cards pipeline-cards--single">
+      <article><b>12</b><h3>Mediation analysis</h3><p>Model-based indirect-effect estimation with bootstrap uncertainty and explicit temporal-ordering, exchangeability, consistency, and positivity requirements.</p><small>Exposure · mediator · outcome · collaboration recommended</small></article>
+    </div>
+  </div>
+</section>
+
+<section class="workbench-principles public-ecosystem">
+  <div>
+    <p class="section-kicker">Public workflow ecosystem</p>
+    <h2>Broader than a single package—and explicit about attribution.</h2>
+  </div>
+  <div class="principle-grid">
+    <article><h3>AI &amp; ML curricula</h3><p>The <a href="https://github.com/microsoft/AI-For-Beginners">AI for Beginners</a> and <a href="https://github.com/microsoft/ML-For-Beginners">ML for Beginners</a> repositories inform executable spatial clustering and predictive workflows.</p></article>
+    <article><h3>Deep-learning foundations</h3><p><a href="https://github.com/mikexcohen/DeepUnderstandingOfDeepLearning">A Deep Understanding of Deep Learning</a> informs the tested shallow-neural extension, adapted to coordinates and biomedical features.</p></article>
+    <article><h3>SV-NN direction</h3><p>The image-regression tier cites Wu, Wu &amp; Kang’s <a href="https://jmlr.org/papers/v26/22-0246.html">Bayesian spatially varying neural-network model</a> while labeling the interactive ridge implementation as a screening workflow.</p></article>
+    <article><h3>ST-CAR direction</h3><p>Scalar-on-image and image-on-scalar extensions are connected to the <a href="https://openreview.net/forum?id=rnL3OafDdw&noteId=gn2VU2ZeIo">soft-thresholded CAR image-regression publication</a>; full posterior engines remain deployment-gated.</p></article>
+    <article><h3>SBLF direction</h3><p>The paired-image workflow follows the latent-factor problem structure established by Guo, Kang &amp; Johnson’s <a href="https://doi.org/10.1111/biom.13420">spatial Bayesian image-on-image model</a>, with exact method identity retained in every label.</p></article>
+    <article><h3>LLM engineering boundary</h3><p>Public LLM-from-scratch, AI-engineering, and routing repositories inform deployment architecture only. Uploaded values and results are not sent to an LLM, and the platform does not automate scientific interpretation.</p></article>
   </div>
 </section>
 
@@ -122,8 +153,8 @@ description: "A guided research platform for reproducible spatial, network, pred
   <p class="section-kicker">Software record</p>
   <h2>A citable platform, not an ephemeral web demo.</h2>
   <div>
-    <p><strong>Version v0.1.1:</strong> Bhadury, S. (2026). <em>Spatial Methods Workbench</em> (v0.1.1) [Computer software]. Zenodo.</p>
-    <p><a href="https://doi.org/10.5281/zenodo.21763607">doi:10.5281/zenodo.21763607</a></p>
+    <p><strong>Version v0.2.0:</strong> Bhadury, S. (2026). <em>Spatial Methods Workbench</em> (v0.2.0) [Computer software]. Zenodo.</p>
+    <p><a href="https://doi.org/10.5281/zenodo.21763796">doi:10.5281/zenodo.21763796</a></p>
     <p>The all-versions record is <a href="https://doi.org/10.5281/zenodo.21763606">doi:10.5281/zenodo.21763606</a>. Individual statistical engines retain their applicable publication and software citations, which the Workbench adds to the corresponding result bundle.</p>
   </div>
 </section>
