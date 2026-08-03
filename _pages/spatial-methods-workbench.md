@@ -20,6 +20,7 @@ description: "A guided research platform for reproducible spatial, network, pred
       <a class="button button--quiet" href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.2.1">Download v0.2.1</a>
       <a class="button button--quiet" href="https://doi.org/10.5281/zenodo.21764196">Cite the software</a>
       <a class="button button--quiet" href="{{ '/workbench-guide/' | relative_url }}">Installation &amp; usage guide</a>
+      <a class="button button--quiet" href="https://www.youtube.com/watch?v=Ft9groM2ilI">Watch the complete tutorial <span aria-hidden="true">▶</span></a>
     </div>
   </div>
   <aside class="workbench-release-card">
@@ -34,6 +35,31 @@ description: "A guided research platform for reproducible spatial, network, pred
     <a href="https://sagnikbhadury.shinyapps.io/spatial-methods-workbench/">Open the Workbench ↗</a><br>
     <a href="https://doi.org/10.5281/zenodo.21763606">All-versions DOI ↗</a>
   </aside>
+</section>
+
+<section class="workbench-video" aria-labelledby="workbench-video-title">
+  <div class="section-heading">
+    <div>
+      <p class="section-kicker">Complete video tutorial · 20 minutes</p>
+      <h2 id="workbench-video-title">See the full research workflow before you run it.</h2>
+    </div>
+    <p>The narrated walkthrough covers analysis-ready data, all 12 pipelines, the synthetic Moran’s I demonstration, advanced public engines, citation-ready exports, local installation, and the boundary between computation and scientific interpretation.</p>
+  </div>
+  <div class="workbench-video__frame">
+    <iframe
+      src="https://www.youtube-nocookie.com/embed/Ft9groM2ilI"
+      title="Spatial Methods Workbench complete usage tutorial"
+      loading="lazy"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe>
+  </div>
+  <div class="workbench-video__actions">
+    <a class="button button--primary" href="https://www.youtube.com/watch?v=Ft9groM2ilI">Watch on YouTube <span aria-hidden="true">↗</span></a>
+    <a class="button button--quiet" href="{{ '/workbench-guide/' | relative_url }}">Follow the written guide</a>
+    <a class="button button--quiet" href="https://doi.org/10.5281/zenodo.21764196">Cite v0.2.1</a>
+  </div>
 </section>
 
 <section class="workbench-live" aria-labelledby="live-app-title">
