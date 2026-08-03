@@ -130,55 +130,56 @@ Local installation is recommended for real data, sensitive information, long Bay
 - Rtools matching the installed R version on Windows when compilation is required
 - sufficient memory/CPU; real Bayesian and 3D analyses may require a workstation or cluster
 
-### 2. Clone the application
+### 2. Download the complete v0.3.0 source distribution
 
 ```text
-git clone https://github.com/sagnikbhadury/SpatialMethodsWorkbench.git
-cd SpatialMethodsWorkbench
+https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/download/v0.3.0/SpatialMethodsWorkbench-v0.3.0-source.zip
 ```
 
-### 3. Install interface and built-in dependencies
+Extract the ZIP and open a terminal in the extracted `SpatialMethodsWorkbench-v0.3.0-source` folder. This 6.32 MiB public-source distribution includes the Workbench, its compact simulated data and vignettes, the exact public ISPAT, GP-GHS, and ISPAT-3D package sources, and the curated public reference-workflow sources recorded in `vendor/manifest.json`. Local media-production files are not included. The direct method repositories do not need to be cloned separately.
 
-Run in R:
+The same tagged source is preserved by [Zenodo v0.3.0](https://doi.org/10.5281/zenodo.21777067). Git users may instead clone the repository and check out `v0.3.0`.
 
-```r
-install.packages(c(
-  "shiny", "bslib", "DT", "ggplot2", "jsonlite",
-  "markdown", "zip", "testthat", "nnet", "remotes"
-))
-```
+### 3. Run the complete installer
 
-### 4. Install all public advanced engines
-
-Run in R:
-
-```r
-remotes::install_github("sagnikbhadury/GP-GHS", upgrade = "never")
-remotes::install_github("sagnikbhadury/ISPAT-3D", upgrade = "never")
-remotes::install_github("sagnikbhadury/ISPAT", upgrade = "never")
-```
-
-This installs the `GPGHS`, `ISPAT3D`, and `ISPAT` packages and their declared dependencies. ISPAT uses Stan; first installation and model compilation may take substantial time. Freeze package/compiler versions for formal analyses.
-
-### 5. Verify the installation
-
-From the repository directory:
+From a terminal in the extracted folder:
 
 ```text
+Rscript install-complete.R
+```
+
+The installer obtains missing CRAN dependencies, then installs the bundled `GPGHS`, `ISPAT3D`, `ISPAT`, and Workbench package sources. No separate download of those three method repositories is required. ISPAT uses Stan, so the first source installation can take time and requires the matching compiler toolchain.
+
+If PDF vignettes cannot be built on the target machine, install first with:
+
+```text
+Rscript install-complete.R --skip-vignettes
+```
+
+To additionally compile compatible bundled related-method packages, use:
+
+```text
+Rscript install-complete.R --include-related --skip-vignettes
+```
+
+The optional related-source collection is provenance- and extension-oriented: it does not imply that every upstream curriculum or platform-specific research package is an exact engine behind an interactive button. On Windows the installer skips the upstream Linux-only SBLF build while retaining its licensed source in the archive.
+
+### 4. Verify the installation
+
+Run both checks from the extracted folder:
+
+```text
+Rscript verify-installation.R
 Rscript tests/testthat.R
 ```
 
-In R:
+The verification script confirms the Workbench and all three exact public method engines. The release-content audit can also be run directly:
 
-```r
-stopifnot(
-  requireNamespace("ISPAT", quietly = TRUE),
-  requireNamespace("ISPAT3D", quietly = TRUE),
-  requireNamespace("GPGHS", quietly = TRUE)
-)
+```text
+Rscript audit-release.R
 ```
 
-### 6. Run only on the local machine
+### 5. Run only on the local machine
 
 ```r
 shiny::runApp(".", host = "127.0.0.1", port = 3838)
@@ -219,7 +220,7 @@ The download includes a results table, figure when applicable, `manifest.json`, 
 
 Current release:
 
-> Bhadury, S. (2026). *SpatialMethodsWorkbench: Spatial Methods Workbench* (v0.2.1) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.21764196](https://doi.org/10.5281/zenodo.21764196)
+> Bhadury, S. (2026). *SpatialMethodsWorkbench: Spatial Methods Workbench* (v0.3.0) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.21777067](https://doi.org/10.5281/zenodo.21777067)
 
 The all-versions DOI is [10.5281/zenodo.21763606](https://doi.org/10.5281/zenodo.21763606). Also cite every method-specific publication included in the downloaded citation file.
 
