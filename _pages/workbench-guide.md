@@ -224,6 +224,18 @@ Current release:
 
 The all-versions DOI is [10.5281/zenodo.21763606](https://doi.org/10.5281/zenodo.21763606). Also cite every method-specific publication included in the downloaded citation file.
 
+### Release history
+
+Use `v0.3.0` for new installations. Historical releases remain available to reproduce work performed with earlier software versions:
+
+| Version | Status | GitHub | Zenodo |
+|---|---|---|---|
+| **v0.3.0** | **Current recommended release** | [Release](https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.3.0) | [10.5281/zenodo.21777139](https://doi.org/10.5281/zenodo.21777139) |
+| v0.2.1 | Archived | [Release](https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.2.1) | [10.5281/zenodo.21764196](https://doi.org/10.5281/zenodo.21764196) |
+| v0.2.0 | Archived | [Release](https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.2.0) | [10.5281/zenodo.21763796](https://doi.org/10.5281/zenodo.21763796) |
+| v0.1.1 | Archived | [Release](https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.1.1) | [10.5281/zenodo.21763607](https://doi.org/10.5281/zenodo.21763607) |
+| v0.1.0 | Initial GitHub release | [Release](https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.1.0) | — |
+
 ## Support and collaboration
 
 For method selection, study-specific interpretation, deployment architecture, or collaboration, email [bhadury@umich.edu](mailto:bhadury@umich.edu?subject=Spatial%20Methods%20Workbench%20collaboration). Include only a non-sensitive study summary in the initial message; do not email protected data.

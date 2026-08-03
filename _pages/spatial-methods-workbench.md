@@ -270,4 +270,23 @@ description: "A guided research platform for reproducible spatial, network, pred
   </div>
 </section>
 
+<section class="workbench-release-history" aria-labelledby="release-history-title">
+  <p class="section-kicker">Version history</p>
+  <h2 id="release-history-title">A permanent record of the Workbench's development.</h2>
+  <p><strong>v0.3.0 is the current recommended release.</strong> It supersedes the earlier archives with the complete public-source installer, bundled public method engines, executable vignettes, compact simulated data, expanded documentation, and 51 passing tests. Earlier releases remain available for citation and reproducibility of analyses performed with those versions.</p>
+
+  <table>
+    <thead><tr><th>Version</th><th>Status</th><th>GitHub release</th><th>Zenodo record</th></tr></thead>
+    <tbody>
+      <tr><td><strong>v0.3.0</strong></td><td><strong>Current complete public release</strong></td><td><a href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.3.0">Download and release notes</a></td><td><a href="https://doi.org/10.5281/zenodo.21777139">doi:10.5281/zenodo.21777139</a></td></tr>
+      <tr><td>v0.2.1</td><td>Archived</td><td><a href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.2.1">Release</a></td><td><a href="https://doi.org/10.5281/zenodo.21764196">doi:10.5281/zenodo.21764196</a></td></tr>
+      <tr><td>v0.2.0</td><td>Archived</td><td><a href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.2.0">Release</a></td><td><a href="https://doi.org/10.5281/zenodo.21763796">doi:10.5281/zenodo.21763796</a></td></tr>
+      <tr><td>v0.1.1</td><td>Archived</td><td><a href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.1.1">Release</a></td><td><a href="https://doi.org/10.5281/zenodo.21763607">doi:10.5281/zenodo.21763607</a></td></tr>
+      <tr><td>v0.1.0</td><td>Initial GitHub release</td><td><a href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.1.0">Release</a></td><td>—</td></tr>
+    </tbody>
+  </table>
+
+  <p>The permanent all-versions DOI is <a href="https://doi.org/10.5281/zenodo.21763606">doi:10.5281/zenodo.21763606</a>; it resolves to the newest live Zenodo version. For exact reproducibility, cite the version-specific DOI used in an analysis.</p>
+</section>
+
 </div>
