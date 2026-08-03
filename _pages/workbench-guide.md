@@ -22,6 +22,18 @@ The accompanying [usage, restrictions, and local installation manual](https://gi
 
 > **Interpretation boundary:** the Workbench computes outputs but does not explain results, assign biological mechanisms, or make scientific or clinical conclusions. For study-specific interpretation or collaboration, contact [bhadury@umich.edu](mailto:bhadury@umich.edu?subject=Spatial%20Methods%20Workbench%20collaboration).
 
+## Executable PDF vignettes
+
+Five compact, fixed-seed vignettes reproduce the public workflows with simulated data and include the executed code, numerical output, plots, and audit artifacts:
+
+- [Application walkthrough]({{ '/files/spatial-methods-workbench/vignettes/SpatialMethodsWorkbench-App-Walkthrough.pdf' | relative_url }}) — create upload-ready data, validate it, run an app-equivalent analysis, and export a bundle.
+- [Spatial diagnostics and networks]({{ '/files/spatial-methods-workbench/vignettes/SpatialMethodsWorkbench-Spatial-Networks.pdf' | relative_url }}) — spatial autocorrelation, conditional networks, ISPat, and GP–GHS readiness.
+- [Prediction, clustering, and mediation]({{ '/files/spatial-methods-workbench/vignettes/SpatialMethodsWorkbench-Prediction-Clustering-Mediation.pdf' | relative_url }}) — spatial ML, phenotype clustering, shallow-neural prediction, and mediation.
+- [Imaging, shape, and 3D]({{ '/files/spatial-methods-workbench/vignettes/SpatialMethodsWorkbench-Imaging-Shape-3D.pdf' | relative_url }}) — image-regression screens, contour PCA, and ISPat 3D readiness.
+- [Reproducibility bundles]({{ '/files/spatial-methods-workbench/vignettes/SpatialMethodsWorkbench-Reproducibility-Bundles.pdf' | relative_url }}) — manifest inspection, archive auditing, reopening results, and citation verification.
+
+The complete illustrated library and matching public source links are on the [Workbench showcase]({{ '/spatial-methods-workbench/#reproducible-vignettes' | relative_url }}). The examples are intentionally small so they run quickly on a laptop; they are demonstrations, not recommendations for real-study tuning or scientific interpretation.
+
 ## Restrictions before use
 
 1. **Research use only.** The suite is not a medical device and must not guide diagnosis, treatment, patient management, or clinical decisions.

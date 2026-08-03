@@ -20,6 +20,7 @@ description: "A guided research platform for reproducible spatial, network, pred
       <a class="button button--quiet" href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.2.1">Download v0.2.1</a>
       <a class="button button--quiet" href="https://doi.org/10.5281/zenodo.21764196">Cite the software</a>
       <a class="button button--quiet" href="{{ '/workbench-guide/' | relative_url }}">Installation &amp; usage guide</a>
+      <a class="button button--quiet" href="#reproducible-vignettes">Reproducible PDF vignettes</a>
       <a class="button button--quiet" href="https://www.youtube.com/watch?v=Ft9groM2ilI">Watch the complete tutorial <span aria-hidden="true">▶</span></a>
     </div>
   </div>
@@ -29,7 +30,7 @@ description: "A guided research platform for reproducible spatial, network, pred
     <dl>
       <div><dt>Interface</dt><dd>R Shiny</dd></div>
       <div><dt>Analyses</dt><dd>12 guided paths</dd></div>
-      <div><dt>Testing</dt><dd>31 passing tests</dd></div>
+      <div><dt>Testing</dt><dd>51 passing tests</dd></div>
       <div><dt>Archive</dt><dd>Zenodo DOI</dd></div>
     </dl>
     <a href="https://sagnikbhadury.shinyapps.io/spatial-methods-workbench/">Open the Workbench ↗</a><br>
@@ -95,6 +96,59 @@ description: "A guided research platform for reproducible spatial, network, pred
   <p>The guide covers the public Shiny service, controlled local installation, all advanced network engines, Docker, real-data preparation, pipeline contracts, privacy, computational limits, citation, and collaboration. <a href="{{ '/workbench-guide/' | relative_url }}">Open the latest v0.2.1 installation and usage guide →</a></p>
   <p>For exact controls, calls, return objects, failure modes, and citations, read the <a href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench/blob/master/docs/PIPELINE_REFERENCE.md">complete function-by-function pipeline reference ↗</a>.</p>
 </div>
+
+<section class="workbench-vignettes" id="reproducible-vignettes" aria-labelledby="vignettes-title">
+  <div class="section-heading">
+    <div>
+      <p class="section-kicker">Executable documentation · Five PDF guides</p>
+      <h2 id="vignettes-title">Reproduce the workflows with small simulated data.</h2>
+    </div>
+    <p>Each vignette was rendered from executable R code with fixed seeds and compact synthetic datasets. Download a PDF for a self-contained worked example, or inspect the matching source file in the public repository.</p>
+  </div>
+
+  <div class="vignette-grid">
+    <article>
+      <span>01 · Start here</span>
+      <h3>Application walkthrough</h3>
+      <p>Create all four demonstration datasets, validate a mapping, run the app-equivalent spatial workflow, and write a reproducibility bundle.</p>
+      <small>72 spatial rows · 48 image subjects · 6 contours · 72 volumetric rows</small>
+      <div><a href="{{ '/files/spatial-methods-workbench/vignettes/SpatialMethodsWorkbench-App-Walkthrough.pdf' | relative_url }}">Download PDF ↓</a><a href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench/blob/master/vignettes/app-walkthrough.Rmd">View source ↗</a></div>
+    </article>
+    <article>
+      <span>02 · Spatial structure</span>
+      <h3>Spatial diagnostics &amp; networks</h3>
+      <p>Reproduce spatial autocorrelation, region-aware conditional networks, and the deployment checks for the exact ISPat and GP–GHS engines.</p>
+      <small>72 observations · 5 features · 19 Moran permutations</small>
+      <div><a href="{{ '/files/spatial-methods-workbench/vignettes/SpatialMethodsWorkbench-Spatial-Networks.pdf' | relative_url }}">Download PDF ↓</a><a href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench/blob/master/vignettes/spatial-networks.Rmd">View source ↗</a></div>
+    </article>
+    <article>
+      <span>03 · Spatial AI &amp; causal structure</span>
+      <h3>Prediction, clustering &amp; mediation</h3>
+      <p>Run held-out machine learning, spatial phenotype clustering, shallow-neural prediction, and bootstrap mediation from one compact table.</p>
+      <small>72 observations · fixed train/test seed · public workflow citations</small>
+      <div><a href="{{ '/files/spatial-methods-workbench/vignettes/SpatialMethodsWorkbench-Prediction-Clustering-Mediation.pdf' | relative_url }}">Download PDF ↓</a><a href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench/blob/master/vignettes/prediction-clustering-mediation.Rmd">View source ↗</a></div>
+    </article>
+    <article>
+      <span>04 · Imaging &amp; morphology</span>
+      <h3>Imaging, shape &amp; 3D</h3>
+      <p>Exercise scalar-on-image screening, latent image-to-image regression, tumor contour PCA, and the ISPat 3D deployment contract.</p>
+      <small>48 image subjects · 8 features · 6 aligned contours · 2 volumes</small>
+      <div><a href="{{ '/files/spatial-methods-workbench/vignettes/SpatialMethodsWorkbench-Imaging-Shape-3D.pdf' | relative_url }}">Download PDF ↓</a><a href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench/blob/master/vignettes/imaging-shape-3d.Rmd">View source ↗</a></div>
+    </article>
+    <article>
+      <span>05 · Audit trail</span>
+      <h3>Reproducibility bundles</h3>
+      <p>Inspect the manifest, write the archive, audit its required artifacts, reopen the R result object, and verify embedded software and method citations.</p>
+      <small>60 observations · 19 permutations · manifest, result, figure &amp; citations</small>
+      <div><a href="{{ '/files/spatial-methods-workbench/vignettes/SpatialMethodsWorkbench-Reproducibility-Bundles.pdf' | relative_url }}">Download PDF ↓</a><a href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench/blob/master/vignettes/reproducibility-bundles.Rmd">View source ↗</a></div>
+    </article>
+  </div>
+
+  <div class="vignette-boundary">
+    <strong>Scope of these documents</strong>
+    <p>The PDFs demonstrate data contracts, function calls, numerical outputs, plots, and reproducibility artifacts. They do not provide biological or scientific interpretation. For study-specific interpretation or collaboration, <a href="mailto:bhadury@umich.edu?subject=Spatial%20Methods%20Workbench%20collaboration">contact Sagnik Bhadury</a>.</p>
+  </div>
+</section>
 
 <section class="pipeline-architecture" aria-labelledby="architecture-title">
   <div class="section-heading">
