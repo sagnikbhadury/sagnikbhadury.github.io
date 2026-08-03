@@ -138,7 +138,7 @@ https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/download/v0.3.
 
 Extract the ZIP and open a terminal in the extracted `SpatialMethodsWorkbench-v0.3.0-source` folder. This 6.32 MiB public-source distribution includes the Workbench, its compact simulated data and vignettes, the exact public ISPAT, GP-GHS, and ISPAT-3D package sources, and the curated public reference-workflow sources recorded in `vendor/manifest.json`. Local media-production files are not included. The direct method repositories do not need to be cloned separately.
 
-The same tagged source is preserved by [Zenodo v0.3.0](https://doi.org/10.5281/zenodo.21777067). Git users may instead clone the repository and check out `v0.3.0`.
+The same tagged source is preserved by [Zenodo v0.3.0](https://doi.org/10.5281/zenodo.21777139). Git users may instead clone the repository and check out `v0.3.0`.
 
 ### 3. Run the complete installer
 
@@ -220,7 +220,7 @@ The download includes a results table, figure when applicable, `manifest.json`, 
 
 Current release:
 
-> Bhadury, S. (2026). *SpatialMethodsWorkbench: Spatial Methods Workbench* (v0.3.0) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.21777067](https://doi.org/10.5281/zenodo.21777067)
+> Bhadury, S. (2026). *SpatialMethodsWorkbench: Spatial Methods Workbench* (v0.3.0) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.21777139](https://doi.org/10.5281/zenodo.21777139)
 
 The all-versions DOI is [10.5281/zenodo.21763606](https://doi.org/10.5281/zenodo.21763606). Also cite every method-specific publication included in the downloaded citation file.
 

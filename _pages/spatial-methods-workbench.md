@@ -18,7 +18,7 @@ description: "A guided research platform for reproducible spatial, network, pred
       <a class="button button--primary" href="https://sagnikbhadury.shinyapps.io/spatial-methods-workbench/">Launch application <span aria-hidden="true">↗</span></a>
       <a class="button button--quiet" href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench">Application source</a>
       <a class="button button--quiet" href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.3.0">Download v0.3.0</a>
-      <a class="button button--quiet" href="https://doi.org/10.5281/zenodo.21777067">Cite the software</a>
+      <a class="button button--quiet" href="https://doi.org/10.5281/zenodo.21777139">Cite the software</a>
       <a class="button button--quiet" href="{{ '/workbench-guide/' | relative_url }}">Installation &amp; usage guide</a>
       <a class="button button--quiet" href="#reproducible-vignettes">Reproducible PDF vignettes</a>
       <a class="button button--quiet" href="https://www.youtube.com/watch?v=Ft9groM2ilI">Watch the complete tutorial <span aria-hidden="true">▶</span></a>
@@ -59,7 +59,7 @@ description: "A guided research platform for reproducible spatial, network, pred
   <div class="workbench-video__actions">
     <a class="button button--primary" href="https://www.youtube.com/watch?v=Ft9groM2ilI">Watch on YouTube <span aria-hidden="true">↗</span></a>
     <a class="button button--quiet" href="{{ '/workbench-guide/' | relative_url }}">Follow the written guide</a>
-    <a class="button button--quiet" href="https://doi.org/10.5281/zenodo.21777067">Cite v0.3.0</a>
+    <a class="button button--quiet" href="https://doi.org/10.5281/zenodo.21777139">Cite v0.3.0</a>
   </div>
 </section>
 
@@ -265,7 +265,7 @@ description: "A guided research platform for reproducible spatial, network, pred
   <h2>A citable platform, not an ephemeral web demo.</h2>
   <div>
     <p><strong>Version v0.3.0:</strong> Bhadury, S. (2026). <em>SpatialMethodsWorkbench: Spatial Methods Workbench</em> (v0.3.0) [Computer software]. Zenodo.</p>
-    <p><a href="https://doi.org/10.5281/zenodo.21777067">doi:10.5281/zenodo.21777067</a></p>
+    <p><a href="https://doi.org/10.5281/zenodo.21777139">doi:10.5281/zenodo.21777139</a></p>
     <p>The all-versions record is <a href="https://doi.org/10.5281/zenodo.21763606">doi:10.5281/zenodo.21763606</a>. Individual statistical engines retain their applicable publication and software citations, which the Workbench adds to the corresponding result bundle.</p>
   </div>
 </section>
