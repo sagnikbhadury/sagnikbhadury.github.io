@@ -221,6 +221,9 @@ The download includes a results table, figure when applicable, `manifest.json`, 
 Current release:
 
 > Bhadury, S. (2026). *SpatialMethodsWorkbench: Spatial Methods Workbench* (v0.3.0) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.21777139](https://doi.org/10.5281/zenodo.21777139)
+## Funding acknowledgement
+
+Research reported in this software was supported by the National Cancer Institute of the National Institutes of Health under Award Number **R37CA214955-01A1**. The content is solely the responsibility of the author and does not necessarily represent the official views of the National Institutes of Health.
 
 The all-versions DOI is [10.5281/zenodo.21763606](https://doi.org/10.5281/zenodo.21763606). Also cite every method-specific publication included in the downloaded citation file.
 

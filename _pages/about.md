@@ -64,6 +64,14 @@ redirect_from:
   </div>
 </section>
 
+<section class="home-intro" aria-labelledby="workbench-funding-title">
+  <div>
+    <p class="section-kicker">Funding acknowledgement</p>
+    <h2 id="workbench-funding-title">Support for the Spatial Methods Workbench.</h2>
+  </div>
+  <p>Research reported in this software was supported by the National Cancer Institute of the National Institutes of Health under Award Number <strong>R37CA214955-01A1</strong>. The content is solely the responsibility of the author and does not necessarily represent the official views of the National Institutes of Health.</p>
+</section>
+
 <section class="home-section" aria-labelledby="themes-title">
   <div class="section-heading">
     <div>

@@ -30,7 +30,7 @@ description: "A guided research platform for reproducible spatial, network, pred
     <dl>
       <div><dt>Interface</dt><dd>R Shiny</dd></div>
       <div><dt>Analyses</dt><dd>12 guided paths</dd></div>
-      <div><dt>Testing</dt><dd>51 passing tests</dd></div>
+      <div><dt>Testing</dt><dd>62 passing tests</dd></div>
       <div><dt>Archive</dt><dd>Zenodo DOI</dd></div>
     </dl>
     <a href="https://sagnikbhadury.shinyapps.io/spatial-methods-workbench/">Open the Workbench ↗</a><br>
@@ -273,7 +273,7 @@ description: "A guided research platform for reproducible spatial, network, pred
 <section class="workbench-release-history" aria-labelledby="release-history-title">
   <p class="section-kicker">Version history</p>
   <h2 id="release-history-title">A permanent record of the Workbench's development.</h2>
-  <p><strong>v0.3.0 is the current recommended release.</strong> It supersedes the earlier archives with the complete public-source installer, bundled public method engines, executable vignettes, compact simulated data, expanded documentation, and 51 passing tests. Earlier releases remain available for citation and reproducibility of analyses performed with those versions.</p>
+  <p><strong>v0.3.0 is the current recommended release.</strong> It supersedes the earlier archives with the complete public-source installer, bundled public method engines, executable vignettes, compact simulated data, expanded documentation, and 62 passing tests. Earlier releases remain available for citation and reproducibility of analyses performed with those versions.</p>
 
   <table>
     <thead><tr><th>Version</th><th>Status</th><th>GitHub release</th><th>Zenodo record</th></tr></thead>
@@ -287,6 +287,12 @@ description: "A guided research platform for reproducible spatial, network, pred
   </table>
 
   <p>The permanent all-versions DOI is <a href="https://doi.org/10.5281/zenodo.21763606">doi:10.5281/zenodo.21763606</a>; it resolves to the newest live Zenodo version. For exact reproducibility, cite the version-specific DOI used in an analysis.</p>
+</section>
+
+<section class="workbench-statement" aria-labelledby="funding-acknowledgement-title">
+  <p class="section-kicker">Funding acknowledgement</p>
+  <h2 id="funding-acknowledgement-title">National Institutes of Health support</h2>
+  <p>Research reported in this software was supported by the National Cancer Institute of the National Institutes of Health under Award Number <strong>R37CA214955-01A1</strong>. The content is solely the responsibility of the author and does not necessarily represent the official views of the National Institutes of Health.</p>
 </section>
 
 </div>
