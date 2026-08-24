@@ -369,10 +369,19 @@ button:focus-visible {
   line-height: 1.08;
 }
 
-.home-intro > p {
+.home-intro > p,
+.home-intro__body {
   margin: 1.8rem 0 0;
   color: var(--ink-soft);
   font-size: 0.98rem;
+}
+
+.home-intro__body p {
+  margin: 0 0 1.2rem;
+}
+
+.home-intro__body p:last-child {
+  margin-bottom: 0;
 }
 
 .home-intro a {

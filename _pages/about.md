@@ -1,10 +1,10 @@
 ---
 layout: home
 title: "Sagnik Bhadury"
-seo_title: "Sagnik Bhadury — Bayesian Biostatistics & Spatial Cancer Genomics"
+seo_title: "Sagnik Bhadury — Bayesian Biostatistics & Clinical Trial Methods"
 permalink: /
 author_profile: false
-description: "Bayesian biostatistician developing graphical models and spatial methods for multi-modal cancer data."
+description: "Research Associate at Penn Medicine developing Bayesian methods for clinical trials, biomedical phenotyping, graphical models, and spatial data."
 schema_type: ProfilePage
 redirect_from:
   - /about.html
@@ -12,17 +12,17 @@ redirect_from:
 
 <section class="home-hero">
   <div class="home-hero__copy">
-    <p class="eyebrow"><span></span> Postdoctoral Research Fellow · Michigan Medicine</p>
-    <h1>Statistics for the <em>structure</em> inside cancer data.</h1>
-    <p class="home-hero__lead">I develop Bayesian statistical and biostatistical methods, machine-learning models, and bioinformatic pipelines that uncover networks, spatial variation, and cross-modal signals—from tissue images and spatial transcriptomics to MRI and H&amp;E histology.</p>
+    <p class="eyebrow"><span></span> Research Associate · Penn Medicine</p>
+    <h1>Bayesian methods for complex biomedical data and <em>clinical trials</em>.</h1>
+    <p class="home-hero__lead">I develop Bayesian statistical methods, machine-learning models, and bioinformatic pipelines for clinical trials, biomedical phenotyping, molecular cohorts, and high-dimensional spatial data.</p>
     <div class="home-actions">
       <a class="button button--primary" href="https://sagnikbhadury.shinyapps.io/spatial-methods-workbench/">Launch the Workbench <span aria-hidden="true">↗</span></a>
       <a class="button button--quiet" href="{{ '/research/' | relative_url }}">Explore my research <span aria-hidden="true">→</span></a>
       <a class="button button--quiet" href="{{ '/publications/' | relative_url }}">View publications</a>
     </div>
     <ul class="home-meta" aria-label="Current role and location">
-      <li><i class="fa fa-building-o" aria-hidden="true"></i> University of Michigan</li>
-      <li><i class="fa fa-map-marker" aria-hidden="true"></i> Ann Arbor, Michigan</li>
+      <li><i class="fa fa-building-o" aria-hidden="true"></i> University of Pennsylvania</li>
+      <li><i class="fa fa-map-marker" aria-hidden="true"></i> Philadelphia, Pennsylvania</li>
     </ul>
   </div>
 
@@ -31,7 +31,7 @@ redirect_from:
       <img src="{{ '/images/PORTRAIT.jpg' | relative_url }}" alt="Portrait of Sagnik Bhadury">
       <div class="portrait-card">
         <span class="status-dot" aria-hidden="true"></span>
-        <p><strong>Current focus</strong><br>Spatial &amp; multi-modal cancer genomics</p>
+        <p><strong>Current focus</strong><br>Bayesian trial design &amp; biomedical phenotyping</p>
       </div>
     </div>
   </div>
@@ -42,7 +42,11 @@ redirect_from:
     <p class="section-kicker">What I do</p>
     <h2 id="intro-title">Methodology grounded in consequential biomedical questions.</h2>
   </div>
-  <p>I am a Postdoctoral Research Fellow in the <a href="https://sibl.lab.medicine.umich.edu/">Systems Imaging &amp; Bioinformatics Lab</a> at the University of Michigan, mentored by Arvind Rao, PhD. I earned my PhD in Biostatistics from the University of Louisville in 2022 under Jeremy Gaskins, PhD and the late Riten Mitra, PhD.</p>
+  <div class="home-intro__body">
+    <p>I am a Research Associate in the <a href="https://dbei.med.upenn.edu/">Department of Biostatistics, Epidemiology and Informatics</a> at Penn Medicine and the University of Pennsylvania. I work with <a href="https://dbei.med.upenn.edu/staff/michael-harhay-phd-mph/">Michael Harhay, PhD</a>, and colleagues in the <a href="https://dbei.med.upenn.edu/center-of-excellence/center-for-clinical-trials-innovation-ccti/">Center for Clinical Trials Innovation</a> and the <a href="https://pair.upenn.edu/">Palliative and Advanced Illness Research (PAIR) Center</a>.</p>
+    <p>My current work spans ARDS, pneumonia, and sepsis phenotyping; molecular cohort studies; and Bayesian early-phase trial design. I bring to these problems a foundation in Bayesian variable selection, graphical models, and spatial methods for high-dimensional biomedical data.</p>
+    <p>Previously, I was a Postdoctoral Research Fellow at the University of Michigan, where I worked with <a href="https://sibl.lab.medicine.umich.edu/">Arvind Rao, PhD</a>. I earned my PhD in Biostatistics from the University of Louisville in 2022 under Jeremy Gaskins, PhD, and the late Riten Mitra, PhD.</p>
+  </div>
 </section>
 
 <section class="workbench-spotlight" aria-labelledby="workbench-spotlight-title">
@@ -154,13 +158,13 @@ redirect_from:
 <section class="modality-band" aria-labelledby="modalities-title">
   <div>
     <p class="section-kicker">Data modalities</p>
-    <h2 id="modalities-title">One statistical toolkit, many views of the tumor.</h2>
+    <h2 id="modalities-title">One statistical toolkit, diverse biomedical questions.</h2>
   </div>
   <ul>
-    <li>Spatial transcriptomics</li>
-    <li>Multiplexed tissue imaging</li>
-    <li>MRI &amp; radiomics</li>
-    <li>H&amp;E histology</li>
+    <li>Critical-care phenotyping</li>
+    <li>Early-phase clinical trials</li>
+    <li>Molecular cohorts &amp; spatial omics</li>
+    <li>Tissue imaging &amp; radiomics</li>
   </ul>
   <a class="modality-band__link" href="{{ '/research-domains/' | relative_url }}">Read the research domain guide <span aria-hidden="true">→</span></a>
 </section>

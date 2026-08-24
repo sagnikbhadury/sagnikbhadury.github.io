@@ -3,7 +3,7 @@ layout: archive
 title: "Background & CV"
 permalink: /background/
 author_profile: true
-description: "Academic background, research experience, and education of Sagnik Bhadury, a Bayesian biostatistician at the University of Michigan."
+description: "Academic background, research experience, and education of Sagnik Bhadury, a Bayesian biostatistician at the University of Pennsylvania."
 redirect_from:
   - /resume
   - /cv/
@@ -14,7 +14,9 @@ redirect_from:
 
 # Professional Pursuits
 
-* Postdoctoral Research Fellow, <span style ="color:blue">[University of Michigan; Ann Arbor, MI, USA](https://umich.edu/)</span> 2023 - Present.
+* Research Associate, <span style ="color:blue">[Department of Biostatistics, Epidemiology and Informatics, University of Pennsylvania; Philadelphia, PA, USA](https://dbei.med.upenn.edu/)</span>, 2026 - Present.
+
+* Postdoctoral Research Fellow, <span style ="color:blue">[University of Michigan; Ann Arbor, MI, USA](https://umich.edu/)</span>, 2023 - 2026.
 
 * Adjunct Professor (Contractual) of Statistics, <span style ="color:blue">[Amity University Kolkata; WB, India](https://www.amity.edu/kolkata/)</span> (UG & PG Statistics), 2016 - 2018.
 
