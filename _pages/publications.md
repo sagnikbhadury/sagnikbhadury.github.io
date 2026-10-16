@@ -16,29 +16,37 @@ Selected peer-reviewed publications, preprints, and collaborative research contr
 
 * <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> [ISPAT: Informed Spatially Aware Patterns for Multiplexed Immunofluorescence data](https://www.nature.com/articles/s41598-026-35341-8)</span>, **Nature Scientific Reports** &mdash; Bayesian spatial graphical model recovering shared and region-specific cell-cell interaction networks from mIF imaging.</span>
 * <span style="text-align: justify">Tsang, A., Krishnan, S., Kulkarni, R., <span style ="color:red">Bhadury, S.</span>, Rao, A., et al. <span style ="color:blue"> [Encoding functional edges in graphs to model spatially varying relationships in the tumor microenvironment](https://doi.org/10.1038/s44387-026-00075-5)</span>, **npj Artificial Intelligence**.</span>
+* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Rao, A. <span style ="color:blue"> [ISPat 3D: Estimating Conditional Cell Population Associations Across Tumor Density Trajectory in Three Dimensional Tissue Images](https://www.nature.com/articles/s41598-026-73151-0)</span>, **Nature Scientific Reports** &mdash; extends ISPAT to three-dimensional tissue images, estimating how conditional cell population associations change along tumor density trajectories.</span>
 * <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Mitra, R., Gaskins, J. <span style ="color:blue"> [Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation](https://arxiv.org/abs/2308.02713)</span> &mdash; foundational methods work underlying the spatial and multi-modal graphical models above.</span>
 
 See [Research]({{ "/research/" | relative_url }}) for how these fit into the broader research program, organized by theme.
 
-# Preprint
+# Manuscripts and Preprints
 
-* Preprint available: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span>, Mitra, R., Gaskins, J., <span style ="color:blue"> [Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation](https://arxiv.org/abs/2308.02713) </span>
-* Preprint available: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> Graph-Based Multi-Modal Learning for Integrating Histopathological and Transcriptomic Features in Lung Cancer </span>
-* Preprint available: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> Functional Depth biomarkers Distinguish Lung Cancer Subtypes </span>
-* Preprint available: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span>, Gaskins, J., Rao, A., <span style ="color:blue"> [Spatially Varying Graphical Models for Cell-Cell Interaction Networks in Multiplexed Tissue Imaging](https://doi.org/10.64898/2026.04.01.715977)
-* Preprint available: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span>, Rao, A., <span style ="color:blue"> [ISPAT 3D: Spatially Varying Conditional Volumetric Network Estimation for 3D Tumor Imaging](https://doi.org/10.64898/2026.04.16.719017) 
-* Preprint available: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> Bayesian Joint Estimation of Multiple Graphs through Shared Shrinkage </span>
-* Preprint available: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> RISM: Radiomic feature Integration with Spike-and-slab for Multimodal survival analysis.  </span>
+* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Mitra, R., Gaskins, J. <span style ="color:blue">[Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation](https://arxiv.org/abs/2308.02713)</span></span>
+* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Gaskins, J., Rao, A. <span style ="color:blue">[Spatially Varying Graphical Models for Cell-Cell Interaction Networks in Multiplexed Tissue Imaging](https://doi.org/10.64898/2026.04.01.715977)</span></span>
+* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Tsang, A., Ray, D., Lagisetty, K., Kundu, S., Rao, A. <span style ="color:blue">Graph-Based Multi-Modal Learning for Integrating Histopathological and Transcriptomic Features in Lung Adenocarcinoma</span></span>
+* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Tsang, A., Lagisetty, K., Ray, D., Rao, A. <span style ="color:blue">Functional Depth Biomarkers Distinguish Lung Squamous Cell Carcinoma from Lung Adenocarcinoma</span></span>
+* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Rao, A. <span style ="color:blue">Separating Cellular Proximity from Conditional Coordination: A Patient-Level Framework for Multiplexed Imaging of Colorectal and Pancreatic Tumors</span></span>
+* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span> <span style ="color:blue">Design-Adaptive Borrowing Across Misaligned Outcomes in Bayesian Coregionalization Models</span></span>
+* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span> <span style ="color:blue">Does the Route Matter? Functional Validation of Shared&ndash;Private Sparse Autoencoders</span></span>
+* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span> <span style ="color:blue">Comparing Sparse Autoencoder Dictionaries through Decoder Subspaces</span></span>
+* <span style="text-align: justify">Wahl, D., Sravya, P., Altay, L.N., Do, K., Freeman, J., Gokul, A., <span style ="color:red">Bhadury, S.</span>, et al. <span style ="color:blue">Microenvironment-Derived Acetylated Amino Acids Promote Glioblastoma Treatment Resistance</span></span>
 
 # Published
 * Pediatrics: <span style="text-align: justify"> Scott, M., Metcalf, C., <span style ="color:red">Bhadury, S.</span>, et al., <span style ="color:blue"> [Impact of COVID-19 Pandemic Healthcare Restrictions on Utilization and Diagnostic Yield of Outpatient Transthoracic Echocardiograms](https://publications.aap.org/pediatrics/article/149/1/338/185976)</span> </span>
 * Journal of the Pediatric Infectious Diseases Society: <span style="text-align: justify"> Wattles, B.A. , Smith, M.J. , Feygin Y. , Jawad K.S. , <span style ="color:red">Bhadury, S.</span>, et al., <span style ="color:blue">[Recurrent antibiotic use in Kentucky children with 6 years continuous Medicaid enrollment](https://doi.org/10.1093/jpids/piac079)</span> </span>
 * Nature Scientific Reports: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> [ISPAT: Informed Spatially Aware Patterns for Multiplexed Immunofluorescence data](https://www.nature.com/articles/s41598-026-35341-8)  </span>
 * npj Artificial Intelligence: Tsang, A., Krishnan, S., Kulkarni, R., <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span> Rao, A., et al. <span style ="color:blue"> [Encoding functional edges in graphs to model spatially varying relationships in the tumor microenvironment.](https://doi.org/10.1038/s44387-026-00075-5)  </span>
+* Nature Scientific Reports: <span style="text-align: justify"> <span style ="color:red">Bhadury, S.</span>, Rao, A. <span style ="color:blue"> [ISPat 3D: Estimating Conditional Cell Population Associations Across Tumor Density Trajectory in Three Dimensional Tissue Images](https://www.nature.com/articles/s41598-026-73151-0)  </span>
 
 
 # Others 
 
+
+* <span style="text-align: justify"> Palavalasa, S., <span style ="color:red">Bhadury, S.</span>, et al.  <span style ="color:blue"> Immune-microenvironment-derived acetylated amino acids promote treatment resistance in glioblastoma by facilitating DNA repair through histone acetylation</span>, **Neuro-Oncology 2026** </span>
+
+* <span style="text-align: justify"> Palavalasa, S., Freeman, J., Singer, A., Gokul, A., Baker, E., Scott, A., Wilder-Romans, K., Shankar, S., Ravikumar, V., <span style ="color:red">Bhadury, S.</span>, et al.  <span style ="color:blue"> [Microglia in the Glioblastoma Microenvironment Secrete Acetylated Amino Acids which Assist in the Repair of Radiation-Induced DNA Damage](https://doi.org/10.1093/neuonc/noae165.1203)</span>, **Neuro-Oncology 2024** </span>
 
 * <span style="text-align: justify"> Sravya, P., Freeman, J. , Gokul, A., <span style ="color:red">Bhadury, S.</span>, et al.  <span style ="color:blue"> [Microenvironment-derived acetylated amino acids promote glioblastoma DNA repair by rerouting glucose fates and enhancing histone acetylation](https://academic.oup.com/neuro-oncology/article/27/Supplement_5/v464/8319942)</span>, **Neuro-Oncology 2025** </span>
 
