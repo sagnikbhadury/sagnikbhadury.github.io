@@ -36,7 +36,7 @@ description: "Research in Bayesian graphical models, sparse network estimation, 
 </div>
 
 * <span style="color:red">Bhadury, S.</span> et al. <span style="color:blue">[ISPAT: Informed Spatially Aware Patterns for Multiplexed Immunofluorescence data](https://www.nature.com/articles/s41598-026-35341-8)</span>, **Nature Scientific Reports**. [Code](https://github.com/sagnikbhadury/ISPAT)
-* <span style="color:red">Bhadury, S.</span>, Rao, A. <span style="color:blue">[ISPAT 3D: Spatially Varying Conditional Volumetric Network Estimation for 3D Tumor Imaging](https://doi.org/10.64898/2026.04.16.719017)</span>. [Code](https://github.com/sagnikbhadury/ISPAT-3D)
+* <span style="color:red">Bhadury, S.</span>, Rao, A. <span style="color:blue">[ISPat 3D: Estimating Conditional Cell Population Associations Across Tumor Density Trajectory in Three Dimensional Tissue Images](https://www.nature.com/articles/s41598-026-73151-0)</span>, **Nature Scientific Reports**. [Code](https://github.com/sagnikbhadury/ISPAT-3D) | [R package on CRAN](https://cran.r-project.org/web/packages/ISPAT3D/)
 * <span style="color:red">Bhadury, S.</span>, Gaskins, J., Rao, A. <span style="color:blue">[Spatially Varying Graphical Models for Cell-Cell Interaction Networks in Multiplexed Tissue Imaging](https://doi.org/10.64898/2026.04.01.715977)</span> [Code](https://github.com/sagnikbhadury/GP-GHS)
 
 ## 3. Multi-Modal Integration & Imaging Genomics
