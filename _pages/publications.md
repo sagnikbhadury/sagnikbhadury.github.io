@@ -10,7 +10,7 @@ redirect_from:
 
 --- 
 
-Selected peer-reviewed publications, preprints, and collaborative research contributions are listed below. For questions about current manuscripts or ongoing work, please [email me](mailto:bhadury@umich.edu).
+Selected peer-reviewed publications, preprints, and collaborative research contributions are listed below. For questions about current manuscripts or ongoing work, please [email me](mailto:bhadury@upenn.edu).
 
 # Selected Publications
 
@@ -42,7 +42,6 @@ See [Research]({{ "/research/" | relative_url }}) for how these fit into the bro
 * <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Mitra, R., Gaskins, J. <span style ="color:blue">Bayesian Joint Estimation of Multiple Graphs through Shared Shrinkage</span></span>
 * <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Kulkarni, R., Rao, A. <span style ="color:blue">Quantifying Biological Signal in Pathology Foundation Models through Bayesian Mutual Information Estimation</span></span>
 * <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Rao, A. <span style ="color:blue">SHIRE: Spatial Horseshoe Image-Basis Regression for Morphology and Gene Expression Associations in Spatial Transcriptomics</span></span>
-* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Gaskins, J., Lagisetty, K., Ray, D., Yehya, N., Rao, A., Harhay, M.O. <span style ="color:blue">TRACE: Trajectory-Based Change Point Detection in Evolving Dynamic Networks</span></span>
 
 # Published
 * Pediatrics: <span style="text-align: justify"> Scott, M., Metcalf, C., <span style ="color:red">Bhadury, S.</span>, et al., <span style ="color:blue"> [Impact of COVID-19 Pandemic Healthcare Restrictions on Utilization and Diagnostic Yield of Outpatient Transthoracic Echocardiograms](https://publications.aap.org/pediatrics/article/149/1/338/185976)</span> </span>
