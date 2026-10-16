@@ -20,7 +20,7 @@ The [complete pipeline reference](https://github.com/sagnikbhadury/SpatialMethod
 
 The accompanying [usage, restrictions, and local installation manual](https://github.com/sagnikbhadury/SpatialMethodsWorkbench/blob/master/docs/USER_GUIDE.md) is the authoritative operational guide distributed with the toolkit.
 
-> **Interpretation boundary:** the Workbench computes outputs but does not explain results, assign biological mechanisms, or make scientific or clinical conclusions. For study-specific interpretation or collaboration, contact [bhadury@umich.edu](mailto:bhadury@umich.edu?subject=Spatial%20Methods%20Workbench%20collaboration).
+> **Interpretation boundary:** the Workbench computes outputs but does not explain results, assign biological mechanisms, or make scientific or clinical conclusions. For study-specific interpretation or collaboration, contact [bhadury@upenn.edu](mailto:bhadury@upenn.edu?subject=Spatial%20Methods%20Workbench%20collaboration).
 
 ## Executable PDF vignettes
 
@@ -241,4 +241,4 @@ Use `v0.3.0` for new installations. Historical releases remain available to repr
 
 ## Support and collaboration
 
-For method selection, study-specific interpretation, deployment architecture, or collaboration, email [bhadury@umich.edu](mailto:bhadury@umich.edu?subject=Spatial%20Methods%20Workbench%20collaboration). Include only a non-sensitive study summary in the initial message; do not email protected data.
+For method selection, study-specific interpretation, deployment architecture, or collaboration, email [bhadury@upenn.edu](mailto:bhadury@upenn.edu?subject=Spatial%20Methods%20Workbench%20collaboration). Include only a non-sensitive study summary in the initial message; do not email protected data.

@@ -146,7 +146,7 @@ description: "A guided research platform for reproducible spatial, network, pred
 
   <div class="vignette-boundary">
     <strong>Scope of these documents</strong>
-    <p>The PDFs demonstrate data contracts, function calls, numerical outputs, plots, and reproducibility artifacts. They do not provide biological or scientific interpretation. For study-specific interpretation or collaboration, <a href="mailto:bhadury@umich.edu?subject=Spatial%20Methods%20Workbench%20collaboration">contact Sagnik Bhadury</a>.</p>
+    <p>The PDFs demonstrate data contracts, function calls, numerical outputs, plots, and reproducibility artifacts. They do not provide biological or scientific interpretation. For study-specific interpretation or collaboration, <a href="mailto:bhadury@upenn.edu?subject=Spatial%20Methods%20Workbench%20collaboration">contact Sagnik Bhadury</a>.</p>
   </div>
 </section>
 
@@ -256,7 +256,7 @@ description: "A guided research platform for reproducible spatial, network, pred
   <div>
     <p>The Workbench deliberately does not narrate results, assign biological mechanisms, or generate automated explanations. Interpretation depends on study design, tissue context, preprocessing, measurement technology, and the scientific question.</p>
     <p>For study-specific interpretation, methodological consultation, or a research collaboration, contact Sagnik Bhadury directly.</p>
-    <a class="button button--light" href="mailto:bhadury@umich.edu?subject=Spatial%20Methods%20Workbench%20collaboration">Discuss a collaboration <span aria-hidden="true">→</span></a>
+    <a class="button button--light" href="mailto:bhadury@upenn.edu?subject=Spatial%20Methods%20Workbench%20collaboration">Discuss a collaboration <span aria-hidden="true">→</span></a>
   </div>
 </section>
 

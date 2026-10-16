@@ -176,7 +176,7 @@ redirect_from:
   </div>
   <div class="contact-band__actions">
     <a class="button button--light" href="{{ '/work-with-me/' | relative_url }}">Ways to work together <span aria-hidden="true">→</span></a>
-    <a class="contact-email" href="mailto:bhadury@umich.edu">bhadury@umich.edu</a>
+    <a class="contact-email" href="mailto:bhadury@upenn.edu">bhadury@upenn.edu</a>
     <div class="contact-social">
       <a href="https://github.com/sagnikbhadury" aria-label="GitHub"><i class="fa fa-github" aria-hidden="true"></i></a>
       <a href="https://www.linkedin.com/in/sagnik-k-bhadury" aria-label="LinkedIn"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
