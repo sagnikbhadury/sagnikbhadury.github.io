@@ -33,6 +33,17 @@ See [Research]({{ "/research/" | relative_url }}) for how these fit into the bro
 * <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span> <span style ="color:blue">Comparing Sparse Autoencoder Dictionaries through Decoder Subspaces</span></span>
 * <span style="text-align: justify">Wahl, D., Sravya, P., Altay, L.N., Do, K., Freeman, J., Gokul, A., <span style ="color:red">Bhadury, S.</span>, et al. <span style ="color:blue">Microenvironment-Derived Acetylated Amino Acids Promote Glioblastoma Treatment Resistance</span></span>
 
+# Manuscripts in Preparation
+
+* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Schwob, M., Datta, J. <span style ="color:blue">Spatial Active-Set Ray Regression for Compositional Data: Methodology, Validation, and Applications in Spatial Transcriptomics and Community Ecology</span></span>
+* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Frankel, T., Rao, A. <span style ="color:blue">Resolving Compositional Confounding in Spatial Proximity Analysis through Mediation in Tumor Microenvironments</span></span>
+* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Frankel, T., Rao, A. <span style ="color:blue">Causal Mediation Decomposes Pancreatic Cancer Spatial Diversity into Compositional and Organizational Pathways</span></span>
+* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Mohammed, S., Kurtek, S., Rao, A. <span style ="color:blue">RISM: Radiomic Feature Integration with Spike-and-Slab for Multimodal Survival Analysis</span></span>
+* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Mitra, R., Gaskins, J. <span style ="color:blue">Bayesian Joint Estimation of Multiple Graphs through Shared Shrinkage</span></span>
+* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Kulkarni, R., Rao, A. <span style ="color:blue">Quantifying Biological Signal in Pathology Foundation Models through Bayesian Mutual Information Estimation</span></span>
+* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Rao, A. <span style ="color:blue">SHIRE: Spatial Horseshoe Image-Basis Regression for Morphology and Gene Expression Associations in Spatial Transcriptomics</span></span>
+* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Gaskins, J., Lagisetty, K., Ray, D., Yehya, N., Rao, A., Harhay, M.O. <span style ="color:blue">TRACE: Trajectory-Based Change Point Detection in Evolving Dynamic Networks</span></span>
+
 # Published
 * Pediatrics: <span style="text-align: justify"> Scott, M., Metcalf, C., <span style ="color:red">Bhadury, S.</span>, et al., <span style ="color:blue"> [Impact of COVID-19 Pandemic Healthcare Restrictions on Utilization and Diagnostic Yield of Outpatient Transthoracic Echocardiograms](https://publications.aap.org/pediatrics/article/149/1/338/185976)</span> </span>
 * Journal of the Pediatric Infectious Diseases Society: <span style="text-align: justify"> Wattles, B.A. , Smith, M.J. , Feygin Y. , Jawad K.S. , <span style ="color:red">Bhadury, S.</span>, et al., <span style ="color:blue">[Recurrent antibiotic use in Kentucky children with 6 years continuous Medicaid enrollment](https://doi.org/10.1093/jpids/piac079)</span> </span>
