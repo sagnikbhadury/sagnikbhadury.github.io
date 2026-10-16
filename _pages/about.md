@@ -141,7 +141,7 @@ redirect_from:
     <div class="featured-list">
       <article>
         <p class="card-label">Published · 3D imaging</p>
-        <h3>ISPAT 3D</h3>
+        <h3>ISPat 3D</h3>
         <p>Conditional cell population associations across tumor density trajectories in three-dimensional tissue images, published in Scientific Reports. The R package ISPAT3D is on CRAN.</p>
         <a class="text-link" href="https://www.nature.com/articles/s41598-026-73151-0">Read article <span aria-hidden="true">↗</span></a>
         <a class="text-link" href="https://cran.r-project.org/web/packages/ISPAT3D/">ISPAT3D on CRAN <span aria-hidden="true">↗</span></a>
