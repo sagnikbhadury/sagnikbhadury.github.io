@@ -80,7 +80,7 @@ redirect_from:
   <div class="section-heading">
     <div>
       <p class="section-kicker">Research themes</p>
-      <h2 id="themes-title">Four connected lines of inquiry</h2>
+      <h2 id="themes-title">Eight connected lines of inquiry</h2>
     </div>
     <a class="text-link" href="{{ '/research/' | relative_url }}">See the full research program <span aria-hidden="true">→</span></a>
   </div>
@@ -98,16 +98,40 @@ redirect_from:
       <p>Cell–cell interaction networks in 2D and 3D multiplexed tissue imaging.</p>
       <span class="theme-card__arrow" aria-hidden="true">↗</span>
     </a>
-    <a class="theme-card" href="{{ '/research/#3-multi-modal-integration--imaging-genomics' | relative_url }}">
+    <a class="theme-card" href="{{ '/research/#3-gaussian-processes--spatial-point-patterns' | relative_url }}">
       <span class="theme-card__number">03</span>
+      <h3>Gaussian processes</h3>
+      <p>Borrowing strength across misaligned spatial outcomes and point patterns.</p>
+      <span class="theme-card__arrow" aria-hidden="true">↗</span>
+    </a>
+    <a class="theme-card" href="{{ '/research/#4-spatial-transcriptomics--compositional-data' | relative_url }}">
+      <span class="theme-card__number">04</span>
+      <h3>Compositional data</h3>
+      <p>Regression for spatial cell-type proportions and morphology–expression links.</p>
+      <span class="theme-card__arrow" aria-hidden="true">↗</span>
+    </a>
+    <a class="theme-card" href="{{ '/research/#5-multi-modal-integration--imaging-genomics' | relative_url }}">
+      <span class="theme-card__number">05</span>
       <h3>Multi-modal integration</h3>
       <p>Fusing histopathology, transcriptomics, and radiomics into coherent models.</p>
       <span class="theme-card__arrow" aria-hidden="true">↗</span>
     </a>
-    <a class="theme-card" href="{{ '/research/#4-causal-inference--functional-data-analysis' | relative_url }}">
-      <span class="theme-card__number">04</span>
+    <a class="theme-card" href="{{ '/research/#6-causal-inference--functional-data-analysis' | relative_url }}">
+      <span class="theme-card__number">06</span>
       <h3>Causal &amp; functional data</h3>
       <p>Mediation, sensitivity analysis, and interpretable functional biomarkers.</p>
+      <span class="theme-card__arrow" aria-hidden="true">↗</span>
+    </a>
+    <a class="theme-card" href="{{ '/research/#7-bayesian-methods-for-ai--interpretability' | relative_url }}">
+      <span class="theme-card__number">07</span>
+      <h3>Bayesian methods for AI</h3>
+      <p>Shrinkage and error control for interpretability and pruning of language models.</p>
+      <span class="theme-card__arrow" aria-hidden="true">↗</span>
+    </a>
+    <a class="theme-card" href="{{ '/research/#8-clinical-trials--longitudinal-biomedical-data' | relative_url }}">
+      <span class="theme-card__number">08</span>
+      <h3>Clinical trials &amp; longitudinal data</h3>
+      <p>Bayesian trial design, joint models, and multi-omic phenotyping.</p>
       <span class="theme-card__arrow" aria-hidden="true">↗</span>
     </a>
   </div>
