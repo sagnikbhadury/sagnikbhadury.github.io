@@ -125,11 +125,11 @@ redirect_from:
   <div class="featured-grid">
     <article class="featured-card featured-card--visual">
       <div class="featured-card__image">
-        <img src="{{ '/images/research/ispat-schematic.svg' | relative_url }}" alt="Diagram of the ISPAT spatial graphical model">
+        <img src="{{ '/images/research/ispat-schematic.svg' | relative_url }}" alt="Diagram of the ISPat spatial graphical model">
       </div>
       <div class="featured-card__body">
         <p class="card-label">Published · Scientific Reports</p>
-        <h3>ISPAT</h3>
+        <h3>ISPat</h3>
         <p>Informed spatially aware patterns for multiplexed immunofluorescence data.</p>
         <div class="card-links">
           <a href="https://www.nature.com/articles/s41598-026-35341-8">Read paper ↗</a>

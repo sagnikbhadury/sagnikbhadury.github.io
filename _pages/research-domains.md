@@ -40,7 +40,7 @@ A solid tumor is an organized ecosystem, not a well-mixed collection of cells. C
 
 My research develops **spatially varying graphical models** in which network edges can change across tissue. Gaussian processes provide a flexible model for smooth spatial variation, while group horseshoe priors favor parsimonious interaction maps. The move from a two-dimensional tissue section to **3D multiplexed tissue imaging** matters because serial sections and reconstructed volumes can reveal interactions that a single plane misses.
 
-Related projects include [ISPAT](https://github.com/sagnikbhadury/ISPAT), [ISPAT 3D](https://github.com/sagnikbhadury/ISPAT-3D), [GP-GHS](https://github.com/sagnikbhadury/GP-GHS), and spatial mediation analyses in the [Causal-Inference repository](https://github.com/sagnikbhadury/Causal-Inference).
+Related projects include [ISPat](https://github.com/sagnikbhadury/ISPAT), [ISPat 3D](https://github.com/sagnikbhadury/ISPAT-3D), [GP-GHS](https://github.com/sagnikbhadury/GP-GHS), and spatial mediation analyses in the [Causal-Inference repository](https://github.com/sagnikbhadury/Causal-Inference).
 
 <div class="term-panel">
   <strong>Domain terminology</strong>

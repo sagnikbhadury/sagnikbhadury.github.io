@@ -35,7 +35,7 @@ description: "Research in Bayesian graphical models, sparse network estimation, 
   <span>multiplex immunofluorescence</span><span>spatial proteomics</span><span>cellular neighborhoods</span><span>3D tissue imaging</span><span>tumor microenvironment</span>
 </div>
 
-* <span style="color:red">Bhadury, S.</span> et al. <span style="color:blue">[ISPAT: Informed Spatially Aware Patterns for Multiplexed Immunofluorescence data](https://www.nature.com/articles/s41598-026-35341-8)</span>, **Nature Scientific Reports**. [Code](https://github.com/sagnikbhadury/ISPAT)
+* <span style="color:red">Bhadury, S.</span> et al. <span style="color:blue">[ISPat: Informed Spatially Aware Patterns for Multiplexed Immunofluorescence data](https://www.nature.com/articles/s41598-026-35341-8)</span>, **Nature Scientific Reports**. [Code](https://github.com/sagnikbhadury/ISPAT)
 * <span style="color:red">Bhadury, S.</span>, Rao, A. <span style="color:blue">[Estimating conditional cell population associations across tumor density trajectory in three dimensional tissue images (ISPat 3D)](https://www.nature.com/articles/s41598-026-73151-0)</span>, **Nature Scientific Reports**. [Code](https://github.com/sagnikbhadury/ISPAT-3D) | [R package on CRAN](https://cran.r-project.org/web/packages/ISPAT3D/)
 * <span style="color:red">Bhadury, S.</span>, Gaskins, J., Rao, A. <span style="color:blue">[Spatially Varying Graphical Models for Cell-Cell Interaction Networks in Multiplexed Tissue Imaging](https://doi.org/10.64898/2026.04.01.715977)</span> [Code](https://github.com/sagnikbhadury/GP-GHS)
 

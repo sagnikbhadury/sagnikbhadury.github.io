@@ -31,12 +31,12 @@ My methods work is developed hand-in-hand with the complex biomedical data types
 
 <span style="text-align: justify">High-plex single-cell imaging that records the spatial coordinates and marker intensities of many cell types on a single tissue section (2D) or across serial sections and volumes (3D). These data let me build spatial graphical models of the cell-cell interaction networks that make up the tumor microenvironment, and to test whether those interaction patterns differ by disease state.</span>
 
-![ISPAT spatial graphical model](/images/research/ispat-schematic.svg "Model schematic: spatial graphical model over multiplexed immunofluorescence cell-type intensities")
+![ISPat spatial graphical model](/images/research/ispat-schematic.svg "Model schematic: spatial graphical model over multiplexed immunofluorescence cell-type intensities")
 {: .align-center}
 
-* <span style="text-align: justify"><span style="color:red">Bhadury, S.</span> et al. <span style="color:blue">[ISPAT: Informed Spatially Aware Patterns for Multiplexed Immunofluorescence data](https://www.nature.com/articles/s41598-026-35341-8)</span>, **Nature Scientific Reports** — Bayesian spatial mixed-effects modeling (Poisson & Gaussian) of cell-type intensities across tissue slides. [Code](https://github.com/sagnikbhadury/ISPAT)</span>
+* <span style="text-align: justify"><span style="color:red">Bhadury, S.</span> et al. <span style="color:blue">[ISPat: Informed Spatially Aware Patterns for Multiplexed Immunofluorescence data](https://www.nature.com/articles/s41598-026-35341-8)</span>, **Nature Scientific Reports** — Bayesian spatial mixed-effects modeling (Poisson & Gaussian) of cell-type intensities across tissue slides. [Code](https://github.com/sagnikbhadury/ISPAT)</span>
 
-![ISPAT-3D volumetric network](/images/research/ispat3d-schematic.svg "Model schematic: volumetric spatial network estimation across serial tissue sections")
+![ISPat 3D volumetric network](/images/research/ispat3d-schematic.svg "Model schematic: volumetric spatial network estimation across serial tissue sections")
 {: .align-center}
 
 * <span style="text-align: justify"><span style="color:red">Bhadury, S.</span>, Rao, A. <span style="color:blue">[Estimating conditional cell population associations across tumor density trajectory in three dimensional tissue images (ISPat 3D)](https://www.nature.com/articles/s41598-026-73151-0)</span>, **Nature Scientific Reports** — extends spatial network estimation to volumetric, 3D multiplexed cancer imaging. [Code](https://github.com/sagnikbhadury/ISPAT-3D) | [R package on CRAN](https://cran.r-project.org/web/packages/ISPAT3D/)</span>
