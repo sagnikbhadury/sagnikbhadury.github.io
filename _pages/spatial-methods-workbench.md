@@ -32,6 +32,7 @@ description: "A guided research platform for reproducible spatial, network, pred
       <div><dt>Analyses</dt><dd>12 guided paths</dd></div>
       <div><dt>Engines</dt><dd>ISPAT3D 0.3.1 (CRAN) · GPGHS 1.0.1</dd></div>
       <div><dt>Testing</dt><dd>118 passing tests</dd></div>
+      <div><dt>Deployed</dt><dd>24 Oct 2026 · shinyapps.io</dd></div>
       <div><dt>Archive</dt><dd>Zenodo DOI</dd></div>
     </dl>
     <a href="https://sagnikbhadury.shinyapps.io/spatial-methods-workbench/">Open the Workbench ↗</a><br>
@@ -70,7 +71,7 @@ description: "A guided research platform for reproducible spatial, network, pred
       <p class="section-kicker">Live application</p>
       <h2 id="live-app-title">Run the Workbench on this page.</h2>
     </div>
-    <p>The embedded service may take several seconds to wake after inactivity. Use the full-screen link for large tables, long sessions, or smaller displays.</p>
+    <p>The embedded service runs Workbench v0.4.0 (deployed 24 October 2026) with the CRAN ISPAT3D 0.3.1 and GPGHS 1.0.1 engines installed, so the ISPat 2D, ISPat 3D, and GP–GHS paths execute on the live server. It may take several seconds to wake after inactivity. Use the full-screen link for large tables, long sessions, or smaller displays.</p>
   </div>
   <div class="workbench-live__frame">
     <iframe
