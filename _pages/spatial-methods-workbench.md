@@ -17,8 +17,8 @@ description: "A guided research platform for reproducible spatial, network, pred
     <div class="workbench-actions">
       <a class="button button--primary" href="https://sagnikbhadury.shinyapps.io/spatial-methods-workbench/">Launch application <span aria-hidden="true">↗</span></a>
       <a class="button button--quiet" href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench">Application source</a>
-      <a class="button button--quiet" href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.3.0">Download v0.3.0</a>
-      <a class="button button--quiet" href="https://doi.org/10.5281/zenodo.21777139">Cite the software</a>
+      <a class="button button--quiet" href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.4.0">Download v0.4.0</a>
+      <a class="button button--quiet" href="https://doi.org/10.5281/zenodo.23627817">Cite the software</a>
       <a class="button button--quiet" href="{{ '/workbench-guide/' | relative_url }}">Installation &amp; usage guide</a>
       <a class="button button--quiet" href="#reproducible-vignettes">Reproducible PDF vignettes</a>
       <a class="button button--quiet" href="https://www.youtube.com/watch?v=Ft9groM2ilI">Watch the complete tutorial <span aria-hidden="true">▶</span></a>
@@ -26,11 +26,12 @@ description: "A guided research platform for reproducible spatial, network, pred
   </div>
   <aside class="workbench-release-card">
     <p>Live public application</p>
-    <strong>v0.3.0</strong>
+    <strong>v0.4.0</strong>
     <dl>
       <div><dt>Interface</dt><dd>R Shiny</dd></div>
       <div><dt>Analyses</dt><dd>12 guided paths</dd></div>
-      <div><dt>Testing</dt><dd>62 passing tests</dd></div>
+      <div><dt>Engines</dt><dd>ISPAT3D 0.3.1 (CRAN) · GPGHS 1.0.1</dd></div>
+      <div><dt>Testing</dt><dd>118 passing tests</dd></div>
       <div><dt>Archive</dt><dd>Zenodo DOI</dd></div>
     </dl>
     <a href="https://sagnikbhadury.shinyapps.io/spatial-methods-workbench/">Open the Workbench ↗</a><br>
@@ -59,7 +60,7 @@ description: "A guided research platform for reproducible spatial, network, pred
   <div class="workbench-video__actions">
     <a class="button button--primary" href="https://www.youtube.com/watch?v=Ft9groM2ilI">Watch on YouTube <span aria-hidden="true">↗</span></a>
     <a class="button button--quiet" href="{{ '/workbench-guide/' | relative_url }}">Follow the written guide</a>
-    <a class="button button--quiet" href="https://doi.org/10.5281/zenodo.21777139">Cite v0.3.0</a>
+    <a class="button button--quiet" href="https://doi.org/10.5281/zenodo.23627817">Cite v0.4.0</a>
   </div>
 </section>
 
@@ -93,7 +94,7 @@ description: "A guided research platform for reproducible spatial, network, pred
 <div class="domain-callout">
   <p class="domain-callout__label">Before using real data</p>
   <h2>Read the complete installation, input, restriction, and deployment guide.</h2>
-  <p>The guide covers the public Shiny service, the complete v0.3.0 Zenodo/GitHub source bundle, one-command local installation, all advanced network engines, Docker, real-data preparation, pipeline contracts, privacy, computational limits, citation, and collaboration. <a href="{{ '/workbench-guide/' | relative_url }}">Open the latest v0.3.0 installation and usage guide →</a></p>
+  <p>The guide covers the public Shiny service, the complete v0.4.0 Zenodo/GitHub source bundle, one-command local installation, the ISPAT3D and GPGHS engines, Docker, real-data preparation, pipeline contracts, privacy, computational limits, citation, and collaboration. <a href="{{ '/workbench-guide/' | relative_url }}">Open the latest v0.4.0 installation and usage guide →</a></p>
   <p>For exact controls, calls, return objects, failure modes, and citations, read the <a href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench/blob/master/docs/PIPELINE_REFERENCE.md">complete function-by-function pipeline reference ↗</a>.</p>
 </div>
 
@@ -117,7 +118,7 @@ description: "A guided research platform for reproducible spatial, network, pred
     <article>
       <span>02 · Spatial structure</span>
       <h3>Spatial diagnostics &amp; networks</h3>
-      <p>Reproduce spatial autocorrelation, region-aware conditional networks, and the deployment checks for the exact ISPat and GP–GHS engines.</p>
+      <p>Reproduce spatial autocorrelation, region-aware conditional networks, and the calls to the exact ISPAT3D planar (ISPat 2D) and GPGHS engines.</p>
       <small>72 observations · 5 features · 19 Moran permutations</small>
       <div><a href="{{ '/files/spatial-methods-workbench/vignettes/SpatialMethodsWorkbench-Spatial-Networks.pdf' | relative_url }}">Download PDF ↓</a><a href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench/blob/master/vignettes/spatial-networks.Rmd">View source ↗</a></div>
     </article>
@@ -131,7 +132,7 @@ description: "A guided research platform for reproducible spatial, network, pred
     <article>
       <span>04 · Imaging &amp; morphology</span>
       <h3>Imaging, shape &amp; 3D</h3>
-      <p>Exercise scalar-on-image screening, latent image-to-image regression, tumor contour PCA, and the ISPat 3D deployment contract.</p>
+      <p>Exercise scalar-on-image screening, latent image-to-image regression, tumor contour PCA, and the ISPAT3D volumetric (ISPat 3D) engine call.</p>
       <small>48 image subjects · 8 features · 6 aligned contours · 2 volumes</small>
       <div><a href="{{ '/files/spatial-methods-workbench/vignettes/SpatialMethodsWorkbench-Imaging-Shape-3D.pdf' | relative_url }}">Download PDF ↓</a><a href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench/blob/master/vignettes/imaging-shape-3d.Rmd">View source ↗</a></div>
     </article>
@@ -180,15 +181,15 @@ description: "A guided research platform for reproducible spatial, network, pred
     <div class="pipeline-cards">
       <article><b>01</b><h3>Spatial exploration &amp; autocorrelation</h3><p>Map a numeric feature and test spatial patterning with permutation-based Moran’s I.</p><small>Input: x/y + feature · Output: map, Moran’s I, permutation p-value</small></article>
       <article><b>02</b><h3>Region-aware conditional networks</h3><p>Estimate ridge-regularized partial-correlation networks overall and within mapped tissue regions.</p><small>Input: 3+ numeric markers, optional region · Output: edge tables + heat maps</small></article>
-      <article><b>03</b><h3>ISPat 2D Bayesian network</h3><p>Estimate shared and region-specific conditional-association networks after spatial adjustment.</p><small>Exact public engine · Input: x/y, zone, 3+ markers · Output: networks + full fit</small></article>
-      <article><b>04</b><h3>GP–GHS network</h3><p>Estimate spatially varying edges using Gaussian-process structure with group-horseshoe shrinkage.</p><small>Exact public engine · Input: x/y + 3+ features · Output: selected adjacency + full fit</small></article>
+      <article><b>03</b><h3>ISPat 2D spatially adjusted network</h3><p>Estimate zone-specific conditional-association networks after section-wise planar Gaussian-process adjustment (CRAN ISPAT3D, <code>ispat3d_fit_2d</code>).</p><small>Exact public engine · Input: x/y, zone, optional section ID, 3+ markers · Output: signed zone networks, GP log, full fit</small></article>
+      <article><b>04</b><h3>GP–GHS network</h3><p>Estimate spatially varying edges using Gaussian-process structure with group-horseshoe shrinkage (GPGHS 1.0, <code>gpghs_graph</code>).</p><small>Exact public engine · Input: x/y + 3+ features · Output: selected adjacency, GPGHS edge table, full fit</small></article>
     </div>
   </div>
 
   <div class="pipeline-tier pipeline-tier--3d">
     <div class="pipeline-tier__heading"><span>Volumetric complexity</span><p>Move beyond a single section to serial-section and three-dimensional tumor imaging.</p></div>
     <div class="pipeline-cards pipeline-cards--single">
-      <article><b>05</b><h3>ISPat 3D volumetric networks</h3><p>Estimate shared and zone-specific conditional networks across registered volumetric or serial-section imaging data.</p><small>Exact public engine · Input: x/y/z, zone, volume ID, 3+ markers · Output: 3D networks + fits</small></article>
+      <article><b>05</b><h3>ISPat 3D volumetric networks</h3><p>Estimate zone-specific conditional networks across registered volumetric or serial-section imaging data after pooled volumetric Gaussian-process adjustment (CRAN ISPAT3D, <code>ispat3d_fit</code>).</p><small>Exact public engine · Input: x/y/z, zone, optional section ID, 3+ markers · Output: signed zone networks, GP log, full fit</small></article>
     </div>
   </div>
 
@@ -264,8 +265,8 @@ description: "A guided research platform for reproducible spatial, network, pred
   <p class="section-kicker">Software record</p>
   <h2>A citable platform, not an ephemeral web demo.</h2>
   <div>
-    <p><strong>Version v0.3.0:</strong> Bhadury, S. (2026). <em>SpatialMethodsWorkbench: Spatial Methods Workbench</em> (v0.3.0) [Computer software]. Zenodo.</p>
-    <p><a href="https://doi.org/10.5281/zenodo.21777139">doi:10.5281/zenodo.21777139</a></p>
+    <p><strong>Version v0.4.0:</strong> Bhadury, S. (2026). <em>SpatialMethodsWorkbench: Spatial Methods Workbench</em> (v0.4.0) [Computer software]. Zenodo.</p>
+    <p><a href="https://doi.org/10.5281/zenodo.23627817">doi:10.5281/zenodo.23627817</a></p>
     <p>The all-versions record is <a href="https://doi.org/10.5281/zenodo.21763606">doi:10.5281/zenodo.21763606</a>. Individual statistical engines retain their applicable publication and software citations, which the Workbench adds to the corresponding result bundle.</p>
   </div>
 </section>
@@ -273,12 +274,14 @@ description: "A guided research platform for reproducible spatial, network, pred
 <section class="workbench-release-history" aria-labelledby="release-history-title">
   <p class="section-kicker">Version history</p>
   <h2 id="release-history-title">A permanent record of the Workbench's development.</h2>
-  <p><strong>v0.3.0 is the current recommended release.</strong> It supersedes the earlier archives with the complete public-source installer, bundled public method engines, executable vignettes, compact simulated data, expanded documentation, and 62 passing tests. Earlier releases remain available for citation and reproducibility of analyses performed with those versions.</p>
+  <p><strong>v0.4.0 is the current recommended release.</strong> It runs the ISPat 2D and ISPat 3D paths through the CRAN package ISPAT3D 0.3.1 and the GP–GHS path through GPGHS 1.0.1, with the engines' own selection rules, signed zone networks, new controls, engine provenance in every result bundle, and 118 passing tests. Releases v0.3.1 and earlier targeted engine interfaces that no longer exist upstream, so their three advanced paths cannot run against the currently released packages; they remain available for citation and reproducibility of analyses performed with those versions.</p>
 
   <table>
     <thead><tr><th>Version</th><th>Status</th><th>GitHub release</th><th>Zenodo record</th></tr></thead>
     <tbody>
-      <tr><td><strong>v0.3.0</strong></td><td><strong>Current complete public release</strong></td><td><a href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.3.0">Download and release notes</a></td><td><a href="https://doi.org/10.5281/zenodo.21777139">doi:10.5281/zenodo.21777139</a></td></tr>
+      <tr><td><strong>v0.4.0</strong></td><td><strong>Current complete public release</strong></td><td><a href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.4.0">Download and release notes</a></td><td><a href="https://doi.org/10.5281/zenodo.23627817">doi:10.5281/zenodo.23627817</a></td></tr>
+      <tr><td>v0.3.1</td><td>Archived (retired engine interfaces)</td><td><a href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.3.1">Release</a></td><td><a href="https://doi.org/10.5281/zenodo.21936580">doi:10.5281/zenodo.21936580</a></td></tr>
+      <tr><td>v0.3.0</td><td>Archived (retired engine interfaces)</td><td><a href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.3.0">Release</a></td><td><a href="https://doi.org/10.5281/zenodo.21777139">doi:10.5281/zenodo.21777139</a></td></tr>
       <tr><td>v0.2.1</td><td>Archived</td><td><a href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.2.1">Release</a></td><td><a href="https://doi.org/10.5281/zenodo.21764196">doi:10.5281/zenodo.21764196</a></td></tr>
       <tr><td>v0.2.0</td><td>Archived</td><td><a href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.2.0">Release</a></td><td><a href="https://doi.org/10.5281/zenodo.21763796">doi:10.5281/zenodo.21763796</a></td></tr>
       <tr><td>v0.1.1</td><td>Archived</td><td><a href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.1.1">Release</a></td><td><a href="https://doi.org/10.5281/zenodo.21763607">doi:10.5281/zenodo.21763607</a></td></tr>

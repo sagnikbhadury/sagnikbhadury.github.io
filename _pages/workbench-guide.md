@@ -92,9 +92,9 @@ Use one row per volumetric cell/location with x/y/z coordinates, zone, volume/sp
 |---|---|---|
 | Spatial maps and Moran's I | x, y, numeric feature | Descriptive under the selected neighbor graph |
 | Conditional networks | three or more numeric features; optional zone | Exploratory ridge network |
-| ISPat 2D | x, y, zone, markers, installed `ISPAT` | Intensive Bayesian/variational engine |
-| GP–GHS | x, y, markers, installed `GPGHS` | MCMC and shrinkage settings require review |
-| ISPat 3D | x, y, z, zone, ID, markers, installed `ISPAT3D` | Registered 3D data and substantial compute |
+| ISPat 2D | x, y, zone, markers, optional section ID, installed `ISPAT3D` (CRAN, >= 0.3.0) | Section-wise planar Vecchia GP adjustment plus covariance likelihood (`ispat3d_fit_2d`); every zone needs more rows than markers |
+| GP–GHS | x, y, markers, installed `GPGHS` (>= 1.0.0) | MCMC and shrinkage settings require review; selection uses the article's 0.5 shrinkage-factor rule |
+| ISPat 3D | x, y, z, zone, optional section ID, markers, installed `ISPAT3D` (CRAN, >= 0.3.0) | Registered 3D data; pooled volumetric Vecchia GP adjustment (`ispat3d_fit`); substantial compute |
 | Spatial ML prediction | outcome plus three or more features | Random split is exploratory |
 | Spatial phenotype clustering | x, y, three or more features | Coordinate influence and cluster count are chosen |
 | Shallow-neural prediction | outcome plus three or more features | Numeric or binary outcome; max 250 predictors |
@@ -130,15 +130,15 @@ Local installation is recommended for real data, sensitive information, long Bay
 - Rtools matching the installed R version on Windows when compilation is required
 - sufficient memory/CPU; real Bayesian and 3D analyses may require a workstation or cluster
 
-### 2. Download the complete v0.3.0 source distribution
+### 2. Download the complete v0.4.0 source distribution
 
 ```text
-https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/download/v0.3.0/SpatialMethodsWorkbench-v0.3.0-source.zip
+https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/download/v0.4.0/SpatialMethodsWorkbench-v0.4.0-source.zip
 ```
 
-Extract the ZIP and open a terminal in the extracted `SpatialMethodsWorkbench-v0.3.0-source` folder. This 6.32 MiB public-source distribution includes the Workbench, its compact simulated data and vignettes, the exact public ISPAT, GP-GHS, and ISPAT-3D package sources, and the curated public reference-workflow sources recorded in `vendor/manifest.json`. Local media-production files are not included. The direct method repositories do not need to be cloned separately.
+Extract the ZIP and open a terminal in the extracted `SpatialMethodsWorkbench-v0.4.0-source` folder. This 6.6 MiB public-source distribution includes the Workbench, its compact simulated data and vignettes, the exact CRAN ISPAT3D 0.3.1 source and the GPGHS 1.0.1 package source, and the curated public reference-workflow sources recorded in `vendor/manifest.json`. Local media-production files are not included. The direct method repositories do not need to be cloned separately.
 
-The same tagged source is preserved by [Zenodo v0.3.0](https://doi.org/10.5281/zenodo.21777139). Git users may instead clone the repository and check out `v0.3.0`.
+The same tagged source is preserved by [Zenodo v0.4.0](https://doi.org/10.5281/zenodo.23627817). Git users may instead clone the repository and check out `v0.4.0`.
 
 ### 3. Run the complete installer
 
@@ -148,7 +148,7 @@ From a terminal in the extracted folder:
 Rscript install-complete.R
 ```
 
-The installer obtains missing CRAN dependencies, then installs the bundled `GPGHS`, `ISPAT3D`, `ISPAT`, and Workbench package sources. No separate download of those three method repositories is required. ISPAT uses Stan, so the first source installation can take time and requires the matching compiler toolchain.
+The installer obtains missing CRAN dependencies (including `gpboost`, the compiled dependency of ISPAT3D, for which CRAN binaries exist on current R releases), then installs the bundled `GPGHS`, `ISPAT3D`, and Workbench package sources. No separate download of the two method repositories is required. `ISPAT3D` serves both the ISPat 2D path (`ispat3d_fit_2d`) and the ISPat 3D path (`ispat3d_fit`); the historical standalone `ISPAT` package with Stan is no longer used.
 
 If PDF vignettes cannot be built on the target machine, install first with:
 
@@ -173,7 +173,7 @@ Rscript verify-installation.R
 Rscript tests/testthat.R
 ```
 
-The verification script confirms the Workbench and all three exact public method engines. The release-content audit can also be run directly:
+The verification script confirms the Workbench and both exact public method engines at compatible versions (ISPAT3D >= 0.3.0, GPGHS >= 1.0.0). The release-content audit can also be run directly:
 
 ```text
 Rscript audit-release.R
@@ -220,7 +220,8 @@ The download includes a results table, figure when applicable, `manifest.json`, 
 
 Current release:
 
-> Bhadury, S. (2026). *SpatialMethodsWorkbench: Spatial Methods Workbench* (v0.3.0) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.21777139](https://doi.org/10.5281/zenodo.21777139)
+> Bhadury, S. (2026). *SpatialMethodsWorkbench: Spatial Methods Workbench* (v0.4.0) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.23627817](https://doi.org/10.5281/zenodo.23627817)
+
 ## Funding acknowledgement
 
 Research reported in this software was supported by the National Cancer Institute of the National Institutes of Health under Award Number **R37CA214955-01A1**. The content is solely the responsibility of the author and does not necessarily represent the official views of the National Institutes of Health.
@@ -229,11 +230,13 @@ The all-versions DOI is [10.5281/zenodo.21763606](https://doi.org/10.5281/zenodo
 
 ### Release history
 
-Use `v0.3.0` for new installations. Historical releases remain available to reproduce work performed with earlier software versions:
+Use `v0.4.0` for new installations. Releases v0.3.1 and earlier targeted engine interfaces that no longer exist upstream (ISPAT 0.1.0, ISPAT3D 0.1.1, GPGHS 0.1.0), so their three advanced network paths cannot run against the currently released packages. Historical releases remain available to reproduce work performed with earlier software versions:
 
 | Version | Status | GitHub | Zenodo |
 |---|---|---|---|
-| **v0.3.0** | **Current recommended release** | [Release](https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.3.0) | [10.5281/zenodo.21777139](https://doi.org/10.5281/zenodo.21777139) |
+| **v0.4.0** | **Current recommended release** | [Release](https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.4.0) | [10.5281/zenodo.23627817](https://doi.org/10.5281/zenodo.23627817) |
+| v0.3.1 | Archived (retired engine interfaces) | [Release](https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.3.1) | [10.5281/zenodo.21936580](https://doi.org/10.5281/zenodo.21936580) |
+| v0.3.0 | Archived (retired engine interfaces) | [Release](https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.3.0) | [10.5281/zenodo.21777139](https://doi.org/10.5281/zenodo.21777139) |
 | v0.2.1 | Archived | [Release](https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.2.1) | [10.5281/zenodo.21764196](https://doi.org/10.5281/zenodo.21764196) |
 | v0.2.0 | Archived | [Release](https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.2.0) | [10.5281/zenodo.21763796](https://doi.org/10.5281/zenodo.21763796) |
 | v0.1.1 | Archived | [Release](https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.1.1) | [10.5281/zenodo.21763607](https://doi.org/10.5281/zenodo.21763607) |

@@ -101,7 +101,7 @@ My methods work is developed hand-in-hand with the complex data types below. Pro
 
 ## Software
 
-* <span style="text-align: justify"><span style="color:blue">[Spatial Methods Workbench]({{ "/spatial-methods-workbench/" | relative_url }})</span> (v0.3.0) — a browser application that runs exploratory through advanced Bayesian spatial analyses on uploaded data. [Application](https://sagnikbhadury.shinyapps.io/spatial-methods-workbench/) | [Zenodo](https://doi.org/10.5281/zenodo.21777139) | [GitHub](https://github.com/sagnikbhadury/SpatialMethodsWorkbench)</span>
+* <span style="text-align: justify"><span style="color:blue">[Spatial Methods Workbench]({{ "/spatial-methods-workbench/" | relative_url }})</span> (v0.4.0) — a browser application that runs exploratory through advanced spatial network analyses on uploaded data, calling the CRAN ISPAT3D and GPGHS engines. [Application](https://sagnikbhadury.shinyapps.io/spatial-methods-workbench/) | [Zenodo](https://doi.org/10.5281/zenodo.23627817) | [GitHub](https://github.com/sagnikbhadury/SpatialMethodsWorkbench)</span>
 * <span style="text-align: justify"><span style="color:blue">[ISPAT3D](https://cran.r-project.org/web/packages/ISPAT3D/)</span> (v0.3.1) — R package on CRAN for spatial conditional association networks in registered tumor volumes. [GitHub](https://github.com/sagnikbhadury/ISPAT-3D)</span>
 
 ---

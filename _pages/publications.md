@@ -46,7 +46,7 @@ See [Research]({{ "/research/" | relative_url }}) for how these fit into the bro
 # Software
 
 * <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span> <span style ="color:blue">[ISPAT3D: Spatial Conditional Association Networks in Registered Tumor Volumes](https://cran.r-project.org/web/packages/ISPAT3D/)</span>, R package on **CRAN** (v0.3.1). [GitHub](https://github.com/sagnikbhadury/ISPAT-3D)</span>
-* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span> <span style ="color:blue">[Spatial Methods Workbench]({{ "/spatial-methods-workbench/" | relative_url }})</span> (v0.3.0). [Zenodo](https://doi.org/10.5281/zenodo.21777139) | [GitHub](https://github.com/sagnikbhadury/SpatialMethodsWorkbench)</span>
+* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span> <span style ="color:blue">[Spatial Methods Workbench]({{ "/spatial-methods-workbench/" | relative_url }})</span> (v0.4.0). [Zenodo](https://doi.org/10.5281/zenodo.23627817) | [GitHub](https://github.com/sagnikbhadury/SpatialMethodsWorkbench)</span>
 
 # Published
 * Pediatrics: <span style="text-align: justify"> Scott, M., Metcalf, C., <span style ="color:red">Bhadury, S.</span>, et al., <span style ="color:blue"> [Impact of COVID-19 Pandemic Healthcare Restrictions on Utilization and Diagnostic Yield of Outpatient Transthoracic Echocardiograms](https://publications.aap.org/pediatrics/article/149/1/338/185976)</span> </span>
