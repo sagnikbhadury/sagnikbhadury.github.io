@@ -59,7 +59,7 @@ My methods work is developed hand-in-hand with the complex data types below. Pro
 {: .align-center}
 -->
 
-* <span style="text-align: justify"><span style="color:red">Bhadury, S.</span>, Tsang, A., Ray, D., Lagisetty, K., Kundu, S., Rao, A. <span style="color:blue">Graph-Based Multi-Modal Learning for Integrating Histopathological and Transcriptomic Features in Lung Adenocarcinoma</span> — graph-based fusion of transcriptomic and histopathological features to identify gene interactions and ligand–receptor interactions.</span>
+* <span style="text-align: justify"><span style="color:red">Bhadury, S.</span>, Tsang, A., Ray, D., Lagisetty, K., Kundu, S., Rao, A. <span style="color:blue">Graph-on-Vector Association Modeling of Histopathological and Transcriptomic Features in Lung Adenocarcinoma</span>, **npj Artificial Intelligence** (accepted) — graph-on-vector regression of pathway, kinase and transcription-factor activities on participant-specific histomorphological phenotype graphs in TCGA-LUAD, with node-level Bayesian variable selection.</span>
 * <span style="text-align: justify"><span style="color:red">Bhadury, S.</span>, Kulkarni, R., Rao, A. <span style="color:blue">Quantifying Biological Signal in Pathology Foundation Models through Bayesian Mutual Information Estimation</span> — compares pathology foundation models by the molecular information their tile embeddings carry, against permutation nulls. (In preparation)</span>
 
 ![Functional depth biomarkers](/images/research/functional-depth-schematic.svg "Model schematic: functional depth bands distinguishing lung cancer subtypes from H&E-derived functional curves")

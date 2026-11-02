@@ -35,7 +35,7 @@ See [Research]({{ "/research/" | relative_url }}) for how these fit into the bro
 
 * <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Mitra, R., Gaskins, J. <span style ="color:blue">[Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation](https://arxiv.org/abs/2308.02713)</span></span>
 * <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Gaskins, J., Rao, A. <span style ="color:blue">[Spatially Varying Graphical Models for Cell-Cell Interaction Networks in Multiplexed Tissue Imaging](https://doi.org/10.64898/2026.04.01.715977)</span></span>
-* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Tsang, A., Ray, D., Lagisetty, K., Kundu, S., Rao, A. <span style ="color:blue">Graph-Based Multi-Modal Learning for Integrating Histopathological and Transcriptomic Features in Lung Adenocarcinoma</span></span>
+* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Tsang, A., Ray, D., Lagisetty, K., Kundu, S., Rao, A. <span style ="color:blue">Graph-on-Vector Association Modeling of Histopathological and Transcriptomic Features in Lung Adenocarcinoma</span>, **npj Artificial Intelligence** (accepted)</span>
 
   <figure class="align-center" style="max-width: 760px; margin: 0.75rem auto 1.25rem;">
     <img src="{{ '/images/research/gov-pipeline.gif' | relative_url }}" alt="Animated walkthrough of the graph-on-vector pipeline in TCGA lung adenocarcinoma: survival-rank cohort split, H&amp;E morphology, graph construction, molecular activity scores, graph-on-vector regression, and pathway, kinase and transcription-factor results" loading="lazy">
