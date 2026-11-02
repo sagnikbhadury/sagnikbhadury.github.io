@@ -51,20 +51,22 @@ redirect_from:
 
 <section class="workbench-spotlight" aria-labelledby="workbench-spotlight-title">
   <div class="workbench-spotlight__lead">
-    <p class="section-kicker">Flagship research software</p>
-    <h2 id="workbench-spotlight-title">From uploaded spatial data to a reproducible, citation-ready analysis.</h2>
-    <p>The <strong>Spatial Methods Workbench</strong> collects the methods from this research program in one guided analysis platform. Twelve executable paths cover 2D and 3D networks, spatial machine learning, high-dimensional image regression, prediction, mediation, and tumor shape. Each path checks the uploaded data for compatibility and exports a complete provenance bundle.</p>
+    <p class="section-kicker">Flagship research software · Open source · DOI archived</p>
+    <h2 id="workbench-spotlight-title">The Spatial Methods Workbench turns an uploaded dataset into a reproducible, citation-ready analysis.</h2>
+    <p>The Workbench collects the methods from this research program in one guided analysis platform. Twelve executable paths cover 2D and 3D cell-interaction networks, spatial machine learning, high-dimensional image regression, prediction, mediation, and tumor shape. The current release, v0.4.0, runs the ISPat 2D, ISPat 3D, and GP–GHS paths through the CRAN package ISPAT3D 0.3.1 and GPGHS 1.0.1, and it is archived on Zenodo with a citable DOI. Each path checks the uploaded data for compatibility before it runs and exports a complete provenance bundle (results, settings, software objects, figure, and citations). A twenty-minute narrated tutorial walks through the full workflow.</p>
     <div class="home-actions">
       <a class="button button--light" href="https://sagnikbhadury.shinyapps.io/spatial-methods-workbench/">Launch application <span aria-hidden="true">↗</span></a>
       <a class="button button--outline-light" href="{{ '/spatial-methods-workbench/' | relative_url }}">Explore all pipelines <span aria-hidden="true">→</span></a>
+      <a class="button button--outline-light" href="https://www.youtube.com/watch?v=Ft9groM2ilI">Watch the tutorial <span aria-hidden="true">▶</span></a>
+      <a class="button button--outline-light" href="https://doi.org/10.5281/zenodo.23627817">Cite the software</a>
       <a class="button button--outline-light" href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench">Source ↗</a>
     </div>
   </div>
   <div class="workbench-spotlight__map" aria-label="Workbench pipeline overview">
-    <div><span>01</span><strong>Upload &amp; map</strong><small>Coordinates · regions · outcomes · features</small></div>
-    <div><span>02</span><strong>Compatibility gate</strong><small>Only valid pipelines become available</small></div>
-    <div><span>03</span><strong>Run analysis</strong><small>Exploratory through advanced Bayesian engines</small></div>
-    <div><span>04</span><strong>Export provenance</strong><small>Results · settings · objects · citations</small></div>
+    <div><span>01</span><strong>Upload and map</strong><small>Coordinates, regions, identifiers, outcomes, and features</small></div>
+    <div><span>02</span><strong>Compatibility check</strong><small>Only the pipelines that fit the data become available</small></div>
+    <div><span>03</span><strong>Run the analysis</strong><small>From exploratory summaries to the Bayesian ISPAT3D and GPGHS engines</small></div>
+    <div><span>04</span><strong>Export provenance</strong><small>Results, settings, software objects, figures, and citations</small></div>
   </div>
 </section>
 
