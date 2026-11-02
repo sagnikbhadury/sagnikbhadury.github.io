@@ -15,8 +15,18 @@ Selected peer-reviewed publications, preprints, and collaborative research contr
 # Selected Publications
 
 * <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> [ISPat: Informed Spatially Aware Patterns for Multiplexed Immunofluorescence data](https://www.nature.com/articles/s41598-026-35341-8)</span>, **Nature Scientific Reports** &mdash; Bayesian spatial graphical model recovering shared and region-specific cell-cell interaction networks from mIF imaging.</span>
+
+  <figure class="align-center" style="max-width: 760px; margin: 0.75rem auto 1.25rem;">
+    <img src="{{ '/images/research/ispat-pipeline.gif' | relative_url }}" alt="Animated walkthrough of the ISPat pipeline: stained mIF image, cell point patterns, domain-informed network, tumor sub-regions, spatial intensities, shared and region-specific interaction networks, simulation results and the PDAC versus IPMN comparison" loading="lazy">
+    <figcaption>ISPat pipeline and analyses: from the stained multiplexed image to shared and tumor-region-specific interaction networks, simulation checks, and the PDAC versus IPMN comparison across tumor-density areas.</figcaption>
+  </figure>
 * <span style="text-align: justify">Tsang, A., Krishnan, S., Kulkarni, R., <span style ="color:red">Bhadury, S.</span>, Rao, A., et al. <span style ="color:blue"> [Encoding functional edges in graphs to model spatially varying relationships in the tumor microenvironment](https://doi.org/10.1038/s44387-026-00075-5)</span>, **npj Artificial Intelligence**.</span>
 * <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Rao, A. <span style ="color:blue"> [Estimating conditional cell population associations across tumor density trajectory in three dimensional tissue images (ISPat 3D)](https://www.nature.com/articles/s41598-026-73151-0)</span>, **Nature Scientific Reports** &mdash; extends ISPat to three-dimensional tissue images, estimating how conditional cell population associations change along tumor density trajectories. The R package [ISPAT3D](https://cran.r-project.org/web/packages/ISPAT3D/) is available on CRAN.</span>
+
+  <figure class="align-center" style="max-width: 760px; margin: 0.75rem auto 1.25rem;">
+    <img src="{{ '/images/research/ispat3d-pipeline.gif' | relative_url }}" alt="Animated walkthrough of the ISPat 3D pipeline on a registered colorectal cancer CyCIF volume: why 3D, the volumetric neighborhoods, tumor-density trajectory, and the conditional association networks along it" loading="lazy">
+    <figcaption>ISPat 3D on a registered colorectal cancer CyCIF volume: single-plane versus volumetric neighborhoods, the tumor-density trajectory, and how conditional cell population associations change along it.</figcaption>
+  </figure>
 * <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Mitra, R., Gaskins, J. <span style ="color:blue"> [Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation](https://arxiv.org/abs/2308.02713)</span> &mdash; foundational methods work underlying the spatial and multi-modal graphical models above.</span>
 
 See [Research]({{ "/research/" | relative_url }}) for how these fit into the broader research program, organized by theme.
@@ -26,6 +36,11 @@ See [Research]({{ "/research/" | relative_url }}) for how these fit into the bro
 * <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Mitra, R., Gaskins, J. <span style ="color:blue">[Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation](https://arxiv.org/abs/2308.02713)</span></span>
 * <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Gaskins, J., Rao, A. <span style ="color:blue">[Spatially Varying Graphical Models for Cell-Cell Interaction Networks in Multiplexed Tissue Imaging](https://doi.org/10.64898/2026.04.01.715977)</span></span>
 * <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Tsang, A., Ray, D., Lagisetty, K., Kundu, S., Rao, A. <span style ="color:blue">Graph-Based Multi-Modal Learning for Integrating Histopathological and Transcriptomic Features in Lung Adenocarcinoma</span></span>
+
+  <figure class="align-center" style="max-width: 760px; margin: 0.75rem auto 1.25rem;">
+    <img src="{{ '/images/research/gov-pipeline.gif' | relative_url }}" alt="Animated walkthrough of the graph-on-vector pipeline in TCGA lung adenocarcinoma: survival-rank cohort split, H&amp;E morphology, graph construction, molecular activity scores, graph-on-vector regression, and pathway, kinase and transcription-factor results" loading="lazy">
+    <figcaption>Graph-on-vector association modeling in TCGA-LUAD: survival-rank cohort split, H&amp;E-derived morphology graphs, molecular activity scores, the graph-on-vector regression, and pathway, kinase and transcription-factor results.</figcaption>
+  </figure>
 * <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Tsang, A.P., Ray, D., Lagisetty, K., Rao, A. <span style ="color:blue">[Functional Depth Biomarkers Distinguish Lung Squamous Cell Carcinoma from Lung Adenocarcinoma](https://doi.org/10.21203/rs.3.rs-9347794/v1)</span></span>
 * <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Frankel, T.L., Rao, A. <span style ="color:blue">[Cellular Proximity and Conditional Coordination in the Colorectal and Pancreatic Tumor Microenvironment: A Patient-Level Analysis of Multiplexed Imaging](https://doi.org/10.64898/2026.10.08.757632)</span></span>
 * <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span> <span style ="color:blue">Design-Adaptive Borrowing Across Misaligned Outcomes in Bayesian Coregionalization Models</span></span>
