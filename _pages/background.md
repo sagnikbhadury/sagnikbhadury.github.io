@@ -10,9 +10,9 @@ redirect_from:
 ---
 
 
-* My complete CV might be found [_**here**_](https://drive.google.com/file/d/1dZ3fBLMJHkmGS3XasiXgmnXM-zorv-Gi/view?usp=drive_link), if not, the following can help.
+* My complete CV is available [_**here**_](https://drive.google.com/file/d/1dZ3fBLMJHkmGS3XasiXgmnXM-zorv-Gi/view?usp=drive_link). A summary follows.
 
-# Professional Pursuits
+# Professional Positions
 
 * Research Associate, <span style ="color:blue">[Department of Biostatistics, Epidemiology and Informatics, University of Pennsylvania; Philadelphia, PA, USA](https://dbei.med.upenn.edu/)</span>, 2026 - Present.
 
@@ -20,12 +20,12 @@ redirect_from:
 
 * Adjunct Professor (Contractual) of Statistics, <span style ="color:blue">[Amity University Kolkata; WB, India](https://www.amity.edu/kolkata/)</span> (UG & PG Statistics), 2016 - 2018.
 
-* Statistical Trainee, <span style ="color:blue">[Indian Statistical Insititute; Kolkata, WB, India](https://www.isical.ac.in/)</span>, 2015 - 2016.
+* Statistical Trainee, <span style ="color:blue">[Indian Statistical Institute; Kolkata, WB, India](https://www.isical.ac.in/)</span>, 2015 - 2016.
 
 
 
 
-# Academic Adventures
+# Education
 <!---* I attended <span style ="color:blue">[The Hindu School](https://en.wikipedia.org/wiki/Hindu_School,_Kolkata)</span> in the very heart of <span style ="color:blue">[The College Street](https://en.wikipedia.org/wiki/College_Street_(Kolkata))</span> for 12 years of my school life (1998-2010). --->
 * _Ph.D._ _Biostatistics_, <span style ="color:blue">[University of Louisville; Louisville, KY, USA](https://louisville.edu/)</span> 2018-2022.
 
@@ -43,13 +43,6 @@ redirect_from:
 * Softwares: MATLAB, SAS, MINITAB, SPSS
 --->
 
-# My Sanctuary
+# Outside Work
 
-I am passionate about the harmonious world of melodies, my musical tastes are eclectic, yet I possess a particular fondness for Classical Music, spanning from the rich traditions of Hindusthani to the timeless compositions of European origin. Literature has been a constant companion in my journey. Photography is another avenue of artistic expression I explore intermittently; I turn to my <span style ="color:red">[Sony 7 Alpha II](https://en.wikipedia.org/wiki/Sony_%CE%B17)</span>, coupled with a <span style ="color:red">[Nikon 70-300mm VR lens](https://downloadcenter.nikonimglib.com/en/products/287/AF-S_VR_Zoom-Nikkor_70-300mm_f_45-56G_IF-ED.html)</span> through a Viltrox adapter (Tamron lenses do really well) for serious photographic pursuits. 
-
-
-
-
-
-
-
+I listen to music widely, with a particular fondness for classical music, from the Hindustani tradition to the European repertoire. Literature has been a constant companion. I also photograph intermittently, with a <span style ="color:red">[Sony Alpha 7 II](https://en.wikipedia.org/wiki/Sony_%CE%B17)</span> and a <span style ="color:red">[Nikon 70-300mm VR lens](https://downloadcenter.nikonimglib.com/en/products/287/AF-S_VR_Zoom-Nikkor_70-300mm_f_45-56G_IF-ED.html)</span> through a Viltrox adapter (Tamron lenses also do well).

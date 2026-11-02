@@ -26,13 +26,13 @@ The accompanying [usage, restrictions, and local installation manual](https://gi
 
 Five compact, fixed-seed vignettes reproduce the public workflows with simulated data and include the executed code, numerical output, plots, and audit artifacts:
 
-- [Application walkthrough]({{ '/files/spatial-methods-workbench/vignettes/SpatialMethodsWorkbench-App-Walkthrough.pdf' | relative_url }}) — create upload-ready data, validate it, run an app-equivalent analysis, and export a bundle.
-- [Spatial diagnostics and networks]({{ '/files/spatial-methods-workbench/vignettes/SpatialMethodsWorkbench-Spatial-Networks.pdf' | relative_url }}) — spatial autocorrelation, conditional networks, ISPat, and GP–GHS readiness.
-- [Prediction, clustering, and mediation]({{ '/files/spatial-methods-workbench/vignettes/SpatialMethodsWorkbench-Prediction-Clustering-Mediation.pdf' | relative_url }}) — spatial ML, phenotype clustering, shallow-neural prediction, and mediation.
-- [Imaging, shape, and 3D]({{ '/files/spatial-methods-workbench/vignettes/SpatialMethodsWorkbench-Imaging-Shape-3D.pdf' | relative_url }}) — image-regression screens, contour PCA, and ISPat 3D readiness.
-- [Reproducibility bundles]({{ '/files/spatial-methods-workbench/vignettes/SpatialMethodsWorkbench-Reproducibility-Bundles.pdf' | relative_url }}) — manifest inspection, archive auditing, reopening results, and citation verification.
+- [Application walkthrough]({{ '/files/spatial-methods-workbench/vignettes/SpatialMethodsWorkbench-App-Walkthrough.pdf' | relative_url }}): create upload-ready data, validate it, run an app-equivalent analysis, and export a bundle.
+- [Spatial diagnostics and networks]({{ '/files/spatial-methods-workbench/vignettes/SpatialMethodsWorkbench-Spatial-Networks.pdf' | relative_url }}): spatial autocorrelation, conditional networks, ISPat, and GP–GHS readiness.
+- [Prediction, clustering, and mediation]({{ '/files/spatial-methods-workbench/vignettes/SpatialMethodsWorkbench-Prediction-Clustering-Mediation.pdf' | relative_url }}): spatial ML, phenotype clustering, shallow-neural prediction, and mediation.
+- [Imaging, shape, and 3D]({{ '/files/spatial-methods-workbench/vignettes/SpatialMethodsWorkbench-Imaging-Shape-3D.pdf' | relative_url }}): image-regression screens, contour PCA, and ISPat 3D readiness.
+- [Reproducibility bundles]({{ '/files/spatial-methods-workbench/vignettes/SpatialMethodsWorkbench-Reproducibility-Bundles.pdf' | relative_url }}): manifest inspection, archive auditing, reopening results, and citation verification.
 
-The complete illustrated library and matching public source links are on the [Workbench showcase]({{ '/spatial-methods-workbench/#reproducible-vignettes' | relative_url }}). The examples are intentionally small so they run quickly on a laptop; they are demonstrations, not recommendations for real-study tuning or scientific interpretation.
+The complete illustrated library and matching public source links are on the [Workbench showcase]({{ '/spatial-methods-workbench/#reproducible-vignettes' | relative_url }}). The examples are small so that they run quickly on a laptop. They demonstrate the workflows and do not recommend tuning or interpretation for a real study.
 
 ## Restrictions before use
 
@@ -62,7 +62,7 @@ The complete illustrated library and matching public source links are on the [Wo
 9. Download the reproducibility bundle and preserve it with the frozen analysis dataset and protocol.
 10. Contact Sagnik Bhadury for interpretation, deployment planning, or collaboration.
 
-The free public host may sleep when inactive and has active-hour, memory, runtime, and concurrency limits. A cold start can take several seconds. A browser session is not a durable job queue; do not rely on it for a long production analysis.
+The free public host may sleep when inactive and has active-hour, memory, runtime, and concurrency limits. A cold start can take several seconds. A browser session is not a durable job queue, so do not rely on it for a long production analysis.
 
 ## Input formats
 
@@ -76,11 +76,11 @@ Use one row per ordered boundary point with contour ID and numeric x/y coordinat
 
 ### Scalar-on-image wide data
 
-Use one row per subject, map a numeric scalar outcome, and select aligned pixel, voxel, or image-derived numeric columns. The interactive ridge screen accepts up to 5,000 selected image features. It is explicitly not the full Bayesian SV-NN or ST-CAR posterior algorithm.
+Use one row per subject, map a numeric scalar outcome, and select aligned pixel, voxel, or image-derived numeric columns. The interactive ridge screen accepts up to 5,000 selected image features. It is not the full Bayesian SV-NN or ST-CAR posterior algorithm.
 
 ### Image-to-image wide data
 
-Use one row per subject. Name aligned predictor-image columns `input__*` and outcome-image columns `output__*`, then select both groups. At least three columns per group and 30 complete subjects are required. The interactive path is a low-rank screen related to—not mislabeled as—the full Bayesian SBLF engine.
+Use one row per subject. Name aligned predictor-image columns `input__*` and outcome-image columns `output__*`, then select both groups. At least three columns per group and 30 complete subjects are required. The interactive path is a low-rank screen related to the full Bayesian SBLF engine, and it is labeled as a screen.
 
 ### Three-dimensional ISPat data
 
@@ -162,7 +162,7 @@ To additionally compile compatible bundled related-method packages, use:
 Rscript install-complete.R --include-related --skip-vignettes
 ```
 
-The optional related-source collection is provenance- and extension-oriented: it does not imply that every upstream curriculum or platform-specific research package is an exact engine behind an interactive button. On Windows the installer skips the upstream Linux-only SBLF build while retaining its licensed source in the archive.
+The optional related-source collection is included for provenance and for extension. It does not imply that every upstream curriculum or platform-specific research package is an exact engine behind an interactive button. On Windows the installer skips the upstream Linux-only SBLF build while retaining its licensed source in the archive.
 
 ### 4. Verify the installation
 
@@ -214,7 +214,7 @@ Pin the image and dependency revisions for production. Do not mount sensitive di
 
 ## Reproducibility bundle
 
-The download includes a results table, figure when applicable, `manifest.json`, R result object, `CITATION.txt`, and `COLLABORATION.txt`. It contains no automated interpretation or interpretation prompt. The original input should be preserved separately under the study's governance plan; it is not duplicated into the bundle.
+The download includes a results table, figure when applicable, `manifest.json`, R result object, `CITATION.txt`, and `COLLABORATION.txt`. It contains no automated interpretation. The original input is not duplicated into the bundle and should be preserved separately under the study's governance plan.
 
 ## Citation
 
@@ -240,7 +240,7 @@ Use `v0.4.0` for new installations. Releases v0.3.1 and earlier targeted engine 
 | v0.2.1 | Archived | [Release](https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.2.1) | [10.5281/zenodo.21764196](https://doi.org/10.5281/zenodo.21764196) |
 | v0.2.0 | Archived | [Release](https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.2.0) | [10.5281/zenodo.21763796](https://doi.org/10.5281/zenodo.21763796) |
 | v0.1.1 | Archived | [Release](https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.1.1) | [10.5281/zenodo.21763607](https://doi.org/10.5281/zenodo.21763607) |
-| v0.1.0 | Initial GitHub release | [Release](https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.1.0) | — |
+| v0.1.0 | Initial GitHub release | [Release](https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.1.0) | none |
 
 ## Support and collaboration
 

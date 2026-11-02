@@ -8,7 +8,7 @@ redirect_from:
 - /Awards.html
 ---
 
-# Acknowledging Appreciation
+# Awards and Honors
 
 ---
 

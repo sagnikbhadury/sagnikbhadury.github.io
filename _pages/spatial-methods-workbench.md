@@ -2,7 +2,7 @@
 layout: single
 permalink: /spatial-methods-workbench/
 title: "Spatial Methods Workbench"
-seo_title: "Spatial Methods Workbench — Guided Spatial & Biomedical Data Analysis"
+seo_title: "Spatial Methods Workbench: Guided Spatial and Biomedical Data Analysis"
 author_profile: false
 description: "A guided research platform for reproducible spatial, network, predictive, causal, and 3D biomedical data analysis developed by Sagnik Bhadury."
 ---
@@ -13,7 +13,7 @@ description: "A guided research platform for reproducible spatial, network, pred
   <div>
     <p class="section-kicker">Flagship research software · Open source · DOI archived</p>
     <h2>A statistical methods platform for structure in biomedical data.</h2>
-    <p class="workbench-hero__lead">The Spatial Methods Workbench transforms specialized methodology into a guided, reproducible analysis environment. Researchers upload a structured dataset, map its scientific variables, choose among compatible pipelines, run the analysis, and receive citation-ready outputs without needing to reconstruct the underlying workflow from separate scripts.</p>
+    <p class="workbench-hero__lead">The Spatial Methods Workbench is a guided, reproducible analysis environment for the methods in this research program. Researchers upload a structured dataset, map its scientific variables, choose among compatible pipelines, run the analysis, and receive citation-ready outputs. No separate scripts need to be assembled.</p>
     <div class="workbench-actions">
       <a class="button button--primary" href="https://sagnikbhadury.shinyapps.io/spatial-methods-workbench/">Launch application <span aria-hidden="true">↗</span></a>
       <a class="button button--quiet" href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench">Application source</a>
@@ -89,7 +89,7 @@ description: "A guided research platform for reproducible spatial, network, pred
 <section class="workbench-statement">
   <p class="section-kicker">Purpose</p>
   <h2>One disciplined entry point to a broad methods program.</h2>
-  <p>Spatial and imaging studies rarely fail because investigators lack another plotting function. The harder problem is choosing an analysis whose assumptions match the available coordinates, regions, identifiers, outcomes, and features—and preserving enough information for the result to be reproduced. The Workbench addresses that gap directly. It evaluates the uploaded data, exposes only compatible analysis paths, and packages the numerical output with the settings, runtime metadata, software object, figure, and required citations.</p>
+  <p>In spatial and imaging studies the hard step is choosing an analysis whose assumptions match the available coordinates, regions, identifiers, outcomes, and features, and then preserving enough information for the result to be reproduced. The Workbench addresses both steps. It evaluates the uploaded data, exposes only compatible analysis paths, and packages the numerical output with the settings, runtime metadata, software object, figure, and required citations.</p>
 </section>
 
 <div class="domain-callout">
@@ -105,7 +105,7 @@ description: "A guided research platform for reproducible spatial, network, pred
       <p class="section-kicker">Executable documentation · Five PDF guides</p>
       <h2 id="vignettes-title">Reproduce the workflows with small simulated data.</h2>
     </div>
-    <p>Each vignette was rendered from executable R code with fixed seeds and compact synthetic datasets. Download a PDF for a self-contained worked example, or inspect the matching source file in the public repository.</p>
+    <p>Each vignette was rendered from executable R code with fixed seeds and compact synthetic datasets. Each PDF is a self-contained worked example, and the matching source file is in the public repository.</p>
   </div>
 
   <div class="vignette-grid">
@@ -206,8 +206,8 @@ description: "A guided research platform for reproducible spatial, network, pred
   <div class="pipeline-tier">
     <div class="pipeline-tier__heading"><span>High-dimensional imaging</span><p>Analyze aligned contours, pixel/voxel predictors, and paired predictor–outcome images.</p></div>
     <div class="pipeline-cards pipeline-cards--three">
-      <article><b>09</b><h3>Wide-image scalar regression</h3><p>Screen aligned pixel, voxel, or image-derived features against a numeric subject-level outcome.</p><small>Fast ridge screen—not the full SV-NN/ST-CAR posterior · Output: predictions, error, coefficients</small></article>
-      <article><b>10</b><h3>Latent image-to-image regression</h3><p>Connect aligned predictor and outcome images through low-dimensional factors and held-out reconstruction.</p><small>Fast latent screen—not the full SBLF posterior · Input: input__* + output__* columns</small></article>
+      <article><b>09</b><h3>Wide-image scalar regression</h3><p>Screen aligned pixel, voxel, or image-derived features against a numeric subject-level outcome.</p><small>Fast ridge screen (not the full SV-NN/ST-CAR posterior) · Output: predictions, error, coefficients</small></article>
+      <article><b>10</b><h3>Latent image-to-image regression</h3><p>Connect aligned predictor and outcome images through low-dimensional factors and held-out reconstruction.</p><small>Fast latent screen (not the full SBLF posterior) · Input: input__* + output__* columns</small></article>
       <article><b>12</b><h3>Tumor contour &amp; shape PCA</h3><p>Resample and align ordered boundaries, then summarize tumor morphology with principal components.</p><small>Input: contour ID + ordered x/y landmarks · Output: aligned shapes, scores, variance</small></article>
     </div>
   </div>
@@ -223,7 +223,7 @@ description: "A guided research platform for reproducible spatial, network, pred
 <section class="workbench-principles public-ecosystem">
   <div>
     <p class="section-kicker">Public workflow ecosystem</p>
-    <h2>Broader than a single package—and explicit about attribution.</h2>
+    <h2>Broader than a single package, and explicit about attribution.</h2>
   </div>
   <div class="principle-grid">
     <article><h3>AI &amp; ML curricula</h3><p>The <a href="https://github.com/microsoft/AI-For-Beginners">AI for Beginners</a> and <a href="https://github.com/microsoft/ML-For-Beginners">ML for Beginners</a> repositories inform executable spatial clustering and predictive workflows.</p></article>
@@ -238,7 +238,7 @@ description: "A guided research platform for reproducible spatial, network, pred
 <section class="workbench-principles">
   <div>
     <p class="section-kicker">Built for credible research use</p>
-    <h2>Compatibility before computation. Provenance after it.</h2>
+    <h2>Compatibility checks before computation, provenance after it.</h2>
   </div>
   <div class="principle-grid">
     <article><h3>Explicit compatibility gates</h3><p>The interface tells researchers what is ready, what is missing, and whether an advanced engine exists on the deployment.</p></article>
@@ -253,10 +253,10 @@ description: "A guided research platform for reproducible spatial, network, pred
 <section class="interpretation-boundary">
   <div>
     <p class="section-kicker">Scientific interpretation</p>
-    <h2>The platform computes results. Scientific conclusions require collaboration.</h2>
+    <h2>The platform computes results. Scientific conclusions remain with the investigators.</h2>
   </div>
   <div>
-    <p>The Workbench deliberately does not narrate results, assign biological mechanisms, or generate automated explanations. Interpretation depends on study design, tissue context, preprocessing, measurement technology, and the scientific question.</p>
+    <p>The Workbench does not narrate results, assign biological mechanisms, or generate automated explanations. Interpretation depends on the study design, the tissue context, the preprocessing, the measurement technology, and the scientific question.</p>
     <p>For study-specific interpretation, methodological consultation, or a research collaboration, contact Sagnik Bhadury directly.</p>
     <a class="button button--light" href="mailto:bhadury@upenn.edu?subject=Spatial%20Methods%20Workbench%20collaboration">Discuss a collaboration <span aria-hidden="true">→</span></a>
   </div>
@@ -264,7 +264,7 @@ description: "A guided research platform for reproducible spatial, network, pred
 
 <section class="workbench-citation">
   <p class="section-kicker">Software record</p>
-  <h2>A citable platform, not an ephemeral web demo.</h2>
+  <h2>A citable software record.</h2>
   <div>
     <p><strong>Version v0.4.0:</strong> Bhadury, S. (2026). <em>SpatialMethodsWorkbench: Spatial Methods Workbench</em> (v0.4.0) [Computer software]. Zenodo.</p>
     <p><a href="https://doi.org/10.5281/zenodo.23627817">doi:10.5281/zenodo.23627817</a></p>
@@ -275,7 +275,7 @@ description: "A guided research platform for reproducible spatial, network, pred
 <section class="workbench-release-history" aria-labelledby="release-history-title">
   <p class="section-kicker">Version history</p>
   <h2 id="release-history-title">A permanent record of the Workbench's development.</h2>
-  <p><strong>v0.4.0 is the current recommended release.</strong> It runs the ISPat 2D and ISPat 3D paths through the CRAN package ISPAT3D 0.3.1 and the GP–GHS path through GPGHS 1.0.1, with the engines' own selection rules, signed zone networks, new controls, engine provenance in every result bundle, and 118 passing tests. Releases v0.3.1 and earlier targeted engine interfaces that no longer exist upstream, so their three advanced paths cannot run against the currently released packages; they remain available for citation and reproducibility of analyses performed with those versions.</p>
+  <p><strong>v0.4.0 is the current recommended release.</strong> It runs the ISPat 2D and ISPat 3D paths through the CRAN package ISPAT3D 0.3.1 and the GP–GHS path through GPGHS 1.0.1, with the engines' own selection rules, signed zone networks, new controls, engine provenance in every result bundle, and 118 passing tests. Releases v0.3.1 and earlier targeted engine interfaces that no longer exist upstream, so their three advanced paths cannot run against the currently released packages. They remain available for citation and for reproducing analyses performed with those versions.</p>
 
   <table>
     <thead><tr><th>Version</th><th>Status</th><th>GitHub release</th><th>Zenodo record</th></tr></thead>
@@ -286,11 +286,11 @@ description: "A guided research platform for reproducible spatial, network, pred
       <tr><td>v0.2.1</td><td>Archived</td><td><a href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.2.1">Release</a></td><td><a href="https://doi.org/10.5281/zenodo.21764196">doi:10.5281/zenodo.21764196</a></td></tr>
       <tr><td>v0.2.0</td><td>Archived</td><td><a href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.2.0">Release</a></td><td><a href="https://doi.org/10.5281/zenodo.21763796">doi:10.5281/zenodo.21763796</a></td></tr>
       <tr><td>v0.1.1</td><td>Archived</td><td><a href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.1.1">Release</a></td><td><a href="https://doi.org/10.5281/zenodo.21763607">doi:10.5281/zenodo.21763607</a></td></tr>
-      <tr><td>v0.1.0</td><td>Initial GitHub release</td><td><a href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.1.0">Release</a></td><td>—</td></tr>
+      <tr><td>v0.1.0</td><td>Initial GitHub release</td><td><a href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench/releases/tag/v0.1.0">Release</a></td><td>none</td></tr>
     </tbody>
   </table>
 
-  <p>The permanent all-versions DOI is <a href="https://doi.org/10.5281/zenodo.21763606">doi:10.5281/zenodo.21763606</a>; it resolves to the newest live Zenodo version. For exact reproducibility, cite the version-specific DOI used in an analysis.</p>
+  <p>The permanent all-versions DOI is <a href="https://doi.org/10.5281/zenodo.21763606">doi:10.5281/zenodo.21763606</a>, and it resolves to the newest live Zenodo version. For exact reproducibility, cite the version-specific DOI used in an analysis.</p>
 </section>
 
 <section class="workbench-statement" aria-labelledby="funding-acknowledgement-title">

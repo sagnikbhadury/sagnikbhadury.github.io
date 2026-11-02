@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Sagnik Bhadury"
-seo_title: "Sagnik Bhadury — Bayesian Biostatistics & Clinical Trial Methods"
+seo_title: "Sagnik Bhadury: Bayesian Biostatistics and Clinical Trial Methods"
 permalink: /
 author_profile: false
 description: "Research Associate at Penn Medicine developing Bayesian methods for clinical trials, biomedical phenotyping, graphical models, and spatial data."
@@ -40,11 +40,11 @@ redirect_from:
 <section class="home-intro" aria-labelledby="intro-title">
   <div>
     <p class="section-kicker">What I do</p>
-    <h2 id="intro-title">Methodology grounded in consequential biomedical questions.</h2>
+    <h2 id="intro-title">Statistical methods for questions that arise in clinical and biomedical studies.</h2>
   </div>
   <div class="home-intro__body">
     <p>I am a Research Associate in the <a href="https://dbei.med.upenn.edu/">Department of Biostatistics, Epidemiology and Informatics</a> at Penn Medicine and the University of Pennsylvania. I work with <a href="https://dbei.med.upenn.edu/staff/michael-harhay-phd-mph/">Michael Harhay, PhD</a>, and colleagues in the <a href="https://dbei.med.upenn.edu/center-of-excellence/center-for-clinical-trials-innovation-ccti/">Center for Clinical Trials Innovation</a> and the <a href="https://pair.upenn.edu/">Palliative and Advanced Illness Research (PAIR) Center</a>.</p>
-    <p>My current work spans ARDS, pneumonia, and sepsis phenotyping; molecular cohort studies; and Bayesian early-phase trial design. I bring to these problems a foundation in Bayesian variable selection, graphical models, and spatial methods for high-dimensional biomedical data.</p>
+    <p>My current work covers ARDS, pneumonia, and sepsis phenotyping, molecular cohort studies, and Bayesian early-phase trial design. These problems draw on my earlier work in Bayesian variable selection, graphical models, and spatial methods for high-dimensional biomedical data.</p>
     <p>Previously, I was a Postdoctoral Research Fellow at the University of Michigan, where I worked with <a href="https://sibl.lab.medicine.umich.edu/">Arvind Rao, PhD</a>. I earned my PhD in Biostatistics from the University of Louisville in 2022 under Jeremy Gaskins, PhD, and the late Riten Mitra, PhD.</p>
   </div>
 </section>
@@ -53,7 +53,7 @@ redirect_from:
   <div class="workbench-spotlight__lead">
     <p class="section-kicker">Flagship research software</p>
     <h2 id="workbench-spotlight-title">From uploaded spatial data to a reproducible, citation-ready analysis.</h2>
-    <p>The <strong>Spatial Methods Workbench</strong> turns a growing statistical methods program into a guided analysis platform. Twelve executable paths span 2D and 3D networks, spatial AI and machine learning, high-dimensional image regression, prediction, causal analysis, and tumor shape—each with compatibility checks and a complete provenance bundle.</p>
+    <p>The <strong>Spatial Methods Workbench</strong> collects the methods from this research program in one guided analysis platform. Twelve executable paths cover 2D and 3D networks, spatial machine learning, high-dimensional image regression, prediction, mediation, and tumor shape. Each path checks the uploaded data for compatibility and exports a complete provenance bundle.</p>
     <div class="home-actions">
       <a class="button button--light" href="https://sagnikbhadury.shinyapps.io/spatial-methods-workbench/">Launch application <span aria-hidden="true">↗</span></a>
       <a class="button button--outline-light" href="{{ '/spatial-methods-workbench/' | relative_url }}">Explore all pipelines <span aria-hidden="true">→</span></a>
@@ -80,7 +80,7 @@ redirect_from:
   <div class="section-heading">
     <div>
       <p class="section-kicker">Research themes</p>
-      <h2 id="themes-title">Eight connected lines of inquiry</h2>
+      <h2 id="themes-title">Eight connected research directions</h2>
     </div>
     <a class="text-link" href="{{ '/research/' | relative_url }}">See the full research program <span aria-hidden="true">→</span></a>
   </div>
@@ -113,7 +113,7 @@ redirect_from:
     <a class="theme-card" href="{{ '/research/#5-multi-modal-integration--imaging-genomics' | relative_url }}">
       <span class="theme-card__number">05</span>
       <h3>Multi-modal integration</h3>
-      <p>Fusing histopathology, transcriptomics, and radiomics into coherent models.</p>
+      <p>Histopathology, transcriptomics, and radiomics combined in one model.</p>
       <span class="theme-card__arrow" aria-hidden="true">↗</span>
     </a>
     <a class="theme-card" href="{{ '/research/#6-causal-inference--functional-data-analysis' | relative_url }}">
@@ -173,7 +173,7 @@ redirect_from:
       <article>
         <p class="card-label">Open-source methods</p>
         <h3>Seven research repositories</h3>
-        <p>Reproducible implementations spanning spatial graphs, causal inference, functional depth, and imaging genomics.</p>
+        <p>Reproducible implementations for spatial graphs, causal inference, functional depth, and imaging genomics.</p>
         <a class="text-link" href="https://github.com/sagnikbhadury">Explore GitHub <span aria-hidden="true">↗</span></a>
       </article>
     </div>
@@ -183,7 +183,7 @@ redirect_from:
 <section class="modality-band" aria-labelledby="modalities-title">
   <div>
     <p class="section-kicker">Data modalities</p>
-    <h2 id="modalities-title">One statistical toolkit, diverse biomedical questions.</h2>
+    <h2 id="modalities-title">One set of statistical tools, applied across biomedical data types.</h2>
   </div>
   <ul>
     <li>Critical-care phenotyping</li>
@@ -196,7 +196,7 @@ redirect_from:
 
 <section class="contact-band">
   <div>
-    <p class="section-kicker">Let’s connect</p>
+    <p class="section-kicker">Contact</p>
     <h2>Interested in a statistical or biomedical collaboration?</h2>
   </div>
   <div class="contact-band__actions">

@@ -10,30 +10,30 @@ redirect_from:
 
 --- 
 
-Selected peer-reviewed publications, preprints, and collaborative research contributions are listed below. For questions about current manuscripts or ongoing work, please [email me](mailto:bhadury@upenn.edu).
+Peer-reviewed publications, preprints, and collaborative contributions are listed below. For questions about current manuscripts or ongoing work, please [email me](mailto:bhadury@upenn.edu).
 
 # Selected Publications
 
-* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> [ISPat: Informed Spatially Aware Patterns for Multiplexed Immunofluorescence data](https://www.nature.com/articles/s41598-026-35341-8)</span>, **Nature Scientific Reports** &mdash; Bayesian spatial graphical model recovering shared and region-specific cell-cell interaction networks from mIF imaging.</span>
+* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span> et al. <span style ="color:blue"> [ISPat: Informed Spatially Aware Patterns for Multiplexed Immunofluorescence data](https://www.nature.com/articles/s41598-026-35341-8)</span>, **Nature Scientific Reports**. A Bayesian spatial graphical model that recovers shared and region-specific cell-cell interaction networks from mIF imaging.</span>
 
   <figure class="align-center" style="max-width: 760px; margin: 0.75rem auto 1.25rem;">
     <img src="{{ '/images/research/ispat-pipeline.gif' | relative_url }}" alt="Animated walkthrough of the ISPat pipeline: stained mIF image, cell point patterns, domain-informed network, tumor sub-regions, spatial intensities, shared and region-specific interaction networks, simulation results and the PDAC versus IPMN comparison" loading="lazy">
     <figcaption>ISPat pipeline and analyses: from the stained multiplexed image to shared and tumor-region-specific interaction networks, simulation checks, and the PDAC versus IPMN comparison across tumor-density areas.</figcaption>
   </figure>
 * <span style="text-align: justify">Tsang, A., Krishnan, S., Kulkarni, R., <span style ="color:red">Bhadury, S.</span>, Rao, A., et al. <span style ="color:blue"> [Encoding functional edges in graphs to model spatially varying relationships in the tumor microenvironment](https://doi.org/10.1038/s44387-026-00075-5)</span>, **npj Artificial Intelligence**.</span>
-* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Rao, A. <span style ="color:blue"> [Estimating conditional cell population associations across tumor density trajectory in three dimensional tissue images (ISPat 3D)](https://www.nature.com/articles/s41598-026-73151-0)</span>, **Nature Scientific Reports** &mdash; extends ISPat to three-dimensional tissue images, estimating how conditional cell population associations change along tumor density trajectories. The R package [ISPAT3D](https://cran.r-project.org/web/packages/ISPAT3D/) is available on CRAN.</span>
+* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Rao, A. <span style ="color:blue"> [Estimating conditional cell population associations across tumor density trajectory in three dimensional tissue images (ISPat 3D)](https://www.nature.com/articles/s41598-026-73151-0)</span>, **Nature Scientific Reports**. The method extends ISPat to three-dimensional tissue images and estimates how conditional cell population associations change along tumor density trajectories. The R package [ISPAT3D](https://cran.r-project.org/web/packages/ISPAT3D/) is available on CRAN.</span>
 
   <figure class="align-center" style="max-width: 760px; margin: 0.75rem auto 1.25rem;">
     <img src="{{ '/images/research/ispat3d-pipeline.gif' | relative_url }}" alt="Animated walkthrough of the ISPat 3D pipeline on a registered colorectal cancer CyCIF volume: why 3D, the volumetric neighborhoods, tumor-density trajectory, and the conditional association networks along it" loading="lazy">
     <figcaption>ISPat 3D on a registered colorectal cancer CyCIF volume: single-plane versus volumetric neighborhoods, the tumor-density trajectory, and how conditional cell population associations change along it.</figcaption>
   </figure>
-* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Tsang, A., Ray, D., Lagisetty, K., Kundu, S., Rao, A. <span style ="color:blue">Graph-on-Vector Association Modeling of Histopathological and Transcriptomic Features in Lung Adenocarcinoma</span>, **npj Artificial Intelligence** (accepted) &mdash; graph-on-vector regression of pathway, kinase and transcription-factor activities on participant-specific histomorphological phenotype graphs in TCGA-LUAD, with node-level Bayesian variable selection.</span>
+* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Tsang, A., Ray, D., Lagisetty, K., Kundu, S., Rao, A. <span style ="color:blue">Graph-on-Vector Association Modeling of Histopathological and Transcriptomic Features in Lung Adenocarcinoma</span>, **npj Artificial Intelligence** (accepted). Graph-on-vector regression of pathway, kinase and transcription-factor activities on participant-specific histomorphological phenotype graphs in TCGA-LUAD, with node-level Bayesian variable selection.</span>
 
   <figure class="align-center" style="max-width: 760px; margin: 0.75rem auto 1.25rem;">
     <img src="{{ '/images/research/gov-pipeline.gif' | relative_url }}" alt="Animated walkthrough of the graph-on-vector pipeline in TCGA lung adenocarcinoma: survival-rank cohort split, H&amp;E morphology, graph construction, molecular activity scores, graph-on-vector regression, and pathway, kinase and transcription-factor results" loading="lazy">
     <figcaption>Graph-on-vector association modeling in TCGA-LUAD: survival-rank cohort split, H&amp;E-derived morphology graphs, molecular activity scores, the graph-on-vector regression, and pathway, kinase and transcription-factor results.</figcaption>
   </figure>
-* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Mitra, R., Gaskins, J. <span style ="color:blue"> [Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation](https://arxiv.org/abs/2308.02713)</span> &mdash; foundational methods work underlying the spatial and multi-modal graphical models above.</span>
+* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Mitra, R., Gaskins, J. <span style ="color:blue"> [Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation](https://arxiv.org/abs/2308.02713)</span>. This methods paper underlies the spatial and multi-modal graphical models above.</span>
 
 See [Research]({{ "/research/" | relative_url }}) for how these fit into the broader research program, organized by theme.
 

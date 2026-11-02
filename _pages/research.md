@@ -6,19 +6,19 @@ author_profile: true
 description: "Research in Bayesian graphical models, spatial statistics, Gaussian processes, spatial transcriptomics, multimodal imaging genomics, causal inference, Bayesian methods for AI interpretability, and clinical trials and longitudinal biomedical data."
 ---
 
-<span style="text-align: justify">My work is organized around eight connected research directions rather than a single project. Across them, I develop **Bayesian graphical models, global-local shrinkage methods, spatial and Gaussian-process models, causal inference, and multimodal learning**, and apply them to cancer biology, the tumor microenvironment, clinical studies, and the internal representations of modern AI models. See [Publications]({{ "/publications/" | relative_url }}) for full citations and [Data & Projects]({{ "/datasets/" | relative_url }}) for code and model figures.</span>
+<span style="text-align: justify">My research falls into eight connected directions. Across them, I develop **Bayesian graphical models, global-local shrinkage methods, spatial and Gaussian-process models, causal inference, and multimodal learning**, and I apply them to cancer biology, the tumor microenvironment, clinical studies, and the internal representations of modern AI models. See [Publications]({{ "/publications/" | relative_url }}) for full citations and [Data & Projects]({{ "/datasets/" | relative_url }}) for code and model figures.</span>
 
 <div class="domain-callout">
   <p class="domain-callout__label">Research domain guide</p>
   <h2>How the statistical and biomedical vocabulary fits together</h2>
-  <p>For a detailed, literature-grounded map of terms such as precision matrices, cellular neighborhoods, spatially variable genes, ligand–receptor communication, pathomics, and radiogenomics, read the <a href="{{ '/research-domains/' | relative_url }}">research domains &amp; methods guide →</a></p>
+  <p>For a literature-grounded map of terms such as precision matrices, cellular neighborhoods, spatially variable genes, ligand–receptor communication, pathomics, and radiogenomics, read the <a href="{{ '/research-domains/' | relative_url }}">research domains &amp; methods guide →</a></p>
 </div>
 
 ---
 
 ## 1. Bayesian Graphical Models & Sparse Network Estimation
 
-<span style="text-align: justify">Foundational methods work on **Bayesian Gaussian graphical models**, where a sparse precision matrix encodes conditional-dependence edges between variables. I study scalable covariance selection and neighborhood selection under horseshoe and spike-and-slab priors, joint estimation of related networks through shared shrinkage, and regression with a network-valued predictor ([GOV](https://github.com/sagnikbhadury/GOV)).</span>
+<span style="text-align: justify">This direction is methods work on **Bayesian Gaussian graphical models**, in which a sparse precision matrix encodes the conditional-dependence edges between variables. I study scalable covariance selection and neighborhood selection under horseshoe and spike-and-slab priors, joint estimation of related networks through shared shrinkage, and regression with a network-valued predictor ([GOV](https://github.com/sagnikbhadury/GOV)).</span>
 
 <div class="term-row" aria-label="Bayesian graphical model topics">
   <span>sparse precision matrices</span><span>global-local shrinkage</span><span>covariance selection</span><span>differential networks</span><span>uncertainty quantification</span>
@@ -29,7 +29,7 @@ description: "Research in Bayesian graphical models, spatial statistics, Gaussia
 
 ## 2. Spatial Statistics for Multiplexed Tissue Imaging
 
-<span style="text-align: justify">I develop spatially varying graphical models for the **tumor immune microenvironment**, recovering shared and region-specific cell–cell interaction networks from 2D and 3D multiplexed immunofluorescence data. The models connect spatial heterogeneity, cellular neighborhoods, and tissue architecture with Gaussian-process structure and spatially adaptive shrinkage.</span>
+<span style="text-align: justify">I develop spatially varying graphical models for the **tumor immune microenvironment**. The models recover shared and region-specific cell–cell interaction networks from 2D and 3D multiplexed immunofluorescence data. They use Gaussian-process structure and spatially adaptive shrinkage, so that an edge can change strength across tissue regions.</span>
 
 <div class="term-row" aria-label="Spatial tissue imaging topics">
   <span>multiplex immunofluorescence</span><span>spatial proteomics</span><span>cellular neighborhoods</span><span>3D tissue imaging</span><span>tumor microenvironment</span>
@@ -41,7 +41,7 @@ description: "Research in Bayesian graphical models, spatial statistics, Gaussia
 
 ## 3. Gaussian Processes & Spatial Point Patterns
 
-<span style="text-align: justify">Spatial studies rarely measure every outcome at every location. I build **multivariate Gaussian-process models** that borrow strength across outcomes observed at misaligned locations, with shrinkage priors deciding how much to borrow, and **Bayesian models for spatial point patterns** that treat cell locations themselves as the data.</span>
+<span style="text-align: justify">Spatial studies rarely measure every outcome at every location. I build **multivariate Gaussian-process models** that borrow strength across outcomes observed at misaligned locations. Shrinkage priors on the coregionalization weights decide how much to borrow. In parallel, I develop **Bayesian models for spatial point patterns**, in which the cell locations are the data.</span>
 
 <div class="term-row" aria-label="Gaussian process topics">
   <span>multivariate Gaussian processes</span><span>coregionalization</span><span>misaligned outcomes</span><span>meshed GPs</span><span>point processes</span>
@@ -52,7 +52,7 @@ description: "Research in Bayesian graphical models, spatial statistics, Gaussia
 
 ## 4. Spatial Transcriptomics & Compositional Data
 
-<span style="text-align: justify">Spot-level spatial transcriptomics measures mixtures of cells, so cell-type proportions are **compositional**: they sum to one, contain zeros, and are spatially dependent. I am developing regression models for spatial compositional data, and shrinkage-based image-basis regression models that link tissue morphology to gene expression.</span>
+<span style="text-align: justify">Spot-level spatial transcriptomics measures mixtures of cells, so the estimated cell-type proportions are **compositional**. They sum to one, often contain exact zeros, and are spatially dependent. I am developing regression models for spatial compositional data, and shrinkage-based image-basis regression models that link tissue morphology to gene expression on the same section.</span>
 
 <div class="term-row" aria-label="Spatial transcriptomics topics">
   <span>compositional regression</span><span>cell-type proportions</span><span>zeros in compositions</span><span>morphology–expression association</span><span>spatially variable genes</span>
@@ -63,7 +63,7 @@ description: "Research in Bayesian graphical models, spatial statistics, Gaussia
 
 ## 5. Multi-Modal Integration & Imaging Genomics
 
-<span style="text-align: justify">This work fuses histopathology, spatial transcriptomics, radiomics, and molecular features into coherent predictive or inferential models. The scientific targets include gene regulatory and ligand–receptor interactions, image–transcriptome associations, multimodal survival analysis, and how much molecular information pathology foundation models actually carry.</span>
+<span style="text-align: justify">This direction combines histopathology, spatial transcriptomics, radiomics, and molecular features in one predictive or inferential model. The scientific targets include gene regulatory and ligand–receptor interactions, image–transcriptome associations, multimodal survival analysis, and the amount of molecular information carried by the embeddings of pathology foundation models.</span>
 
 <div class="term-row" aria-label="Multimodal imaging genomics topics">
   <span>spatial multi-omics</span><span>computational pathology</span><span>pathology foundation models</span><span>radiogenomics</span><span>cell–cell communication</span>
@@ -76,7 +76,7 @@ description: "Research in Bayesian graphical models, spatial statistics, Gaussia
 
 ## 6. Causal Inference & Functional Data Analysis
 
-<span style="text-align: justify">I use causal mediation and sensitivity analysis to separate what spatial cell-type co-occurrence reflects: differences in **tissue composition** versus genuine **spatial organization**, with explicit attention to the assumptions that separate association from causal interpretation. In parallel, functional-depth-based classifiers turn curve-valued histopathology features into robust biomarkers for tumor subtyping.</span>
+<span style="text-align: justify">Two cell types can appear spatially close because a tissue contains more of both. I use causal mediation and sensitivity analysis to separate the part of a spatial co-occurrence explained by **tissue composition** from the part that reflects **spatial organization**, and I state the assumptions each step needs. In parallel, functional-depth classifiers turn curve-valued histopathology features into robust biomarkers for tumor subtyping.</span>
 
 <div class="term-row" aria-label="Causal and functional data topics">
   <span>causal mediation</span><span>sensitivity analysis</span><span>compositional confounding</span><span>functional depth</span><span>interpretable biomarkers</span>
@@ -91,7 +91,7 @@ description: "Research in Bayesian graphical models, spatial statistics, Gaussia
 
 ## 7. Bayesian Methods for AI & Interpretability
 
-<span style="text-align: justify">Many questions about large neural networks are, at heart, **high-dimensional variable selection** problems: which learned features carry a behavior, which components can be removed, and whether two models have learned the same thing. I bring global-local shrinkage, Bayesian uncertainty quantification, and error-rate control to the **interpretability and compression of language models**: selecting sparse-autoencoder features with calibrated uncertainty, testing whether the features a dictionary learns are actually used by the model, comparing dictionaries learned by different models, and deciding which components of a large language model can be pruned with statistical guarantees.</span>
+<span style="text-align: justify">Many questions about large neural networks are **high-dimensional variable selection** problems: which learned features carry a behavior, which components can be removed, and whether two models have learned the same thing. I apply global-local shrinkage, posterior uncertainty, and error-rate control to the **interpretability and compression of language models**. The specific tasks are selecting sparse-autoencoder features with calibrated uncertainty, testing whether the features a dictionary learns are used by the model, comparing dictionaries learned by different models, and deciding which components of a large language model can be pruned with statistical guarantees.</span>
 
 <div class="term-row" aria-label="AI and interpretability topics">
   <span>sparse autoencoders</span><span>mechanistic interpretability</span><span>feature selection</span><span>model diffing</span><span>LLM pruning</span><span>error-rate control</span>
@@ -103,7 +103,7 @@ description: "Research in Bayesian graphical models, spatial statistics, Gaussia
 
 ## 8. Clinical Trials & Longitudinal Biomedical Data
 
-<span style="text-align: justify">At Penn Medicine, I work on **Bayesian clinical trial design** and on longitudinal modeling of repeated biomarker and outcome data: joint models linking biomarker trajectories to time-to-event outcomes, mixed-effects models for serial plasma and omics measurements, and competing-risks frameworks for informative missingness due to death or dropout. This includes high-dimensional multi-omic integration across CyTOF, proteomics, transcriptomics, and cfDNA methylomics for biomedical phenotyping.</span>
+<span style="text-align: justify">At Penn Medicine, I work on **Bayesian clinical trial design** and on longitudinal modeling of repeated biomarker and outcome data. The models include joint models that link biomarker trajectories to time-to-event outcomes, mixed-effects models for serial plasma and omics measurements, and competing-risks frameworks for informative missingness due to death or dropout. This work also includes high-dimensional multi-omic integration across CyTOF, proteomics, transcriptomics, and cfDNA methylomics for biomedical phenotyping.</span>
 
 <div class="term-row" aria-label="Clinical trials and longitudinal data topics">
   <span>Bayesian trial design</span><span>joint models</span><span>competing risks</span><span>informative missingness</span><span>multi-omic phenotyping</span>
