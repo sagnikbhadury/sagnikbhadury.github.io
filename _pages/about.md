@@ -166,11 +166,12 @@ redirect_from:
 
     <div class="featured-list">
       <article>
-        <p class="card-label">Published · 3D imaging</p>
+        <p class="card-label">Published · Scientific Reports · R package on CRAN</p>
         <h3>ISPat 3D</h3>
-        <p>Conditional cell population associations across tumor density trajectories in three-dimensional tissue images, published in Scientific Reports. The R package ISPAT3D is on CRAN.</p>
+        <p>ISPat 3D extends ISPat to registered three-dimensional tissue volumes. It estimates how conditional cell population associations change along the tumor density trajectory, with volumetric neighborhoods in place of single-plane ones. The method is implemented in the R package ISPAT3D (v0.3.1 on CRAN), which also powers the ISPat 2D and 3D paths of the Spatial Methods Workbench.</p>
         <a class="text-link" href="https://www.nature.com/articles/s41598-026-73151-0">Read article <span aria-hidden="true">↗</span></a>
         <a class="text-link" href="https://cran.r-project.org/web/packages/ISPAT3D/">ISPAT3D on CRAN <span aria-hidden="true">↗</span></a>
+        <a class="text-link" href="https://github.com/sagnikbhadury/ISPAT-3D">View code <span aria-hidden="true">↗</span></a>
       </article>
       <article>
         <p class="card-label">Open-source methods</p>
