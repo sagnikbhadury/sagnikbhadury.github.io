@@ -175,10 +175,11 @@ redirect_from:
         <a class="text-link" href="https://github.com/sagnikbhadury/ISPAT-3D">View code <span aria-hidden="true">↗</span></a>
       </article>
       <article>
-        <p class="card-label">Open-source methods</p>
-        <h3>Seven research repositories</h3>
-        <p>Reproducible implementations for spatial graphs, causal inference, functional depth, and imaging genomics.</p>
+        <p class="card-label">Open-source methods · R, C++ and Python</p>
+        <h3>Ten research repositories</h3>
+        <p>Each published method has a public implementation. The repositories cover spatial interaction networks in 2D and 3D tissue images (ISPAT, ISPAT-3D, GP-GHS), adaptive borrowing across misaligned outcomes in meshed Gaussian process models (meshedghs), patient-level analysis of multiplex imaging (spatialMIFtools), graph-on-vector regression of molecular activity on histology graphs (GOV), causal mediation, functional depth, and tumor shape analysis. The Spatial Methods Workbench wraps the spatial paths in one guided interface.</p>
         <a class="text-link" href="https://github.com/sagnikbhadury">Explore GitHub <span aria-hidden="true">↗</span></a>
+        <a class="text-link" href="https://github.com/sagnikbhadury/SpatialMethodsWorkbench">Workbench source <span aria-hidden="true">↗</span></a>
       </article>
     </div>
   </div>
