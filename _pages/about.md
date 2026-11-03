@@ -91,49 +91,49 @@ redirect_from:
     <a class="theme-card" href="{{ '/research/#1-bayesian-graphical-models--sparse-network-estimation' | relative_url }}">
       <span class="theme-card__number">01</span>
       <h3>Graphical models</h3>
-      <p>High-dimensional network estimation with horseshoe and spike-and-slab priors.</p>
+      <p>Bayesian Gaussian graphical models estimate the conditional-dependence network among many variables. I work on scalable estimation under horseshoe and spike-and-slab priors, joint estimation of related networks, and regression on a network-valued predictor.</p>
       <span class="theme-card__arrow" aria-hidden="true">↗</span>
     </a>
     <a class="theme-card" href="{{ '/research/#2-spatial-statistics-for-multiplexed-tissue-imaging' | relative_url }}">
       <span class="theme-card__number">02</span>
       <h3>Spatial statistics</h3>
-      <p>Cell–cell interaction networks in 2D and 3D multiplexed tissue imaging.</p>
+      <p>Spatially varying graphical models recover shared and region-specific cell–cell interaction networks from 2D and 3D multiplexed immunofluorescence images. An edge can change strength across tissue regions (ISPat, ISPat 3D, GP–GHS).</p>
       <span class="theme-card__arrow" aria-hidden="true">↗</span>
     </a>
     <a class="theme-card" href="{{ '/research/#3-gaussian-processes--spatial-point-patterns' | relative_url }}">
       <span class="theme-card__number">03</span>
       <h3>Gaussian processes</h3>
-      <p>Borrowing strength across misaligned spatial outcomes and point patterns.</p>
+      <p>Multivariate Gaussian processes borrow strength across outcomes measured at misaligned locations, with shrinkage priors deciding how much to borrow. A parallel line models the cell locations themselves as spatial point patterns.</p>
       <span class="theme-card__arrow" aria-hidden="true">↗</span>
     </a>
     <a class="theme-card" href="{{ '/research/#4-spatial-transcriptomics--compositional-data' | relative_url }}">
       <span class="theme-card__number">04</span>
       <h3>Compositional data</h3>
-      <p>Regression for spatial cell-type proportions and morphology–expression links.</p>
+      <p>Spot-level spatial transcriptomics yields cell-type proportions that sum to one, contain exact zeros, and are spatially dependent. I develop regression models for such compositions and image-basis models that link morphology to expression on the same section.</p>
       <span class="theme-card__arrow" aria-hidden="true">↗</span>
     </a>
     <a class="theme-card" href="{{ '/research/#5-multi-modal-integration--imaging-genomics' | relative_url }}">
       <span class="theme-card__number">05</span>
       <h3>Multi-modal integration</h3>
-      <p>Histopathology, transcriptomics, and radiomics combined in one model.</p>
+      <p>Histopathology, spatial transcriptomics, radiomics, and molecular features enter one predictive or inferential model. Current targets are graph-on-vector regression in lung adenocarcinoma and the molecular information carried by pathology foundation-model embeddings.</p>
       <span class="theme-card__arrow" aria-hidden="true">↗</span>
     </a>
     <a class="theme-card" href="{{ '/research/#6-causal-inference--functional-data-analysis' | relative_url }}">
       <span class="theme-card__number">06</span>
       <h3>Causal &amp; functional data</h3>
-      <p>Mediation, sensitivity analysis, and interpretable functional biomarkers.</p>
+      <p>Causal mediation separates the part of a spatial co-occurrence explained by tissue composition from the part that reflects spatial organization. Functional-depth classifiers turn curve-valued histopathology features into interpretable biomarkers for tumor subtyping.</p>
       <span class="theme-card__arrow" aria-hidden="true">↗</span>
     </a>
     <a class="theme-card" href="{{ '/research/#7-bayesian-methods-for-ai--interpretability' | relative_url }}">
       <span class="theme-card__number">07</span>
       <h3>Bayesian methods for AI</h3>
-      <p>Shrinkage and error control for interpretability and pruning of language models.</p>
+      <p>Which learned features carry a behavior, and which components can be removed, are high-dimensional variable-selection questions. I apply global-local shrinkage and error-rate control to sparse-autoencoder features and to the pruning of language models.</p>
       <span class="theme-card__arrow" aria-hidden="true">↗</span>
     </a>
     <a class="theme-card" href="{{ '/research/#8-clinical-trials--longitudinal-biomedical-data' | relative_url }}">
       <span class="theme-card__number">08</span>
       <h3>Clinical trials &amp; longitudinal data</h3>
-      <p>Bayesian trial design, joint models, and multi-omic phenotyping.</p>
+      <p>At Penn Medicine I work on Bayesian early-phase trial design and on longitudinal models for repeated biomarker and outcome data, including joint and competing-risks models. The same program integrates CyTOF, proteomic, transcriptomic, and cfDNA data for critical-care phenotyping.</p>
       <span class="theme-card__arrow" aria-hidden="true">↗</span>
     </a>
   </div>
