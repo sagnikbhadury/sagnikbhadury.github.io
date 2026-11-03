@@ -154,12 +154,13 @@ redirect_from:
         <img src="{{ '/images/research/ispat-schematic.svg' | relative_url }}" alt="Diagram of the ISPat spatial graphical model">
       </div>
       <div class="featured-card__body">
-        <p class="card-label">Published · Scientific Reports</p>
+        <p class="card-label">Published · Scientific Reports · Workbench path</p>
         <h3>ISPat</h3>
-        <p>Informed spatially aware patterns for multiplexed immunofluorescence data.</p>
+        <p>ISPat (Informed Spatially Aware Patterns) is a Bayesian spatial graphical model for multiplexed immunofluorescence images. It recovers the cell-cell interaction network shared across tumor-density areas and the part specific to each area, and it admits prior biological knowledge about which interactions to expect. In pancreatic tissue the model separates PDAC from IPMN by interactions that differ only in the intermediate-density areas. The 2D fit runs through the CRAN package ISPAT3D and is one of the Spatial Methods Workbench paths.</p>
         <div class="card-links">
           <a href="https://www.nature.com/articles/s41598-026-35341-8">Read paper ↗</a>
           <a href="https://github.com/sagnikbhadury/ISPAT">View code ↗</a>
+          <a href="https://cran.r-project.org/web/packages/ISPAT3D/">ISPAT3D on CRAN ↗</a>
         </div>
       </div>
     </article>
