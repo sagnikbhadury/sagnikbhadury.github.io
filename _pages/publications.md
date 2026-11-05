@@ -36,7 +36,7 @@ Peer-reviewed publications, preprints, and collaborative contributions are liste
 * <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Mitra, R., Gaskins, J. <span style ="color:blue"> [Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation](https://arxiv.org/abs/2308.02713)</span>. This methods paper underlies the spatial and multi-modal graphical models above. The R package [GGMsubho](https://github.com/sagnikbhadury/GGMsubho) is available on GitHub.</span>
 
   <figure class="align-center" style="max-width: 760px; margin: 0.75rem auto 1.25rem;">
-    <img src="{{ '/images/research/subho-pipeline.gif' | relative_url }}" alt="Animated walkthrough of the Graphical-SUBHO pipeline: data matrix, node-wise horseshoe regression, ranking of the predictors, step-up model selection, combining neighbourhoods with the AND rule, and the estimated network, followed by the seven figures of the manuscript" loading="lazy">
+    <img src="{{ '/images/research/subho-pipeline.gif' | relative_url }}" alt="Animated walkthrough of the Graphical-SUBHO pipeline: data matrix, node-wise horseshoe regression, ranking of the predictors, step-up model selection, combining neighborhoods with the AND rule, and the estimated network, followed by the seven figures of the manuscript" loading="lazy">
     <figcaption>Graphical-SUBHO pipeline and results: node-wise horseshoe regression, ranking of the predictors, step-up model selection and the AND rule, illustrated on simulated data, followed by the simulation comparisons and the METABRIC triple-negative breast cancer gene networks.</figcaption>
   </figure>
 
