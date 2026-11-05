@@ -130,9 +130,11 @@ Each method below was developed for a particular data type, and the projects are
 
 ## Software
 
-* <span style="text-align: justify"><span style="color:blue">[GGMsubho](https://github.com/sagnikbhadury/GGMsubho)</span> (v0.1.0). R package for sparse Gaussian graphical model estimation with step-up Bayesian horseshoe selection.</span>
-* <span style="text-align: justify"><span style="color:blue">[Spatial Methods Workbench]({{ "/spatial-methods-workbench/" | relative_url }})</span> (v0.4.0). A browser application that runs exploratory through advanced spatial network analyses on uploaded data, calling the CRAN ISPAT3D and GPGHS engines. [Application](https://sagnikbhadury.shinyapps.io/spatial-methods-workbench/) | [Zenodo](https://doi.org/10.5281/zenodo.23627817) | [GitHub](https://github.com/sagnikbhadury/SpatialMethodsWorkbench)</span>
 * <span style="text-align: justify"><span style="color:blue">[ISPAT3D](https://cran.r-project.org/web/packages/ISPAT3D/)</span> (v0.3.1). R package on CRAN for spatial conditional association networks in registered tumor volumes. [GitHub](https://github.com/sagnikbhadury/ISPAT-3D)</span>
+* <span style="text-align: justify"><span style="color:blue">[ISPAT](https://github.com/sagnikbhadury/ISPAT)</span> (v0.1.0). R package for informed spatially aware patterns in multiplexed immunofluorescence data.</span>
+* <span style="text-align: justify"><span style="color:blue">[GOV](https://github.com/sagnikbhadury/GOV)</span> (v0.2.0). R package for graph-on-vector regression with a latent scale Gaussian process.</span>
+* <span style="text-align: justify"><span style="color:blue">[GGMsubho](https://github.com/sagnikbhadury/GGMsubho)</span> (v0.1.0). R package for sparse Gaussian graphical model estimation with step-up Bayesian horseshoe selection.</span>
+* <span style="text-align: justify"><span style="color:blue">[Spatial Methods Workbench]({{ "/spatial-methods-workbench/" | relative_url }})</span> (v0.4.0). A browser application that runs exploratory through advanced spatial network analyses on uploaded data, calling the ISPAT3D engine from CRAN and the GPGHS engine. [Application](https://sagnikbhadury.shinyapps.io/spatial-methods-workbench/) | [Zenodo](https://doi.org/10.5281/zenodo.23627817) | [GitHub](https://github.com/sagnikbhadury/SpatialMethodsWorkbench)</span>
 
 ---
 

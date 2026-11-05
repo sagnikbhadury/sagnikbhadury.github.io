@@ -66,6 +66,9 @@ See [Research]({{ "/research/" | relative_url }}) for how these fit into the bro
 # Software
 
 * <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span> <span style ="color:blue">[ISPAT3D: Spatial Conditional Association Networks in Registered Tumor Volumes](https://cran.r-project.org/web/packages/ISPAT3D/)</span>, R package on **CRAN** (v0.3.1). [GitHub](https://github.com/sagnikbhadury/ISPAT-3D)</span>
+* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span> <span style ="color:blue">[ISPAT: Informed Spatially Aware Patterns for Multiplexed Immunofluorescence Data](https://github.com/sagnikbhadury/ISPAT)</span>, R package on **GitHub** (v0.1.0).</span>
+* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span> <span style ="color:blue">[GOV: Graph on Vector Regression with Latent Scale Gaussian Process](https://github.com/sagnikbhadury/GOV)</span>, R package on **GitHub** (v0.2.0).</span>
+* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Mitra, R., Gaskins, J. <span style ="color:blue">[GGMsubho: Sparse Gaussian Graphical Model Estimation with Step-Up Bayesian Horseshoe Selection](https://github.com/sagnikbhadury/GGMsubho)</span>, R package on **GitHub** (v0.1.0).</span>
 * <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span> <span style ="color:blue">[Spatial Methods Workbench]({{ "/spatial-methods-workbench/" | relative_url }})</span> (v0.4.0). [Zenodo](https://doi.org/10.5281/zenodo.23627817) | [GitHub](https://github.com/sagnikbhadury/SpatialMethodsWorkbench)</span>
 
 # Published
