@@ -33,13 +33,18 @@ Peer-reviewed publications, preprints, and collaborative contributions are liste
     <img src="{{ '/images/research/gov-pipeline.gif' | relative_url }}" alt="Animated walkthrough of the graph-on-vector pipeline in TCGA lung adenocarcinoma: survival-rank cohort split, H&amp;E morphology, graph construction, molecular activity scores, graph-on-vector regression, and pathway, kinase and transcription-factor results" loading="lazy">
     <figcaption>Graph-on-vector association modeling in TCGA-LUAD: survival-rank cohort split, H&amp;E-derived morphology graphs, molecular activity scores, the graph-on-vector regression, and pathway, kinase and transcription-factor results.</figcaption>
   </figure>
-* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Mitra, R., Gaskins, J. <span style ="color:blue"> [Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation](https://arxiv.org/abs/2308.02713)</span>. This methods paper underlies the spatial and multi-modal graphical models above.</span>
+* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Mitra, R., Gaskins, J. <span style ="color:blue"> [Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation](https://arxiv.org/abs/2308.02713)</span>. This methods paper underlies the spatial and multi-modal graphical models above. The R package [GGMsubho](https://github.com/sagnikbhadury/GGMsubho) is available on GitHub.</span>
+
+  <figure class="align-center" style="max-width: 760px; margin: 0.75rem auto 1.25rem;">
+    <img src="{{ '/images/research/subho-pipeline.gif' | relative_url }}" alt="Animated walkthrough of the Graphical-SUBHO pipeline: data matrix, node-wise horseshoe regression, ranking of the predictors, step-up model selection, combining neighbourhoods with the AND rule, and the estimated network, followed by the seven figures of the manuscript" loading="lazy">
+    <figcaption>Graphical-SUBHO pipeline and results: node-wise horseshoe regression, ranking of the predictors, step-up model selection and the AND rule, illustrated on simulated data, followed by the simulation comparisons and the METABRIC triple-negative breast cancer gene networks.</figcaption>
+  </figure>
 
 See [Research]({{ "/research/" | relative_url }}) for how these fit into the broader research program, organized by theme.
 
 # Manuscripts and Preprints
 
-* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Mitra, R., Gaskins, J. <span style ="color:blue">[Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation](https://arxiv.org/abs/2308.02713)</span></span>
+* <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Mitra, R., Gaskins, J. <span style ="color:blue">[Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation](https://arxiv.org/abs/2308.02713)</span>. R package: [GGMsubho](https://github.com/sagnikbhadury/GGMsubho).</span>
 * <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Gaskins, J., Rao, A. <span style ="color:blue">[Spatially Varying Graphical Models for Cell-Cell Interaction Networks in Multiplexed Tissue Imaging](https://doi.org/10.64898/2026.04.01.715977)</span></span>
 * <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Tsang, A.P., Ray, D., Lagisetty, K., Rao, A. <span style ="color:blue">[Functional Depth Biomarkers Distinguish Lung Squamous Cell Carcinoma from Lung Adenocarcinoma](https://doi.org/10.21203/rs.3.rs-9347794/v1)</span></span>
 * <span style="text-align: justify"><span style ="color:red">Bhadury, S.</span>, Frankel, T.L., Rao, A. <span style ="color:blue">[Cellular Proximity and Conditional Coordination in the Colorectal and Pancreatic Tumor Microenvironment: A Patient-Level Analysis of Multiplexed Imaging](https://doi.org/10.64898/2026.10.08.757632)</span></span>
