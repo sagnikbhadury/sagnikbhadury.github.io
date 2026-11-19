@@ -80,7 +80,7 @@ Each method below was developed for a particular data type, and the projects are
 
 <span style="text-align: justify">MRI provides tumor shape and radiomic features that characterize tumor phenotype without a biopsy. I combine these features with other modalities in multimodal survival models.</span>
 
-* <span style="text-align: justify">Statistical shape analysis (PCA-based) of MRI-derived tumor contours in lower-grade glioma. [Code](https://github.com/sagnikbhadury/Shape-Analysis-of-LGG)</span>
+* <span style="text-align: justify">Elastic shape analysis of MRI-derived tumor contours in lower-grade glioma, released as the elasticshape MATLAB/Octave and Python packages for extracting and analyzing outlines from segmentation masks. [Code](https://github.com/sagnikbhadury/Shape-Analysis-of-LGG)</span>
 
 * <span style="text-align: justify"><span style="color:red">Bhadury, S.</span>, Mohammed, S., Kurtek, S., Rao, A. <span style="color:blue">RISM: Radiomic Feature Integration with Spike-and-Slab for Multimodal Survival Analysis</span>. Spike-and-slab variable selection for integrating MRI-derived radiomic features with other modalities in survival models. (In preparation)</span>
 

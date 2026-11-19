@@ -103,7 +103,7 @@ My functional-data work addresses a different structure, in which each observati
 
 I also study MRI-derived tumor contours through **statistical shape analysis**, using principal components to represent the dominant modes of geometric variation in lower-grade glioma.
 
-Related projects include spatial mediation analyses in the [Causal-Inference repository](https://github.com/sagnikbhadury/Causal-Inference), [Functional-Depth](https://github.com/sagnikbhadury/Functional-Depth), and [Shape-Analysis-of-LGG](https://github.com/sagnikbhadury/Shape-Analysis-of-LGG).
+Related projects include spatial mediation analyses in the [Causal-Inference repository](https://github.com/sagnikbhadury/Causal-Inference), [pathwaydepth](https://github.com/sagnikbhadury/pathwaydepth), and [elasticshape](https://github.com/sagnikbhadury/Shape-Analysis-of-LGG).
 
 <div class="term-panel">
   <strong>Domain terminology</strong>
