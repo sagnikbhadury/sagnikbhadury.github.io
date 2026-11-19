@@ -74,7 +74,7 @@ Each method below was developed for a particular data type, and the projects are
 
 * <span style="text-align: justify"><span style="color:red">Bhadury, S.</span>, Kulkarni, R., Rao, A. <span style="color:blue">Quantifying Biological Signal in Pathology Foundation Models through Bayesian Mutual Information Estimation</span>. Compares pathology foundation models by the molecular information their tile embeddings carry, against permutation nulls. (In preparation)</span>
 
-* <span style="text-align: justify"><span style="color:red">Bhadury, S.</span>, Tsang, A.P., Ray, D., Lagisetty, K., Rao, A. <span style="color:blue">[Functional Depth Biomarkers Distinguish Lung Squamous Cell Carcinoma from Lung Adenocarcinoma](https://doi.org/10.21203/rs.3.rs-9347794/v1)</span> [Code](https://github.com/sagnikbhadury/Functional-Depth)</span>
+* <span style="text-align: justify"><span style="color:red">Bhadury, S.</span>, Tsang, A.P., Ray, D., Lagisetty, K., Rao, A. <span style="color:blue">[Functional Depth Biomarkers Distinguish Lung Squamous Cell Carcinoma from Lung Adenocarcinoma](https://doi.org/10.21203/rs.3.rs-9347794/v1)</span> [Code](https://github.com/sagnikbhadury/pathwaydepth)</span>
 
 ## Magnetic Resonance Imaging (MRI)
 
@@ -135,6 +135,16 @@ Each method below was developed for a particular data type, and the projects are
 * <span style="text-align: justify"><span style="color:blue">[GOV](https://github.com/sagnikbhadury/GOV)</span> (v0.2.0). R package for graph-on-vector regression with a latent scale Gaussian process.</span>
 * <span style="text-align: justify"><span style="color:blue">[GGMsubho](https://github.com/sagnikbhadury/GGMsubho)</span> (v0.1.0). R package for sparse Gaussian graphical model estimation with step-up Bayesian horseshoe selection.</span>
 * <span style="text-align: justify"><span style="color:blue">[Spatial Methods Workbench]({{ "/spatial-methods-workbench/" | relative_url }})</span> (v0.4.0). A browser application that runs exploratory through advanced spatial network analyses on uploaded data, calling the ISPAT3D engine from CRAN and the GPGHS engine. [Application](https://sagnikbhadury.shinyapps.io/spatial-methods-workbench/) | [Zenodo](https://doi.org/10.5281/zenodo.23627817) | [GitHub](https://github.com/sagnikbhadury/SpatialMethodsWorkbench)</span>
+* <span style="text-align: justify"><span style="color:blue">[GPGHS](https://github.com/sagnikbhadury/GP-GHS)</span> (v1.0.1). R package for spatially varying conditional-dependence networks with the Gaussian process group horseshoe.</span>
+* <span style="text-align: justify"><span style="color:blue">[meshedghs](https://github.com/sagnikbhadury/meshedghs)</span> (v0.1.3). R package for adaptive borrowing across misaligned outcomes in meshed Gaussian process coregionalization models.</span>
+* <span style="text-align: justify"><span style="color:blue">[pathwaydepth](https://github.com/sagnikbhadury/pathwaydepth)</span> (v0.1.2). R package for functional depth features of spatial pathway graphs from spatial transcriptomics data.</span>
+* <span style="text-align: justify"><span style="color:blue">[rism](https://github.com/sagnikbhadury/rism)</span> (v0.2.2). R package for radiomic feature integration with spike-and-slab priors in multimodal survival analysis.</span>
+* <span style="text-align: justify"><span style="color:blue">[spatialMIFtools](https://github.com/sagnikbhadury/spatialMIFtools)</span> (v0.1.0). R package for patient-level spatial analysis of multiplex tissue imaging data, with native R and Python backends.</span>
+* <span style="text-align: justify"><span style="color:blue">[PrecFact](https://github.com/sagnikbhadury/PrecFact)</span> (v1.1.0). R package implementing Bayesian precision factor analysis for Gaussian graphical models (Chandra, Müller and Sarkar, [Bayesian Analysis](https://doi.org/10.1214/24-BA1461)).</span>
+* <span style="text-align: justify"><span style="color:blue">[sblreg](https://github.com/sagnikbhadury/sblreg)</span> (v0.1.0). R/C++ package implementing symmetric bilinear regression of a scalar outcome on network predictors (Wang, Zhang and Dunson, 2019).</span>
+* <span style="text-align: justify"><span style="color:blue">[covassistedGM](https://github.com/sagnikbhadury/cov_assistedGM)</span> (v0.1.0). R package built from the covariate-assisted Bayesian graph learning method for heterogeneous data (Niu, Ni, Pati and Mallick, 2024), with the original samplers, competitors, data and vignettes.</span>
+* <span style="text-align: justify"><span style="color:blue">[Causal-Inference](https://github.com/sagnikbhadury/Causal-Inference)</span>. Analysis code for the mediation and sensitivity analyses of compositional and spatial pathways in the tumor microenvironment.</span>
+* <span style="text-align: justify"><span style="color:blue">[Shape-Analysis-of-LGG](https://github.com/sagnikbhadury/Shape-Analysis-of-LGG)</span>. MATLAB code for PCA-based statistical shape analysis of MRI-derived tumor contours in lower-grade glioma.</span>
 
 ---
 
