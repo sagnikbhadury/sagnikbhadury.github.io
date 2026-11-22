@@ -76,6 +76,11 @@ Each method below was developed for a particular data type, and the projects are
 
 * <span style="text-align: justify"><span style="color:red">Bhadury, S.</span>, Tsang, A.P., Ray, D., Lagisetty, K., Rao, A. <span style="color:blue">[Functional Depth Biomarkers Distinguish Lung Squamous Cell Carcinoma from Lung Adenocarcinoma](https://doi.org/10.21203/rs.3.rs-9347794/v1)</span> [Code](https://github.com/sagnikbhadury/pathwaydepth)</span>
 
+  <figure class="align-center" style="max-width: 760px; margin: 0.75rem auto 1.25rem;">
+    <img src="{{ '/images/research/functional-depth-pipeline.gif' | relative_url }}" alt="Animated walkthrough of the functional depth pipeline: H&amp;E slide, DeepSpot-predicted spatial expression labelled by dominant pathway, the spatial pathway graph, edge weights, pointwise Fraiman-Muniz depth relative to the cohort or to the slide, the evaluation design, and the classification, differential, decision-rule and fusion results" loading="lazy">
+    <figcaption>Functional depth pipeline and results: spatial pathway graphs from histology-predicted expression in 900 TCGA lung cancer patients, edge weights represented by Population and Patient Referenced Depth, patient-level evaluation, the pathway pairs that lie closer in each subtype, validated decision rules and the fusion of the representations. The depth illustration uses a simulated reference sample.</figcaption>
+  </figure>
+
 ## Magnetic Resonance Imaging (MRI)
 
 <span style="text-align: justify">MRI provides tumor shape and radiomic features that characterize tumor phenotype without a biopsy. I combine these features with other modalities in multimodal survival models.</span>
