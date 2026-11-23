@@ -13,6 +13,7 @@ redirect_from:
 # Invited
 ---
 
+* Tools and Technology Seminar, _Department of Computational Medicine and Bioinformatics_, University of Michigan, Ann Arbor, MI, USA; **Estimating Conditional Cell Population Associations Across Tumor Density Trajectory in Three Dimensional Tissue Images**; *Winter 2027 (upcoming)*
 * _Annual Conference of the International Indian Statistical Association_; **Spatially Varying Conditional Volumetric Network Estimation for 3D Tumor Imaging**, at Varanasi, UP, India; *Winter 2026 (upcoming)*
 * Division of Cancer Epidemiology and Genetics, National Cancer Institute, USA; **Spatial Profiling of Multiplexed Immunofluorescence Data from Undirected Cellular Networks to Directionality**; *Spring 2026*
 * _Statistical Spatial Omics Working Group_; **Informed Spatially Aware Patterns for Multiplexed Immunofluorescence Data**; *Spring 2025*
