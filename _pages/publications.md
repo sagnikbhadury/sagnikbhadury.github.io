@@ -99,7 +99,7 @@ See [Research]({{ "/research/" | relative_url }}) for how these fit into the bro
 # Others 
 
 
-* <span style="text-align: justify"> Palavalasa, S., <span style ="color:red">Bhadury, S.</span>, et al.  <span style ="color:blue"> Immune-microenvironment-derived acetylated amino acids promote treatment resistance in glioblastoma by facilitating DNA repair through histone acetylation</span>, **Neuro-Oncology 2026** </span>
+* <span style="text-align: justify"> Palavalasa, S., <span style ="color:red">Bhadury, S.</span>, et al.  <span style ="color:blue"> [Immune-microenvironment-derived acetylated amino acids promote treatment resistance in glioblastoma by facilitating DNA repair through histone acetylation](https://doi.org/10.1093/neuonc/noag189.1248)</span>, **Neuro-Oncology 2026** </span>
 
 * <span style="text-align: justify"> Palavalasa, S., Freeman, J., Singer, A., Gokul, A., Baker, E., Scott, A., Wilder-Romans, K., Shankar, S., Ravikumar, V., <span style ="color:red">Bhadury, S.</span>, et al.  <span style ="color:blue"> [Microglia in the Glioblastoma Microenvironment Secrete Acetylated Amino Acids which Assist in the Repair of Radiation-Induced DNA Damage](https://doi.org/10.1093/neuonc/noae165.1203)</span>, **Neuro-Oncology 2024** </span>
 
